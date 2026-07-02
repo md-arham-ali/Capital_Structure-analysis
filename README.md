@@ -6,7 +6,7 @@ firms — and where is the optimal leverage band? A four-phase, formula-driven a
 piece. Every number traces back to a public source (Screener.in standalone statements,
 FY2015–FY2026 scraped July 2026).
 
-> **Status: complete.** Data fetched & cleaned, python pipeline run, the 14-sheet
+> **Status: Not complete.** Data fetched & cleaned, python pipeline run, the 14-sheet
 
 
 ## Companies
@@ -24,11 +24,10 @@ pip install -r requirements.txt
 ```
 # 1. fetch (bulk rate-limited: 1.2s delay, session reuse, retries w/ backoff)
 python analysis/scripts/scrape_market_data.py    # → raw/market_data.csv + financials.csv
-python analysis/scripts/fetch_schedules.py       # → raw/schedules.csv (cash/payables/capex detail)
 
 # 2. clean (notebooks drive cleaning.py) → data/cleaned/<Company>/*.csv + market_snapshot.csv
 jupyter nbconvert --execute --inplace analysis/notebooks/clean_data.ipynb
-
+```
 
 ## Layout
 ```
