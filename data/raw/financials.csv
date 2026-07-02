@@ -1,0 +1,2689 @@
+LineItem,Period,Value,Unit,ValueRaw,Company,Section
+Sales,FY2015,30806.0,Cr,"30,806",HUL,P&L
+Sales,FY2016,31061.0,Cr,"31,061",HUL,P&L
+Sales,FY2017,31890.0,Cr,"31,890",HUL,P&L
+Sales,FY2018,34525.0,Cr,"34,525",HUL,P&L
+Sales,FY2019,38224.0,Cr,"38,224",HUL,P&L
+Sales,FY2020,38785.0,Cr,"38,785",HUL,P&L
+Sales,FY2021,45996.0,Cr,"45,996",HUL,P&L
+Sales,FY2022,51193.0,Cr,"51,193",HUL,P&L
+Sales,FY2023,59144.0,Cr,"59,144",HUL,P&L
+Sales,FY2024,60469.0,Cr,"60,469",HUL,P&L
+Sales,FY2025,59676.0,Cr,"59,676",HUL,P&L
+Sales,FY2026,61975.0,Cr,"61,975",HUL,P&L
+Expenses,FY2015,25600.0,Cr,"25,600",HUL,P&L
+Expenses,FY2016,25312.0,Cr,"25,312",HUL,P&L
+Expenses,FY2017,25843.0,Cr,"25,843",HUL,P&L
+Expenses,FY2018,27249.0,Cr,"27,249",HUL,P&L
+Expenses,FY2019,29587.0,Cr,"29,587",HUL,P&L
+Expenses,FY2020,29185.0,Cr,"29,185",HUL,P&L
+Expenses,FY2021,34672.0,Cr,"34,672",HUL,P&L
+Expenses,FY2022,38690.0,Cr,"38,690",HUL,P&L
+Expenses,FY2023,45512.0,Cr,"45,512",HUL,P&L
+Expenses,FY2024,46279.0,Cr,"46,279",HUL,P&L
+Expenses,FY2025,45532.0,Cr,"45,532",HUL,P&L
+Expenses,FY2026,47511.0,Cr,"47,511",HUL,P&L
+Operating Profit,FY2015,5205.0,Cr,"5,205",HUL,P&L
+Operating Profit,FY2016,5749.0,Cr,"5,749",HUL,P&L
+Operating Profit,FY2017,6047.0,Cr,"6,047",HUL,P&L
+Operating Profit,FY2018,7276.0,Cr,"7,276",HUL,P&L
+Operating Profit,FY2019,8637.0,Cr,"8,637",HUL,P&L
+Operating Profit,FY2020,9600.0,Cr,"9,600",HUL,P&L
+Operating Profit,FY2021,11324.0,Cr,"11,324",HUL,P&L
+Operating Profit,FY2022,12503.0,Cr,"12,503",HUL,P&L
+Operating Profit,FY2023,13632.0,Cr,"13,632",HUL,P&L
+Operating Profit,FY2024,14190.0,Cr,"14,190",HUL,P&L
+Operating Profit,FY2025,14144.0,Cr,"14,144",HUL,P&L
+Operating Profit,FY2026,14464.0,Cr,"14,464",HUL,P&L
+OPM %,FY2015,17.0,%,17%,HUL,P&L
+OPM %,FY2016,19.0,%,19%,HUL,P&L
+OPM %,FY2017,19.0,%,19%,HUL,P&L
+OPM %,FY2018,21.0,%,21%,HUL,P&L
+OPM %,FY2019,23.0,%,23%,HUL,P&L
+OPM %,FY2020,25.0,%,25%,HUL,P&L
+OPM %,FY2021,25.0,%,25%,HUL,P&L
+OPM %,FY2022,24.0,%,24%,HUL,P&L
+OPM %,FY2023,23.0,%,23%,HUL,P&L
+OPM %,FY2024,23.0,%,23%,HUL,P&L
+OPM %,FY2025,24.0,%,24%,HUL,P&L
+OPM %,FY2026,23.0,%,23%,HUL,P&L
+Other Income,FY2015,1285.0,Cr,"1,285",HUL,P&L
+Other Income,FY2016,533.0,Cr,533,HUL,P&L
+Other Income,FY2017,767.0,Cr,767,HUL,P&L
+Other Income,FY2018,507.0,Cr,507,HUL,P&L
+Other Income,FY2019,437.0,Cr,437,HUL,P&L
+Other Income,FY2020,536.0,Cr,536,HUL,P&L
+Other Income,FY2021,286.0,Cr,286,HUL,P&L
+Other Income,FY2022,359.0,Cr,359,HUL,P&L
+Other Income,FY2023,578.0,Cr,578,HUL,P&L
+Other Income,FY2024,884.0,Cr,884,HUL,P&L
+Other Income,FY2025,1632.0,Cr,"1,632",HUL,P&L
+Other Income,FY2026,5572.0,Cr,"5,572",HUL,P&L
+Interest,FY2015,17.0,Cr,17,HUL,P&L
+Interest,FY2016,15.0,Cr,15,HUL,P&L
+Interest,FY2017,22.0,Cr,22,HUL,P&L
+Interest,FY2018,20.0,Cr,20,HUL,P&L
+Interest,FY2019,28.0,Cr,28,HUL,P&L
+Interest,FY2020,106.0,Cr,106,HUL,P&L
+Interest,FY2021,108.0,Cr,108,HUL,P&L
+Interest,FY2022,98.0,Cr,98,HUL,P&L
+Interest,FY2023,101.0,Cr,101,HUL,P&L
+Interest,FY2024,302.0,Cr,302,HUL,P&L
+Interest,FY2025,350.0,Cr,350,HUL,P&L
+Interest,FY2026,363.0,Cr,363,HUL,P&L
+Depreciation,FY2015,287.0,Cr,287,HUL,P&L
+Depreciation,FY2016,321.0,Cr,321,HUL,P&L
+Depreciation,FY2017,396.0,Cr,396,HUL,P&L
+Depreciation,FY2018,478.0,Cr,478,HUL,P&L
+Depreciation,FY2019,524.0,Cr,524,HUL,P&L
+Depreciation,FY2020,938.0,Cr,938,HUL,P&L
+Depreciation,FY2021,1012.0,Cr,"1,012",HUL,P&L
+Depreciation,FY2022,1025.0,Cr,"1,025",HUL,P&L
+Depreciation,FY2023,1030.0,Cr,"1,030",HUL,P&L
+Depreciation,FY2024,1097.0,Cr,"1,097",HUL,P&L
+Depreciation,FY2025,1122.0,Cr,"1,122",HUL,P&L
+Depreciation,FY2026,1186.0,Cr,"1,186",HUL,P&L
+Profit before tax,FY2015,6187.0,Cr,"6,187",HUL,P&L
+Profit before tax,FY2016,5946.0,Cr,"5,946",HUL,P&L
+Profit before tax,FY2017,6396.0,Cr,"6,396",HUL,P&L
+Profit before tax,FY2018,7285.0,Cr,"7,285",HUL,P&L
+Profit before tax,FY2019,8522.0,Cr,"8,522",HUL,P&L
+Profit before tax,FY2020,9092.0,Cr,"9,092",HUL,P&L
+Profit before tax,FY2021,10490.0,Cr,"10,490",HUL,P&L
+Profit before tax,FY2022,11739.0,Cr,"11,739",HUL,P&L
+Profit before tax,FY2023,13079.0,Cr,"13,079",HUL,P&L
+Profit before tax,FY2024,13675.0,Cr,"13,675",HUL,P&L
+Profit before tax,FY2025,14304.0,Cr,"14,304",HUL,P&L
+Profit before tax,FY2026,18487.0,Cr,"18,487",HUL,P&L
+Tax %,FY2015,30.0,%,30%,HUL,P&L
+Tax %,FY2016,30.0,%,30%,HUL,P&L
+Tax %,FY2017,30.0,%,30%,HUL,P&L
+Tax %,FY2018,28.0,%,28%,HUL,P&L
+Tax %,FY2019,29.0,%,29%,HUL,P&L
+Tax %,FY2020,26.0,%,26%,HUL,P&L
+Tax %,FY2021,24.0,%,24%,HUL,P&L
+Tax %,FY2022,25.0,%,25%,HUL,P&L
+Tax %,FY2023,24.0,%,24%,HUL,P&L
+Tax %,FY2024,26.0,%,26%,HUL,P&L
+Tax %,FY2025,26.0,%,26%,HUL,P&L
+Tax %,FY2026,17.0,%,17%,HUL,P&L
+Net Profit,FY2015,4315.0,Cr,"4,315",HUL,P&L
+Net Profit,FY2016,4137.0,Cr,"4,137",HUL,P&L
+Net Profit,FY2017,4490.0,Cr,"4,490",HUL,P&L
+Net Profit,FY2018,5237.0,Cr,"5,237",HUL,P&L
+Net Profit,FY2019,6036.0,Cr,"6,036",HUL,P&L
+Net Profit,FY2020,6738.0,Cr,"6,738",HUL,P&L
+Net Profit,FY2021,7954.0,Cr,"7,954",HUL,P&L
+Net Profit,FY2022,8818.0,Cr,"8,818",HUL,P&L
+Net Profit,FY2023,9962.0,Cr,"9,962",HUL,P&L
+Net Profit,FY2024,10114.0,Cr,"10,114",HUL,P&L
+Net Profit,FY2025,10644.0,Cr,"10,644",HUL,P&L
+Net Profit,FY2026,15427.0,Cr,"15,427",HUL,P&L
+EPS in Rs,FY2015,19.95,Rs,19.95,HUL,P&L
+EPS in Rs,FY2016,19.12,Rs,19.12,HUL,P&L
+EPS in Rs,FY2017,20.75,Rs,20.75,HUL,P&L
+EPS in Rs,FY2018,24.19,Rs,24.19,HUL,P&L
+EPS in Rs,FY2019,27.88,Rs,27.88,HUL,P&L
+EPS in Rs,FY2020,31.13,Rs,31.13,HUL,P&L
+EPS in Rs,FY2021,33.85,Rs,33.85,HUL,P&L
+EPS in Rs,FY2022,37.53,Rs,37.53,HUL,P&L
+EPS in Rs,FY2023,42.4,Rs,42.40,HUL,P&L
+EPS in Rs,FY2024,43.05,Rs,43.05,HUL,P&L
+EPS in Rs,FY2025,45.3,Rs,45.30,HUL,P&L
+EPS in Rs,FY2026,65.66,Rs,65.66,HUL,P&L
+Dividend Payout %,FY2015,75.0,%,75%,HUL,P&L
+Dividend Payout %,FY2016,84.0,%,84%,HUL,P&L
+Dividend Payout %,FY2017,82.0,%,82%,HUL,P&L
+Dividend Payout %,FY2018,82.0,%,82%,HUL,P&L
+Dividend Payout %,FY2019,79.0,%,79%,HUL,P&L
+Dividend Payout %,FY2020,80.0,%,80%,HUL,P&L
+Dividend Payout %,FY2021,120.0,%,120%,HUL,P&L
+Dividend Payout %,FY2022,91.0,%,91%,HUL,P&L
+Dividend Payout %,FY2023,92.0,%,92%,HUL,P&L
+Dividend Payout %,FY2024,98.0,%,98%,HUL,P&L
+Dividend Payout %,FY2025,117.0,%,117%,HUL,P&L
+Dividend Payout %,FY2026,62.0,%,62%,HUL,P&L
+Equity Capital,FY2015,216.0,Cr,216,HUL,BalanceSheet
+Equity Capital,FY2016,216.0,Cr,216,HUL,BalanceSheet
+Equity Capital,FY2017,216.0,Cr,216,HUL,BalanceSheet
+Equity Capital,FY2018,216.0,Cr,216,HUL,BalanceSheet
+Equity Capital,FY2019,216.0,Cr,216,HUL,BalanceSheet
+Equity Capital,FY2020,216.0,Cr,216,HUL,BalanceSheet
+Equity Capital,FY2021,235.0,Cr,235,HUL,BalanceSheet
+Equity Capital,FY2022,235.0,Cr,235,HUL,BalanceSheet
+Equity Capital,FY2023,235.0,Cr,235,HUL,BalanceSheet
+Equity Capital,FY2024,235.0,Cr,235,HUL,BalanceSheet
+Equity Capital,FY2025,235.0,Cr,235,HUL,BalanceSheet
+Equity Capital,FY2026,235.0,Cr,235,HUL,BalanceSheet
+Reserves,FY2015,3508.0,Cr,"3,508",HUL,BalanceSheet
+Reserves,FY2016,6063.0,Cr,"6,063",HUL,BalanceSheet
+Reserves,FY2017,6274.0,Cr,"6,274",HUL,BalanceSheet
+Reserves,FY2018,6859.0,Cr,"6,859",HUL,BalanceSheet
+Reserves,FY2019,7443.0,Cr,"7,443",HUL,BalanceSheet
+Reserves,FY2020,7815.0,Cr,"7,815",HUL,BalanceSheet
+Reserves,FY2021,47199.0,Cr,"47,199",HUL,BalanceSheet
+Reserves,FY2022,48525.0,Cr,"48,525",HUL,BalanceSheet
+Reserves,FY2023,49986.0,Cr,"49,986",HUL,BalanceSheet
+Reserves,FY2024,50738.0,Cr,"50,738",HUL,BalanceSheet
+Reserves,FY2025,48918.0,Cr,"48,918",HUL,BalanceSheet
+Reserves,FY2026,48988.0,Cr,"48,988",HUL,BalanceSheet
+Borrowings,FY2015,0.0,Cr,0,HUL,BalanceSheet
+Borrowings,FY2016,0.0,Cr,0,HUL,BalanceSheet
+Borrowings,FY2017,0.0,Cr,0,HUL,BalanceSheet
+Borrowings,FY2018,0.0,Cr,0,HUL,BalanceSheet
+Borrowings,FY2019,0.0,Cr,0,HUL,BalanceSheet
+Borrowings,FY2020,0.0,Cr,0,HUL,BalanceSheet
+Borrowings,FY2021,943.0,Cr,943,HUL,BalanceSheet
+Borrowings,FY2022,971.0,Cr,971,HUL,BalanceSheet
+Borrowings,FY2023,1039.0,Cr,"1,039",HUL,BalanceSheet
+Borrowings,FY2024,1374.0,Cr,"1,374",HUL,BalanceSheet
+Borrowings,FY2025,1537.0,Cr,"1,537",HUL,BalanceSheet
+Borrowings,FY2026,1325.0,Cr,"1,325",HUL,BalanceSheet
+Other Liabilities,FY2015,9909.0,Cr,"9,909",HUL,BalanceSheet
+Other Liabilities,FY2016,7641.0,Cr,"7,641",HUL,BalanceSheet
+Other Liabilities,FY2017,8261.0,Cr,"8,261",HUL,BalanceSheet
+Other Liabilities,FY2018,10074.0,Cr,"10,074",HUL,BalanceSheet
+Other Liabilities,FY2019,10206.0,Cr,"10,206",HUL,BalanceSheet
+Other Liabilities,FY2020,11571.0,Cr,"11,571",HUL,BalanceSheet
+Other Liabilities,FY2021,19739.0,Cr,"19,739",HUL,BalanceSheet
+Other Liabilities,FY2022,20006.0,Cr,"20,006",HUL,BalanceSheet
+Other Liabilities,FY2023,20565.0,Cr,"20,565",HUL,BalanceSheet
+Other Liabilities,FY2024,24729.0,Cr,"24,729",HUL,BalanceSheet
+Other Liabilities,FY2025,27623.0,Cr,"27,623",HUL,BalanceSheet
+Other Liabilities,FY2026,27434.0,Cr,"27,434",HUL,BalanceSheet
+Total Liabilities,FY2015,13634.0,Cr,"13,634",HUL,BalanceSheet
+Total Liabilities,FY2016,13920.0,Cr,"13,920",HUL,BalanceSheet
+Total Liabilities,FY2017,14751.0,Cr,"14,751",HUL,BalanceSheet
+Total Liabilities,FY2018,17149.0,Cr,"17,149",HUL,BalanceSheet
+Total Liabilities,FY2019,17865.0,Cr,"17,865",HUL,BalanceSheet
+Total Liabilities,FY2020,19602.0,Cr,"19,602",HUL,BalanceSheet
+Total Liabilities,FY2021,68116.0,Cr,"68,116",HUL,BalanceSheet
+Total Liabilities,FY2022,69737.0,Cr,"69,737",HUL,BalanceSheet
+Total Liabilities,FY2023,71825.0,Cr,"71,825",HUL,BalanceSheet
+Total Liabilities,FY2024,77076.0,Cr,"77,076",HUL,BalanceSheet
+Total Liabilities,FY2025,78313.0,Cr,"78,313",HUL,BalanceSheet
+Total Liabilities,FY2026,77982.0,Cr,"77,982",HUL,BalanceSheet
+Fixed Assets,FY2015,2458.0,Cr,"2,458",HUL,BalanceSheet
+Fixed Assets,FY2016,2914.0,Cr,"2,914",HUL,BalanceSheet
+Fixed Assets,FY2017,4024.0,Cr,"4,024",HUL,BalanceSheet
+Fixed Assets,FY2018,4142.0,Cr,"4,142",HUL,BalanceSheet
+Fixed Assets,FY2019,4343.0,Cr,"4,343",HUL,BalanceSheet
+Fixed Assets,FY2020,5056.0,Cr,"5,056",HUL,BalanceSheet
+Fixed Assets,FY2021,51027.0,Cr,"51,027",HUL,BalanceSheet
+Fixed Assets,FY2022,51034.0,Cr,"51,034",HUL,BalanceSheet
+Fixed Assets,FY2023,51405.0,Cr,"51,405",HUL,BalanceSheet
+Fixed Assets,FY2024,52379.0,Cr,"52,379",HUL,BalanceSheet
+Fixed Assets,FY2025,52907.0,Cr,"52,907",HUL,BalanceSheet
+Fixed Assets,FY2026,52419.0,Cr,"52,419",HUL,BalanceSheet
+CWIP,FY2015,479.0,Cr,479,HUL,BalanceSheet
+CWIP,FY2016,386.0,Cr,386,HUL,BalanceSheet
+CWIP,FY2017,203.0,Cr,203,HUL,BalanceSheet
+CWIP,FY2018,430.0,Cr,430,HUL,BalanceSheet
+CWIP,FY2019,373.0,Cr,373,HUL,BalanceSheet
+CWIP,FY2020,513.0,Cr,513,HUL,BalanceSheet
+CWIP,FY2021,623.0,Cr,623,HUL,BalanceSheet
+CWIP,FY2022,901.0,Cr,901,HUL,BalanceSheet
+CWIP,FY2023,1020.0,Cr,"1,020",HUL,BalanceSheet
+CWIP,FY2024,915.0,Cr,915,HUL,BalanceSheet
+CWIP,FY2025,956.0,Cr,956,HUL,BalanceSheet
+CWIP,FY2026,833.0,Cr,833,HUL,BalanceSheet
+Investments,FY2015,3278.0,Cr,"3,278",HUL,BalanceSheet
+Investments,FY2016,2780.0,Cr,"2,780",HUL,BalanceSheet
+Investments,FY2017,3779.0,Cr,"3,779",HUL,BalanceSheet
+Investments,FY2018,3111.0,Cr,"3,111",HUL,BalanceSheet
+Investments,FY2019,2949.0,Cr,"2,949",HUL,BalanceSheet
+Investments,FY2020,1500.0,Cr,"1,500",HUL,BalanceSheet
+Investments,FY2021,2995.0,Cr,"2,995",HUL,BalanceSheet
+Investments,FY2022,4122.0,Cr,"4,122",HUL,BalanceSheet
+Investments,FY2023,3794.0,Cr,"3,794",HUL,BalanceSheet
+Investments,FY2024,5493.0,Cr,"5,493",HUL,BalanceSheet
+Investments,FY2025,4602.0,Cr,"4,602",HUL,BalanceSheet
+Investments,FY2026,8879.0,Cr,"8,879",HUL,BalanceSheet
+Other Assets,FY2015,7420.0,Cr,"7,420",HUL,BalanceSheet
+Other Assets,FY2016,7840.0,Cr,"7,840",HUL,BalanceSheet
+Other Assets,FY2017,6745.0,Cr,"6,745",HUL,BalanceSheet
+Other Assets,FY2018,9466.0,Cr,"9,466",HUL,BalanceSheet
+Other Assets,FY2019,10200.0,Cr,"10,200",HUL,BalanceSheet
+Other Assets,FY2020,12533.0,Cr,"12,533",HUL,BalanceSheet
+Other Assets,FY2021,13471.0,Cr,"13,471",HUL,BalanceSheet
+Other Assets,FY2022,13680.0,Cr,"13,680",HUL,BalanceSheet
+Other Assets,FY2023,15606.0,Cr,"15,606",HUL,BalanceSheet
+Other Assets,FY2024,18289.0,Cr,"18,289",HUL,BalanceSheet
+Other Assets,FY2025,19848.0,Cr,"19,848",HUL,BalanceSheet
+Other Assets,FY2026,15851.0,Cr,"15,851",HUL,BalanceSheet
+Total Assets,FY2015,13634.0,Cr,"13,634",HUL,BalanceSheet
+Total Assets,FY2016,13920.0,Cr,"13,920",HUL,BalanceSheet
+Total Assets,FY2017,14751.0,Cr,"14,751",HUL,BalanceSheet
+Total Assets,FY2018,17149.0,Cr,"17,149",HUL,BalanceSheet
+Total Assets,FY2019,17865.0,Cr,"17,865",HUL,BalanceSheet
+Total Assets,FY2020,19602.0,Cr,"19,602",HUL,BalanceSheet
+Total Assets,FY2021,68116.0,Cr,"68,116",HUL,BalanceSheet
+Total Assets,FY2022,69737.0,Cr,"69,737",HUL,BalanceSheet
+Total Assets,FY2023,71825.0,Cr,"71,825",HUL,BalanceSheet
+Total Assets,FY2024,77076.0,Cr,"77,076",HUL,BalanceSheet
+Total Assets,FY2025,78313.0,Cr,"78,313",HUL,BalanceSheet
+Total Assets,FY2026,77982.0,Cr,"77,982",HUL,BalanceSheet
+Cash from Operating Activity,FY2015,3272.0,Cr,"3,272",HUL,CashFlow
+Cash from Operating Activity,FY2016,3974.0,Cr,"3,974",HUL,CashFlow
+Cash from Operating Activity,FY2017,4953.0,Cr,"4,953",HUL,CashFlow
+Cash from Operating Activity,FY2018,5913.0,Cr,"5,913",HUL,CashFlow
+Cash from Operating Activity,FY2019,5728.0,Cr,"5,728",HUL,CashFlow
+Cash from Operating Activity,FY2020,7305.0,Cr,"7,305",HUL,CashFlow
+Cash from Operating Activity,FY2021,8957.0,Cr,"8,957",HUL,CashFlow
+Cash from Operating Activity,FY2022,8964.0,Cr,"8,964",HUL,CashFlow
+Cash from Operating Activity,FY2023,9626.0,Cr,"9,626",HUL,CashFlow
+Cash from Operating Activity,FY2024,14884.0,Cr,"14,884",HUL,CashFlow
+Cash from Operating Activity,FY2025,11606.0,Cr,"11,606",HUL,CashFlow
+Cash from Operating Activity,FY2026,10496.0,Cr,"10,496",HUL,CashFlow
+Cash from Investing Activity,FY2015,280.0,Cr,280,HUL,CashFlow
+Cash from Investing Activity,FY2016,-51.0,Cr,-51,HUL,CashFlow
+Cash from Investing Activity,FY2017,-752.0,Cr,-752,HUL,CashFlow
+Cash from Investing Activity,FY2018,-1261.0,Cr,"-1,261",HUL,CashFlow
+Cash from Investing Activity,FY2019,-264.0,Cr,-264,HUL,CashFlow
+Cash from Investing Activity,FY2020,1926.0,Cr,"1,926",HUL,CashFlow
+Cash from Investing Activity,FY2021,-1067.0,Cr,"-1,067",HUL,CashFlow
+Cash from Investing Activity,FY2022,-1732.0,Cr,"-1,732",HUL,CashFlow
+Cash from Investing Activity,FY2023,-1062.0,Cr,"-1,062",HUL,CashFlow
+Cash from Investing Activity,FY2024,-4971.0,Cr,"-4,971",HUL,CashFlow
+Cash from Investing Activity,FY2025,6763.0,Cr,"6,763",HUL,CashFlow
+Cash from Investing Activity,FY2026,-3473.0,Cr,"-3,473",HUL,CashFlow
+Cash from Financing Activity,FY2015,-3450.0,Cr,"-3,450",HUL,CashFlow
+Cash from Financing Activity,FY2016,-4008.0,Cr,"-4,008",HUL,CashFlow
+Cash from Financing Activity,FY2017,-4264.0,Cr,"-4,264",HUL,CashFlow
+Cash from Financing Activity,FY2018,-4651.0,Cr,"-4,651",HUL,CashFlow
+Cash from Financing Activity,FY2019,-5462.0,Cr,"-5,462",HUL,CashFlow
+Cash from Financing Activity,FY2020,-6676.0,Cr,"-6,676",HUL,CashFlow
+Cash from Financing Activity,FY2021,-9280.0,Cr,"-9,280",HUL,CashFlow
+Cash from Financing Activity,FY2022,-7984.0,Cr,"-7,984",HUL,CashFlow
+Cash from Financing Activity,FY2023,-8966.0,Cr,"-8,966",HUL,CashFlow
+Cash from Financing Activity,FY2024,-9890.0,Cr,"-9,890",HUL,CashFlow
+Cash from Financing Activity,FY2025,-13031.0,Cr,"-13,031",HUL,CashFlow
+Cash from Financing Activity,FY2026,-10684.0,Cr,"-10,684",HUL,CashFlow
+Net Cash Flow,FY2015,101.0,Cr,101,HUL,CashFlow
+Net Cash Flow,FY2016,-85.0,Cr,-85,HUL,CashFlow
+Net Cash Flow,FY2017,-63.0,Cr,-63,HUL,CashFlow
+Net Cash Flow,FY2018,1.0,Cr,1,HUL,CashFlow
+Net Cash Flow,FY2019,2.0,Cr,2,HUL,CashFlow
+Net Cash Flow,FY2020,2555.0,Cr,"2,555",HUL,CashFlow
+Net Cash Flow,FY2021,-1390.0,Cr,"-1,390",HUL,CashFlow
+Net Cash Flow,FY2022,-752.0,Cr,-752,HUL,CashFlow
+Net Cash Flow,FY2023,-402.0,Cr,-402,HUL,CashFlow
+Net Cash Flow,FY2024,23.0,Cr,23,HUL,CashFlow
+Net Cash Flow,FY2025,5338.0,Cr,"5,338",HUL,CashFlow
+Net Cash Flow,FY2026,-3661.0,Cr,"-3,661",HUL,CashFlow
+Free Cash Flow,FY2015,3298.0,Cr,"3,298",HUL,CashFlow
+Free Cash Flow,FY2016,3300.0,Cr,"3,300",HUL,CashFlow
+Free Cash Flow,FY2017,4101.0,Cr,"4,101",HUL,CashFlow
+Free Cash Flow,FY2018,5086.0,Cr,"5,086",HUL,CashFlow
+Free Cash Flow,FY2019,5004.0,Cr,"5,004",HUL,CashFlow
+Free Cash Flow,FY2020,6592.0,Cr,"6,592",HUL,CashFlow
+Free Cash Flow,FY2021,5003.0,Cr,"5,003",HUL,CashFlow
+Free Cash Flow,FY2022,8220.0,Cr,"8,220",HUL,CashFlow
+Free Cash Flow,FY2023,8765.0,Cr,"8,765",HUL,CashFlow
+Free Cash Flow,FY2024,13586.0,Cr,"13,586",HUL,CashFlow
+Free Cash Flow,FY2025,10470.0,Cr,"10,470",HUL,CashFlow
+Free Cash Flow,FY2026,9251.0,Cr,"9,251",HUL,CashFlow
+CFO/OP,FY2015,97.0,%,97%,HUL,CashFlow
+CFO/OP,FY2016,99.0,%,99%,HUL,CashFlow
+CFO/OP,FY2017,111.0,%,111%,HUL,CashFlow
+CFO/OP,FY2018,111.0,%,111%,HUL,CashFlow
+CFO/OP,FY2019,97.0,%,97%,HUL,CashFlow
+CFO/OP,FY2020,102.0,%,102%,HUL,CashFlow
+CFO/OP,FY2021,100.0,%,100%,HUL,CashFlow
+CFO/OP,FY2022,93.0,%,93%,HUL,CashFlow
+CFO/OP,FY2023,93.0,%,93%,HUL,CashFlow
+CFO/OP,FY2024,107.0,%,107%,HUL,CashFlow
+CFO/OP,FY2025,97.0,%,97%,HUL,CashFlow
+CFO/OP,FY2026,105.0,%,105%,HUL,CashFlow
+Sales,FY2015,36490.0,Cr,"36,490",ITC,P&L
+Sales,FY2016,36583.0,Cr,"36,583",ITC,P&L
+Sales,FY2017,40080.0,Cr,"40,080",ITC,P&L
+Sales,FY2018,40620.0,Cr,"40,620",ITC,P&L
+Sales,FY2019,44983.0,Cr,"44,983",ITC,P&L
+Sales,FY2020,45620.0,Cr,"45,620",ITC,P&L
+Sales,FY2021,45485.0,Cr,"45,485",ITC,P&L
+Sales,FY2022,56341.0,Cr,"56,341",ITC,P&L
+Sales,FY2023,66043.0,Cr,"66,043",ITC,P&L
+Sales,FY2024,62628.0,Cr,"62,628",ITC,P&L
+Sales,FY2025,69326.0,Cr,"69,326",ITC,P&L
+Sales,FY2026,71984.0,Cr,"71,984",ITC,P&L
+Expenses,FY2015,22970.0,Cr,"22,970",ITC,P&L
+Expenses,FY2016,22843.0,Cr,"22,843",ITC,P&L
+Expenses,FY2017,25474.0,Cr,"25,474",ITC,P&L
+Expenses,FY2018,25041.0,Cr,"25,041",ITC,P&L
+Expenses,FY2019,27551.0,Cr,"27,551",ITC,P&L
+Expenses,FY2020,27635.0,Cr,"27,635",ITC,P&L
+Expenses,FY2021,29895.0,Cr,"29,895",ITC,P&L
+Expenses,FY2022,37448.0,Cr,"37,448",ITC,P&L
+Expenses,FY2023,42062.0,Cr,"42,062",ITC,P&L
+Expenses,FY2024,39193.0,Cr,"39,193",ITC,P&L
+Expenses,FY2025,45419.0,Cr,"45,419",ITC,P&L
+Expenses,FY2026,46787.0,Cr,"46,787",ITC,P&L
+Operating Profit,FY2015,13519.0,Cr,"13,519",ITC,P&L
+Operating Profit,FY2016,13740.0,Cr,"13,740",ITC,P&L
+Operating Profit,FY2017,14605.0,Cr,"14,605",ITC,P&L
+Operating Profit,FY2018,15578.0,Cr,"15,578",ITC,P&L
+Operating Profit,FY2019,17431.0,Cr,"17,431",ITC,P&L
+Operating Profit,FY2020,17985.0,Cr,"17,985",ITC,P&L
+Operating Profit,FY2021,15590.0,Cr,"15,590",ITC,P&L
+Operating Profit,FY2022,18893.0,Cr,"18,893",ITC,P&L
+Operating Profit,FY2023,23981.0,Cr,"23,981",ITC,P&L
+Operating Profit,FY2024,23435.0,Cr,"23,435",ITC,P&L
+Operating Profit,FY2025,23906.0,Cr,"23,906",ITC,P&L
+Operating Profit,FY2026,25196.0,Cr,"25,196",ITC,P&L
+OPM %,FY2015,37.0,%,37%,ITC,P&L
+OPM %,FY2016,38.0,%,38%,ITC,P&L
+OPM %,FY2017,36.0,%,36%,ITC,P&L
+OPM %,FY2018,38.0,%,38%,ITC,P&L
+OPM %,FY2019,39.0,%,39%,ITC,P&L
+OPM %,FY2020,39.0,%,39%,ITC,P&L
+OPM %,FY2021,34.0,%,34%,ITC,P&L
+OPM %,FY2022,34.0,%,34%,ITC,P&L
+OPM %,FY2023,36.0,%,36%,ITC,P&L
+OPM %,FY2024,37.0,%,37%,ITC,P&L
+OPM %,FY2025,34.0,%,34%,ITC,P&L
+OPM %,FY2026,35.0,%,35%,ITC,P&L
+Other Income,FY2015,1518.0,Cr,"1,518",ITC,P&L
+Other Income,FY2016,1767.0,Cr,"1,767",ITC,P&L
+Other Income,FY2017,1981.0,Cr,"1,981",ITC,P&L
+Other Income,FY2018,2528.0,Cr,"2,528",ITC,P&L
+Other Income,FY2019,2382.0,Cr,"2,382",ITC,P&L
+Other Income,FY2020,2825.0,Cr,"2,825",ITC,P&L
+Other Income,FY2021,3195.0,Cr,"3,195",ITC,P&L
+Other Income,FY2022,2649.0,Cr,"2,649",ITC,P&L
+Other Income,FY2023,2506.0,Cr,"2,506",ITC,P&L
+Other Income,FY2024,4100.0,Cr,"4,100",ITC,P&L
+Other Income,FY2025,19206.0,Cr,"19,206",ITC,P&L
+Other Income,FY2026,3115.0,Cr,"3,115",ITC,P&L
+Interest,FY2015,78.0,Cr,78,ITC,P&L
+Interest,FY2016,72.0,Cr,72,ITC,P&L
+Interest,FY2017,45.0,Cr,45,ITC,P&L
+Interest,FY2018,110.0,Cr,110,ITC,P&L
+Interest,FY2019,58.0,Cr,58,ITC,P&L
+Interest,FY2020,80.0,Cr,80,ITC,P&L
+Interest,FY2021,59.0,Cr,59,ITC,P&L
+Interest,FY2022,61.0,Cr,61,ITC,P&L
+Interest,FY2023,74.0,Cr,74,ITC,P&L
+Interest,FY2024,34.0,Cr,34,ITC,P&L
+Interest,FY2025,36.0,Cr,36,ITC,P&L
+Interest,FY2026,70.0,Cr,70,ITC,P&L
+Depreciation,FY2015,962.0,Cr,962,ITC,P&L
+Depreciation,FY2016,1001.0,Cr,"1,001",ITC,P&L
+Depreciation,FY2017,1038.0,Cr,"1,038",ITC,P&L
+Depreciation,FY2018,1145.0,Cr,"1,145",ITC,P&L
+Depreciation,FY2019,1312.0,Cr,"1,312",ITC,P&L
+Depreciation,FY2020,1563.0,Cr,"1,563",ITC,P&L
+Depreciation,FY2021,1562.0,Cr,"1,562",ITC,P&L
+Depreciation,FY2022,1652.0,Cr,"1,652",ITC,P&L
+Depreciation,FY2023,1663.0,Cr,"1,663",ITC,P&L
+Depreciation,FY2024,1357.0,Cr,"1,357",ITC,P&L
+Depreciation,FY2025,1442.0,Cr,"1,442",ITC,P&L
+Depreciation,FY2026,1474.0,Cr,"1,474",ITC,P&L
+Profit before tax,FY2015,13998.0,Cr,"13,998",ITC,P&L
+Profit before tax,FY2016,14434.0,Cr,"14,434",ITC,P&L
+Profit before tax,FY2017,15503.0,Cr,"15,503",ITC,P&L
+Profit before tax,FY2018,16852.0,Cr,"16,852",ITC,P&L
+Profit before tax,FY2019,18444.0,Cr,"18,444",ITC,P&L
+Profit before tax,FY2020,19167.0,Cr,"19,167",ITC,P&L
+Profit before tax,FY2021,17164.0,Cr,"17,164",ITC,P&L
+Profit before tax,FY2022,19830.0,Cr,"19,830",ITC,P&L
+Profit before tax,FY2023,24750.0,Cr,"24,750",ITC,P&L
+Profit before tax,FY2024,26144.0,Cr,"26,144",ITC,P&L
+Profit before tax,FY2025,41634.0,Cr,"41,634",ITC,P&L
+Profit before tax,FY2026,26768.0,Cr,"26,768",ITC,P&L
+Tax %,FY2015,31.0,%,31%,ITC,P&L
+Tax %,FY2016,35.0,%,35%,ITC,P&L
+Tax %,FY2017,34.0,%,34%,ITC,P&L
+Tax %,FY2018,33.0,%,33%,ITC,P&L
+Tax %,FY2019,32.0,%,32%,ITC,P&L
+Tax %,FY2020,21.0,%,21%,ITC,P&L
+Tax %,FY2021,24.0,%,24%,ITC,P&L
+Tax %,FY2022,24.0,%,24%,ITC,P&L
+Tax %,FY2023,24.0,%,24%,ITC,P&L
+Tax %,FY2024,22.0,%,22%,ITC,P&L
+Tax %,FY2025,15.0,%,15%,ITC,P&L
+Tax %,FY2026,24.0,%,24%,ITC,P&L
+Net Profit,FY2015,9608.0,Cr,"9,608",ITC,P&L
+Net Profit,FY2016,9328.0,Cr,"9,328",ITC,P&L
+Net Profit,FY2017,10201.0,Cr,"10,201",ITC,P&L
+Net Profit,FY2018,11223.0,Cr,"11,223",ITC,P&L
+Net Profit,FY2019,12464.0,Cr,"12,464",ITC,P&L
+Net Profit,FY2020,15136.0,Cr,"15,136",ITC,P&L
+Net Profit,FY2021,13032.0,Cr,"13,032",ITC,P&L
+Net Profit,FY2022,15058.0,Cr,"15,058",ITC,P&L
+Net Profit,FY2023,18753.0,Cr,"18,753",ITC,P&L
+Net Profit,FY2024,20422.0,Cr,"20,422",ITC,P&L
+Net Profit,FY2025,35197.0,Cr,"35,197",ITC,P&L
+Net Profit,FY2026,20286.0,Cr,"20,286",ITC,P&L
+EPS in Rs,FY2015,7.99,Rs,7.99,ITC,P&L
+EPS in Rs,FY2016,7.73,Rs,7.73,ITC,P&L
+EPS in Rs,FY2017,8.4,Rs,8.40,ITC,P&L
+EPS in Rs,FY2018,9.2,Rs,9.20,ITC,P&L
+EPS in Rs,FY2019,10.17,Rs,10.17,ITC,P&L
+EPS in Rs,FY2020,12.31,Rs,12.31,ITC,P&L
+EPS in Rs,FY2021,10.59,Rs,10.59,ITC,P&L
+EPS in Rs,FY2022,12.22,Rs,12.22,ITC,P&L
+EPS in Rs,FY2023,15.09,Rs,15.09,ITC,P&L
+EPS in Rs,FY2024,16.36,Rs,16.36,ITC,P&L
+EPS in Rs,FY2025,28.13,Rs,28.13,ITC,P&L
+EPS in Rs,FY2026,16.19,Rs,16.19,ITC,P&L
+Dividend Payout %,FY2015,52.0,%,52%,ITC,P&L
+Dividend Payout %,FY2016,73.0,%,73%,ITC,P&L
+Dividend Payout %,FY2017,57.0,%,57%,ITC,P&L
+Dividend Payout %,FY2018,56.0,%,56%,ITC,P&L
+Dividend Payout %,FY2019,57.0,%,57%,ITC,P&L
+Dividend Payout %,FY2020,82.0,%,82%,ITC,P&L
+Dividend Payout %,FY2021,102.0,%,102%,ITC,P&L
+Dividend Payout %,FY2022,94.0,%,94%,ITC,P&L
+Dividend Payout %,FY2023,103.0,%,103%,ITC,P&L
+Dividend Payout %,FY2024,84.0,%,84%,ITC,P&L
+Dividend Payout %,FY2025,51.0,%,51%,ITC,P&L
+Dividend Payout %,FY2026,90.0,%,90%,ITC,P&L
+Equity Capital,FY2015,802.0,Cr,802,ITC,BalanceSheet
+Equity Capital,FY2016,805.0,Cr,805,ITC,BalanceSheet
+Equity Capital,FY2017,1215.0,Cr,"1,215",ITC,BalanceSheet
+Equity Capital,FY2018,1220.0,Cr,"1,220",ITC,BalanceSheet
+Equity Capital,FY2019,1226.0,Cr,"1,226",ITC,BalanceSheet
+Equity Capital,FY2020,1229.0,Cr,"1,229",ITC,BalanceSheet
+Equity Capital,FY2021,1231.0,Cr,"1,231",ITC,BalanceSheet
+Equity Capital,FY2022,1232.0,Cr,"1,232",ITC,BalanceSheet
+Equity Capital,FY2023,1243.0,Cr,"1,243",ITC,BalanceSheet
+Equity Capital,FY2024,1248.0,Cr,"1,248",ITC,BalanceSheet
+Equity Capital,FY2025,1251.0,Cr,"1,251",ITC,BalanceSheet
+Equity Capital,FY2026,1253.0,Cr,"1,253",ITC,BalanceSheet
+Reserves,FY2015,29934.0,Cr,"29,934",ITC,BalanceSheet
+Reserves,FY2016,40852.0,Cr,"40,852",ITC,BalanceSheet
+Reserves,FY2017,44126.0,Cr,"44,126",ITC,BalanceSheet
+Reserves,FY2018,50180.0,Cr,"50,180",ITC,BalanceSheet
+Reserves,FY2019,56724.0,Cr,"56,724",ITC,BalanceSheet
+Reserves,FY2020,62800.0,Cr,"62,800",ITC,BalanceSheet
+Reserves,FY2021,57774.0,Cr,"57,774",ITC,BalanceSheet
+Reserves,FY2022,60167.0,Cr,"60,167",ITC,BalanceSheet
+Reserves,FY2023,66351.0,Cr,"66,351",ITC,BalanceSheet
+Reserves,FY2024,70985.0,Cr,"70,985",ITC,BalanceSheet
+Reserves,FY2025,66642.0,Cr,"66,642",ITC,BalanceSheet
+Reserves,FY2026,68676.0,Cr,"68,676",ITC,BalanceSheet
+Borrowings,FY2015,53.0,Cr,53,ITC,BalanceSheet
+Borrowings,FY2016,42.0,Cr,42,ITC,BalanceSheet
+Borrowings,FY2017,26.0,Cr,26,ITC,BalanceSheet
+Borrowings,FY2018,18.0,Cr,18,ITC,BalanceSheet
+Borrowings,FY2019,11.0,Cr,11,ITC,BalanceSheet
+Borrowings,FY2020,332.0,Cr,332,ITC,BalanceSheet
+Borrowings,FY2021,329.0,Cr,329,ITC,BalanceSheet
+Borrowings,FY2022,311.0,Cr,311,ITC,BalanceSheet
+Borrowings,FY2023,325.0,Cr,325,ITC,BalanceSheet
+Borrowings,FY2024,312.0,Cr,312,ITC,BalanceSheet
+Borrowings,FY2025,157.0,Cr,157,ITC,BalanceSheet
+Borrowings,FY2026,2162.0,Cr,"2,162",ITC,BalanceSheet
+Other Liabilities,FY2015,13407.0,Cr,"13,407",ITC,BalanceSheet
+Other Liabilities,FY2016,8333.0,Cr,"8,333",ITC,BalanceSheet
+Other Liabilities,FY2017,8849.0,Cr,"8,849",ITC,BalanceSheet
+Other Liabilities,FY2018,10963.0,Cr,"10,963",ITC,BalanceSheet
+Other Liabilities,FY2019,11837.0,Cr,"11,837",ITC,BalanceSheet
+Other Liabilities,FY2020,10874.0,Cr,"10,874",ITC,BalanceSheet
+Other Liabilities,FY2021,12246.0,Cr,"12,246",ITC,BalanceSheet
+Other Liabilities,FY2022,13382.0,Cr,"13,382",ITC,BalanceSheet
+Other Liabilities,FY2023,14343.0,Cr,"14,343",ITC,BalanceSheet
+Other Liabilities,FY2024,14782.0,Cr,"14,782",ITC,BalanceSheet
+Other Liabilities,FY2025,15954.0,Cr,"15,954",ITC,BalanceSheet
+Other Liabilities,FY2026,16825.0,Cr,"16,825",ITC,BalanceSheet
+Total Liabilities,FY2015,44196.0,Cr,"44,196",ITC,BalanceSheet
+Total Liabilities,FY2016,50031.0,Cr,"50,031",ITC,BalanceSheet
+Total Liabilities,FY2017,54216.0,Cr,"54,216",ITC,BalanceSheet
+Total Liabilities,FY2018,62381.0,Cr,"62,381",ITC,BalanceSheet
+Total Liabilities,FY2019,69798.0,Cr,"69,798",ITC,BalanceSheet
+Total Liabilities,FY2020,75235.0,Cr,"75,235",ITC,BalanceSheet
+Total Liabilities,FY2021,71580.0,Cr,"71,580",ITC,BalanceSheet
+Total Liabilities,FY2022,75092.0,Cr,"75,092",ITC,BalanceSheet
+Total Liabilities,FY2023,82262.0,Cr,"82,262",ITC,BalanceSheet
+Total Liabilities,FY2024,87328.0,Cr,"87,328",ITC,BalanceSheet
+Total Liabilities,FY2025,84005.0,Cr,"84,005",ITC,BalanceSheet
+Total Liabilities,FY2026,88916.0,Cr,"88,916",ITC,BalanceSheet
+Fixed Assets,FY2015,14178.0,Cr,"14,178",ITC,BalanceSheet
+Fixed Assets,FY2016,14011.0,Cr,"14,011",ITC,BalanceSheet
+Fixed Assets,FY2017,14880.0,Cr,"14,880",ITC,BalanceSheet
+Fixed Assets,FY2018,15566.0,Cr,"15,566",ITC,BalanceSheet
+Fixed Assets,FY2019,18486.0,Cr,"18,486",ITC,BalanceSheet
+Fixed Assets,FY2020,20518.0,Cr,"20,518",ITC,BalanceSheet
+Fixed Assets,FY2021,22188.0,Cr,"22,188",ITC,BalanceSheet
+Fixed Assets,FY2022,23221.0,Cr,"23,221",ITC,BalanceSheet
+Fixed Assets,FY2023,24174.0,Cr,"24,174",ITC,BalanceSheet
+Fixed Assets,FY2024,25743.0,Cr,"25,743",ITC,BalanceSheet
+Fixed Assets,FY2025,19990.0,Cr,"19,990",ITC,BalanceSheet
+Fixed Assets,FY2026,20472.0,Cr,"20,472",ITC,BalanceSheet
+CWIP,FY2015,2114.0,Cr,"2,114",ITC,BalanceSheet
+CWIP,FY2016,2419.0,Cr,"2,419",ITC,BalanceSheet
+CWIP,FY2017,3537.0,Cr,"3,537",ITC,BalanceSheet
+CWIP,FY2018,5026.0,Cr,"5,026",ITC,BalanceSheet
+CWIP,FY2019,3401.0,Cr,"3,401",ITC,BalanceSheet
+CWIP,FY2020,2780.0,Cr,"2,780",ITC,BalanceSheet
+CWIP,FY2021,3333.0,Cr,"3,333",ITC,BalanceSheet
+CWIP,FY2022,2466.0,Cr,"2,466",ITC,BalanceSheet
+CWIP,FY2023,1697.0,Cr,"1,697",ITC,BalanceSheet
+CWIP,FY2024,1087.0,Cr,"1,087",ITC,BalanceSheet
+CWIP,FY2025,1071.0,Cr,"1,071",ITC,BalanceSheet
+CWIP,FY2026,1554.0,Cr,"1,554",ITC,BalanceSheet
+Investments,FY2015,8405.0,Cr,"8,405",ITC,BalanceSheet
+Investments,FY2016,13325.0,Cr,"13,325",ITC,BalanceSheet
+Investments,FY2017,18585.0,Cr,"18,585",ITC,BalanceSheet
+Investments,FY2018,23397.0,Cr,"23,397",ITC,BalanceSheet
+Investments,FY2019,26578.0,Cr,"26,578",ITC,BalanceSheet
+Investments,FY2020,30631.0,Cr,"30,631",ITC,BalanceSheet
+Investments,FY2021,26984.0,Cr,"26,984",ITC,BalanceSheet
+Investments,FY2022,27282.0,Cr,"27,282",ITC,BalanceSheet
+Investments,FY2023,32721.0,Cr,"32,721",ITC,BalanceSheet
+Investments,FY2024,34739.0,Cr,"34,739",ITC,BalanceSheet
+Investments,FY2025,35983.0,Cr,"35,983",ITC,BalanceSheet
+Investments,FY2026,39111.0,Cr,"39,111",ITC,BalanceSheet
+Other Assets,FY2015,19498.0,Cr,"19,498",ITC,BalanceSheet
+Other Assets,FY2016,20277.0,Cr,"20,277",ITC,BalanceSheet
+Other Assets,FY2017,17213.0,Cr,"17,213",ITC,BalanceSheet
+Other Assets,FY2018,18393.0,Cr,"18,393",ITC,BalanceSheet
+Other Assets,FY2019,21332.0,Cr,"21,332",ITC,BalanceSheet
+Other Assets,FY2020,21307.0,Cr,"21,307",ITC,BalanceSheet
+Other Assets,FY2021,19075.0,Cr,"19,075",ITC,BalanceSheet
+Other Assets,FY2022,22123.0,Cr,"22,123",ITC,BalanceSheet
+Other Assets,FY2023,23670.0,Cr,"23,670",ITC,BalanceSheet
+Other Assets,FY2024,25759.0,Cr,"25,759",ITC,BalanceSheet
+Other Assets,FY2025,26962.0,Cr,"26,962",ITC,BalanceSheet
+Other Assets,FY2026,27779.0,Cr,"27,779",ITC,BalanceSheet
+Total Assets,FY2015,44196.0,Cr,"44,196",ITC,BalanceSheet
+Total Assets,FY2016,50031.0,Cr,"50,031",ITC,BalanceSheet
+Total Assets,FY2017,54216.0,Cr,"54,216",ITC,BalanceSheet
+Total Assets,FY2018,62381.0,Cr,"62,381",ITC,BalanceSheet
+Total Assets,FY2019,69798.0,Cr,"69,798",ITC,BalanceSheet
+Total Assets,FY2020,75235.0,Cr,"75,235",ITC,BalanceSheet
+Total Assets,FY2021,71580.0,Cr,"71,580",ITC,BalanceSheet
+Total Assets,FY2022,75092.0,Cr,"75,092",ITC,BalanceSheet
+Total Assets,FY2023,82262.0,Cr,"82,262",ITC,BalanceSheet
+Total Assets,FY2024,87328.0,Cr,"87,328",ITC,BalanceSheet
+Total Assets,FY2025,84005.0,Cr,"84,005",ITC,BalanceSheet
+Total Assets,FY2026,88916.0,Cr,"88,916",ITC,BalanceSheet
+Cash from Operating Activity,FY2015,9309.0,Cr,"9,309",ITC,CashFlow
+Cash from Operating Activity,FY2016,9212.0,Cr,"9,212",ITC,CashFlow
+Cash from Operating Activity,FY2017,10002.0,Cr,"10,002",ITC,CashFlow
+Cash from Operating Activity,FY2018,12651.0,Cr,"12,651",ITC,CashFlow
+Cash from Operating Activity,FY2019,11749.0,Cr,"11,749",ITC,CashFlow
+Cash from Operating Activity,FY2020,13806.0,Cr,"13,806",ITC,CashFlow
+Cash from Operating Activity,FY2021,11494.0,Cr,"11,494",ITC,CashFlow
+Cash from Operating Activity,FY2022,14808.0,Cr,"14,808",ITC,CashFlow
+Cash from Operating Activity,FY2023,17912.0,Cr,"17,912",ITC,CashFlow
+Cash from Operating Activity,FY2024,16118.0,Cr,"16,118",ITC,CashFlow
+Cash from Operating Activity,FY2025,16754.0,Cr,"16,754",ITC,CashFlow
+Cash from Operating Activity,FY2026,17095.0,Cr,"17,095",ITC,CashFlow
+Cash from Investing Activity,FY2015,-4820.0,Cr,"-4,820",ITC,CashFlow
+Cash from Investing Activity,FY2016,-3711.0,Cr,"-3,711",ITC,CashFlow
+Cash from Investing Activity,FY2017,-2780.0,Cr,"-2,780",ITC,CashFlow
+Cash from Investing Activity,FY2018,-6691.0,Cr,"-6,691",ITC,CashFlow
+Cash from Investing Activity,FY2019,-5082.0,Cr,"-5,082",ITC,CashFlow
+Cash from Investing Activity,FY2020,-5517.0,Cr,"-5,517",ITC,CashFlow
+Cash from Investing Activity,FY2021,6555.0,Cr,"6,555",ITC,CashFlow
+Cash from Investing Activity,FY2022,-1517.0,Cr,"-1,517",ITC,CashFlow
+Cash from Investing Activity,FY2023,-5159.0,Cr,"-5,159",ITC,CashFlow
+Cash from Investing Activity,FY2024,2128.0,Cr,"2,128",ITC,CashFlow
+Cash from Investing Activity,FY2025,36.0,Cr,36,ITC,CashFlow
+Cash from Investing Activity,FY2026,-1538.0,Cr,"-1,538",ITC,CashFlow
+Cash from Financing Activity,FY2015,-4574.0,Cr,"-4,574",ITC,CashFlow
+Cash from Financing Activity,FY2016,-5465.0,Cr,"-5,465",ITC,CashFlow
+Cash from Financing Activity,FY2017,-7138.0,Cr,"-7,138",ITC,CashFlow
+Cash from Financing Activity,FY2018,-6020.0,Cr,"-6,020",ITC,CashFlow
+Cash from Financing Activity,FY2019,-6601.0,Cr,"-6,601",ITC,CashFlow
+Cash from Financing Activity,FY2020,-7891.0,Cr,"-7,891",ITC,CashFlow
+Cash from Financing Activity,FY2021,-18379.0,Cr,"-18,379",ITC,CashFlow
+Cash from Financing Activity,FY2022,-13337.0,Cr,"-13,337",ITC,CashFlow
+Cash from Financing Activity,FY2023,-12730.0,Cr,"-12,730",ITC,CashFlow
+Cash from Financing Activity,FY2024,-18255.0,Cr,"-18,255",ITC,CashFlow
+Cash from Financing Activity,FY2025,-16766.0,Cr,"-16,766",ITC,CashFlow
+Cash from Financing Activity,FY2026,-15694.0,Cr,"-15,694",ITC,CashFlow
+Net Cash Flow,FY2015,-85.0,Cr,-85,ITC,CashFlow
+Net Cash Flow,FY2016,36.0,Cr,36,ITC,CashFlow
+Net Cash Flow,FY2017,84.0,Cr,84,ITC,CashFlow
+Net Cash Flow,FY2018,-60.0,Cr,-60,ITC,CashFlow
+Net Cash Flow,FY2019,67.0,Cr,67,ITC,CashFlow
+Net Cash Flow,FY2020,399.0,Cr,399,ITC,CashFlow
+Net Cash Flow,FY2021,-330.0,Cr,-330,ITC,CashFlow
+Net Cash Flow,FY2022,-46.0,Cr,-46,ITC,CashFlow
+Net Cash Flow,FY2023,22.0,Cr,22,ITC,CashFlow
+Net Cash Flow,FY2024,-9.0,Cr,-9,ITC,CashFlow
+Net Cash Flow,FY2025,24.0,Cr,24,ITC,CashFlow
+Net Cash Flow,FY2026,-138.0,Cr,-138,ITC,CashFlow
+Free Cash Flow,FY2015,6264.0,Cr,"6,264",ITC,CashFlow
+Free Cash Flow,FY2016,7074.0,Cr,"7,074",ITC,CashFlow
+Free Cash Flow,FY2017,7105.0,Cr,"7,105",ITC,CashFlow
+Free Cash Flow,FY2018,10103.0,Cr,"10,103",ITC,CashFlow
+Free Cash Flow,FY2019,8990.0,Cr,"8,990",ITC,CashFlow
+Free Cash Flow,FY2020,11693.0,Cr,"11,693",ITC,CashFlow
+Free Cash Flow,FY2021,9914.0,Cr,"9,914",ITC,CashFlow
+Free Cash Flow,FY2022,13133.0,Cr,"13,133",ITC,CashFlow
+Free Cash Flow,FY2023,16102.0,Cr,"16,102",ITC,CashFlow
+Free Cash Flow,FY2024,13572.0,Cr,"13,572",ITC,CashFlow
+Free Cash Flow,FY2025,15123.0,Cr,"15,123",ITC,CashFlow
+Free Cash Flow,FY2026,15075.0,Cr,"15,075",ITC,CashFlow
+CFO/OP,FY2015,100.0,%,100%,ITC,CashFlow
+CFO/OP,FY2016,102.0,%,102%,ITC,CashFlow
+CFO/OP,FY2017,104.0,%,104%,ITC,CashFlow
+CFO/OP,FY2018,118.0,%,118%,ITC,CashFlow
+CFO/OP,FY2019,99.0,%,99%,ITC,CashFlow
+CFO/OP,FY2020,103.0,%,103%,ITC,CashFlow
+CFO/OP,FY2021,99.0,%,99%,ITC,CashFlow
+CFO/OP,FY2022,102.0,%,102%,ITC,CashFlow
+CFO/OP,FY2023,99.0,%,99%,ITC,CashFlow
+CFO/OP,FY2024,93.0,%,93%,ITC,CashFlow
+CFO/OP,FY2025,95.0,%,95%,ITC,CashFlow
+CFO/OP,FY2026,91.0,%,91%,ITC,CashFlow
+Sales,FY2015,5420.0,Cr,"5,420",Dabur,P&L
+Sales,FY2016,5340.0,Cr,"5,340",Dabur,P&L
+Sales,FY2017,5291.0,Cr,"5,291",Dabur,P&L
+Sales,FY2018,5592.0,Cr,"5,592",Dabur,P&L
+Sales,FY2019,6273.0,Cr,"6,273",Dabur,P&L
+Sales,FY2020,6310.0,Cr,"6,310",Dabur,P&L
+Sales,FY2021,7185.0,Cr,"7,185",Dabur,P&L
+Sales,FY2022,8180.0,Cr,"8,180",Dabur,P&L
+Sales,FY2023,8684.0,Cr,"8,684",Dabur,P&L
+Sales,FY2024,9136.0,Cr,"9,136",Dabur,P&L
+Sales,FY2025,9071.0,Cr,"9,071",Dabur,P&L
+Sales,FY2026,9383.0,Cr,"9,383",Dabur,P&L
+Expenses,FY2015,4480.0,Cr,"4,480",Dabur,P&L
+Expenses,FY2016,4242.0,Cr,"4,242",Dabur,P&L
+Expenses,FY2017,4178.0,Cr,"4,178",Dabur,P&L
+Expenses,FY2018,4360.0,Cr,"4,360",Dabur,P&L
+Expenses,FY2019,4906.0,Cr,"4,906",Dabur,P&L
+Expenses,FY2020,4927.0,Cr,"4,927",Dabur,P&L
+Expenses,FY2021,5626.0,Cr,"5,626",Dabur,P&L
+Expenses,FY2022,6445.0,Cr,"6,445",Dabur,P&L
+Expenses,FY2023,6984.0,Cr,"6,984",Dabur,P&L
+Expenses,FY2024,7295.0,Cr,"7,295",Dabur,P&L
+Expenses,FY2025,7363.0,Cr,"7,363",Dabur,P&L
+Expenses,FY2026,7602.0,Cr,"7,602",Dabur,P&L
+Operating Profit,FY2015,940.0,Cr,940,Dabur,P&L
+Operating Profit,FY2016,1098.0,Cr,"1,098",Dabur,P&L
+Operating Profit,FY2017,1112.0,Cr,"1,112",Dabur,P&L
+Operating Profit,FY2018,1232.0,Cr,"1,232",Dabur,P&L
+Operating Profit,FY2019,1367.0,Cr,"1,367",Dabur,P&L
+Operating Profit,FY2020,1383.0,Cr,"1,383",Dabur,P&L
+Operating Profit,FY2021,1559.0,Cr,"1,559",Dabur,P&L
+Operating Profit,FY2022,1734.0,Cr,"1,734",Dabur,P&L
+Operating Profit,FY2023,1701.0,Cr,"1,701",Dabur,P&L
+Operating Profit,FY2024,1840.0,Cr,"1,840",Dabur,P&L
+Operating Profit,FY2025,1708.0,Cr,"1,708",Dabur,P&L
+Operating Profit,FY2026,1781.0,Cr,"1,781",Dabur,P&L
+OPM %,FY2015,17.0,%,17%,Dabur,P&L
+OPM %,FY2016,21.0,%,21%,Dabur,P&L
+OPM %,FY2017,21.0,%,21%,Dabur,P&L
+OPM %,FY2018,22.0,%,22%,Dabur,P&L
+OPM %,FY2019,22.0,%,22%,Dabur,P&L
+OPM %,FY2020,22.0,%,22%,Dabur,P&L
+OPM %,FY2021,22.0,%,22%,Dabur,P&L
+OPM %,FY2022,21.0,%,21%,Dabur,P&L
+OPM %,FY2023,20.0,%,20%,Dabur,P&L
+OPM %,FY2024,20.0,%,20%,Dabur,P&L
+OPM %,FY2025,19.0,%,19%,Dabur,P&L
+OPM %,FY2026,19.0,%,19%,Dabur,P&L
+Other Income,FY2015,112.0,Cr,112,Dabur,P&L
+Other Income,FY2016,194.0,Cr,194,Dabur,P&L
+Other Income,FY2017,274.0,Cr,274,Dabur,P&L
+Other Income,FY2018,266.0,Cr,266,Dabur,P&L
+Other Income,FY2019,275.0,Cr,275,Dabur,P&L
+Other Income,FY2020,175.0,Cr,175,Dabur,P&L
+Other Income,FY2021,277.0,Cr,277,Dabur,P&L
+Other Income,FY2022,341.0,Cr,341,Dabur,P&L
+Other Income,FY2023,363.0,Cr,363,Dabur,P&L
+Other Income,FY2024,416.0,Cr,416,Dabur,P&L
+Other Income,FY2025,451.0,Cr,451,Dabur,P&L
+Other Income,FY2026,463.0,Cr,463,Dabur,P&L
+Interest,FY2015,10.0,Cr,10,Dabur,P&L
+Interest,FY2016,10.0,Cr,10,Dabur,P&L
+Interest,FY2017,16.0,Cr,16,Dabur,P&L
+Interest,FY2018,22.0,Cr,22,Dabur,P&L
+Interest,FY2019,30.0,Cr,30,Dabur,P&L
+Interest,FY2020,19.0,Cr,19,Dabur,P&L
+Interest,FY2021,9.0,Cr,9,Dabur,P&L
+Interest,FY2022,19.0,Cr,19,Dabur,P&L
+Interest,FY2023,46.0,Cr,46,Dabur,P&L
+Interest,FY2024,81.0,Cr,81,Dabur,P&L
+Interest,FY2025,100.0,Cr,100,Dabur,P&L
+Interest,FY2026,82.0,Cr,82,Dabur,P&L
+Depreciation,FY2015,66.0,Cr,66,Dabur,P&L
+Depreciation,FY2016,73.0,Cr,73,Dabur,P&L
+Depreciation,FY2017,75.0,Cr,75,Dabur,P&L
+Depreciation,FY2018,102.0,Cr,102,Dabur,P&L
+Depreciation,FY2019,109.0,Cr,109,Dabur,P&L
+Depreciation,FY2020,130.0,Cr,130,Dabur,P&L
+Depreciation,FY2021,143.0,Cr,143,Dabur,P&L
+Depreciation,FY2022,160.0,Cr,160,Dabur,P&L
+Depreciation,FY2023,188.0,Cr,188,Dabur,P&L
+Depreciation,FY2024,209.0,Cr,209,Dabur,P&L
+Depreciation,FY2025,251.0,Cr,251,Dabur,P&L
+Depreciation,FY2026,261.0,Cr,261,Dabur,P&L
+Profit before tax,FY2015,977.0,Cr,977,Dabur,P&L
+Profit before tax,FY2016,1209.0,Cr,"1,209",Dabur,P&L
+Profit before tax,FY2017,1294.0,Cr,"1,294",Dabur,P&L
+Profit before tax,FY2018,1373.0,Cr,"1,373",Dabur,P&L
+Profit before tax,FY2019,1503.0,Cr,"1,503",Dabur,P&L
+Profit before tax,FY2020,1408.0,Cr,"1,408",Dabur,P&L
+Profit before tax,FY2021,1683.0,Cr,"1,683",Dabur,P&L
+Profit before tax,FY2022,1896.0,Cr,"1,896",Dabur,P&L
+Profit before tax,FY2023,1829.0,Cr,"1,829",Dabur,P&L
+Profit before tax,FY2024,1967.0,Cr,"1,967",Dabur,P&L
+Profit before tax,FY2025,1808.0,Cr,"1,808",Dabur,P&L
+Profit before tax,FY2026,1901.0,Cr,"1,901",Dabur,P&L
+Tax %,FY2015,22.0,%,22%,Dabur,P&L
+Tax %,FY2016,22.0,%,22%,Dabur,P&L
+Tax %,FY2017,23.0,%,23%,Dabur,P&L
+Tax %,FY2018,22.0,%,22%,Dabur,P&L
+Tax %,FY2019,16.0,%,16%,Dabur,P&L
+Tax %,FY2020,17.0,%,17%,Dabur,P&L
+Tax %,FY2021,18.0,%,18%,Dabur,P&L
+Tax %,FY2022,24.0,%,24%,Dabur,P&L
+Tax %,FY2023,25.0,%,25%,Dabur,P&L
+Tax %,FY2024,23.0,%,23%,Dabur,P&L
+Tax %,FY2025,22.0,%,22%,Dabur,P&L
+Tax %,FY2026,22.0,%,22%,Dabur,P&L
+Net Profit,FY2015,763.0,Cr,763,Dabur,P&L
+Net Profit,FY2016,937.0,Cr,937,Dabur,P&L
+Net Profit,FY2017,998.0,Cr,998,Dabur,P&L
+Net Profit,FY2018,1072.0,Cr,"1,072",Dabur,P&L
+Net Profit,FY2019,1264.0,Cr,"1,264",Dabur,P&L
+Net Profit,FY2020,1170.0,Cr,"1,170",Dabur,P&L
+Net Profit,FY2021,1382.0,Cr,"1,382",Dabur,P&L
+Net Profit,FY2022,1433.0,Cr,"1,433",Dabur,P&L
+Net Profit,FY2023,1373.0,Cr,"1,373",Dabur,P&L
+Net Profit,FY2024,1509.0,Cr,"1,509",Dabur,P&L
+Net Profit,FY2025,1403.0,Cr,"1,403",Dabur,P&L
+Net Profit,FY2026,1491.0,Cr,"1,491",Dabur,P&L
+EPS in Rs,FY2015,4.34,Rs,4.34,Dabur,P&L
+EPS in Rs,FY2016,5.33,Rs,5.33,Dabur,P&L
+EPS in Rs,FY2017,5.67,Rs,5.67,Dabur,P&L
+EPS in Rs,FY2018,6.09,Rs,6.09,Dabur,P&L
+EPS in Rs,FY2019,7.16,Rs,7.16,Dabur,P&L
+EPS in Rs,FY2020,6.62,Rs,6.62,Dabur,P&L
+EPS in Rs,FY2021,7.82,Rs,7.82,Dabur,P&L
+EPS in Rs,FY2022,8.11,Rs,8.11,Dabur,P&L
+EPS in Rs,FY2023,7.75,Rs,7.75,Dabur,P&L
+EPS in Rs,FY2024,8.52,Rs,8.52,Dabur,P&L
+EPS in Rs,FY2025,7.92,Rs,7.92,Dabur,P&L
+EPS in Rs,FY2026,8.41,Rs,8.41,Dabur,P&L
+Dividend Payout %,FY2015,46.0,%,46%,Dabur,P&L
+Dividend Payout %,FY2016,42.0,%,42%,Dabur,P&L
+Dividend Payout %,FY2017,40.0,%,40%,Dabur,P&L
+Dividend Payout %,FY2018,123.0,%,123%,Dabur,P&L
+Dividend Payout %,FY2019,38.0,%,38%,Dabur,P&L
+Dividend Payout %,FY2020,45.0,%,45%,Dabur,P&L
+Dividend Payout %,FY2021,61.0,%,61%,Dabur,P&L
+Dividend Payout %,FY2022,64.0,%,64%,Dabur,P&L
+Dividend Payout %,FY2023,67.0,%,67%,Dabur,P&L
+Dividend Payout %,FY2024,65.0,%,65%,Dabur,P&L
+Dividend Payout %,FY2025,101.0,%,101%,Dabur,P&L
+Dividend Payout %,FY2026,98.0,%,98%,Dabur,P&L
+Equity Capital,FY2015,176.0,Cr,176,Dabur,BalanceSheet
+Equity Capital,FY2016,176.0,Cr,176,Dabur,BalanceSheet
+Equity Capital,FY2017,176.0,Cr,176,Dabur,BalanceSheet
+Equity Capital,FY2018,176.0,Cr,176,Dabur,BalanceSheet
+Equity Capital,FY2019,177.0,Cr,177,Dabur,BalanceSheet
+Equity Capital,FY2020,177.0,Cr,177,Dabur,BalanceSheet
+Equity Capital,FY2021,177.0,Cr,177,Dabur,BalanceSheet
+Equity Capital,FY2022,177.0,Cr,177,Dabur,BalanceSheet
+Equity Capital,FY2023,177.0,Cr,177,Dabur,BalanceSheet
+Equity Capital,FY2024,177.0,Cr,177,Dabur,BalanceSheet
+Equity Capital,FY2025,177.0,Cr,177,Dabur,BalanceSheet
+Equity Capital,FY2026,177.0,Cr,177,Dabur,BalanceSheet
+Reserves,FY2015,2161.0,Cr,"2,161",Dabur,BalanceSheet
+Reserves,FY2016,2918.0,Cr,"2,918",Dabur,BalanceSheet
+Reserves,FY2017,3482.0,Cr,"3,482",Dabur,BalanceSheet
+Reserves,FY2018,4051.0,Cr,"4,051",Dabur,BalanceSheet
+Reserves,FY2019,3792.0,Cr,"3,792",Dabur,BalanceSheet
+Reserves,FY2020,4398.0,Cr,"4,398",Dabur,BalanceSheet
+Reserves,FY2021,5214.0,Cr,"5,214",Dabur,BalanceSheet
+Reserves,FY2022,5687.0,Cr,"5,687",Dabur,BalanceSheet
+Reserves,FY2023,6110.0,Cr,"6,110",Dabur,BalanceSheet
+Reserves,FY2024,6738.0,Cr,"6,738",Dabur,BalanceSheet
+Reserves,FY2025,7246.0,Cr,"7,246",Dabur,BalanceSheet
+Reserves,FY2026,7349.0,Cr,"7,349",Dabur,BalanceSheet
+Borrowings,FY2015,129.0,Cr,129,Dabur,BalanceSheet
+Borrowings,FY2016,87.0,Cr,87,Dabur,BalanceSheet
+Borrowings,FY2017,284.0,Cr,284,Dabur,BalanceSheet
+Borrowings,FY2018,287.0,Cr,287,Dabur,BalanceSheet
+Borrowings,FY2019,310.0,Cr,310,Dabur,BalanceSheet
+Borrowings,FY2020,151.0,Cr,151,Dabur,BalanceSheet
+Borrowings,FY2021,180.0,Cr,180,Dabur,BalanceSheet
+Borrowings,FY2022,560.0,Cr,560,Dabur,BalanceSheet
+Borrowings,FY2023,615.0,Cr,615,Dabur,BalanceSheet
+Borrowings,FY2024,776.0,Cr,776,Dabur,BalanceSheet
+Borrowings,FY2025,379.0,Cr,379,Dabur,BalanceSheet
+Borrowings,FY2026,611.0,Cr,611,Dabur,BalanceSheet
+Other Liabilities,FY2015,1223.0,Cr,"1,223",Dabur,BalanceSheet
+Other Liabilities,FY2016,1248.0,Cr,"1,248",Dabur,BalanceSheet
+Other Liabilities,FY2017,1275.0,Cr,"1,275",Dabur,BalanceSheet
+Other Liabilities,FY2018,1299.0,Cr,"1,299",Dabur,BalanceSheet
+Other Liabilities,FY2019,1300.0,Cr,"1,300",Dabur,BalanceSheet
+Other Liabilities,FY2020,1375.0,Cr,"1,375",Dabur,BalanceSheet
+Other Liabilities,FY2021,1933.0,Cr,"1,933",Dabur,BalanceSheet
+Other Liabilities,FY2022,2168.0,Cr,"2,168",Dabur,BalanceSheet
+Other Liabilities,FY2023,2450.0,Cr,"2,450",Dabur,BalanceSheet
+Other Liabilities,FY2024,2841.0,Cr,"2,841",Dabur,BalanceSheet
+Other Liabilities,FY2025,3203.0,Cr,"3,203",Dabur,BalanceSheet
+Other Liabilities,FY2026,3635.0,Cr,"3,635",Dabur,BalanceSheet
+Total Liabilities,FY2015,3688.0,Cr,"3,688",Dabur,BalanceSheet
+Total Liabilities,FY2016,4430.0,Cr,"4,430",Dabur,BalanceSheet
+Total Liabilities,FY2017,5217.0,Cr,"5,217",Dabur,BalanceSheet
+Total Liabilities,FY2018,5813.0,Cr,"5,813",Dabur,BalanceSheet
+Total Liabilities,FY2019,5579.0,Cr,"5,579",Dabur,BalanceSheet
+Total Liabilities,FY2020,6100.0,Cr,"6,100",Dabur,BalanceSheet
+Total Liabilities,FY2021,7504.0,Cr,"7,504",Dabur,BalanceSheet
+Total Liabilities,FY2022,8592.0,Cr,"8,592",Dabur,BalanceSheet
+Total Liabilities,FY2023,9352.0,Cr,"9,352",Dabur,BalanceSheet
+Total Liabilities,FY2024,10533.0,Cr,"10,533",Dabur,BalanceSheet
+Total Liabilities,FY2025,11005.0,Cr,"11,005",Dabur,BalanceSheet
+Total Liabilities,FY2026,11773.0,Cr,"11,773",Dabur,BalanceSheet
+Fixed Assets,FY2015,683.0,Cr,683,Dabur,BalanceSheet
+Fixed Assets,FY2016,639.0,Cr,639,Dabur,BalanceSheet
+Fixed Assets,FY2017,993.0,Cr,993,Dabur,BalanceSheet
+Fixed Assets,FY2018,1030.0,Cr,"1,030",Dabur,BalanceSheet
+Fixed Assets,FY2019,1037.0,Cr,"1,037",Dabur,BalanceSheet
+Fixed Assets,FY2020,1134.0,Cr,"1,134",Dabur,BalanceSheet
+Fixed Assets,FY2021,1205.0,Cr,"1,205",Dabur,BalanceSheet
+Fixed Assets,FY2022,1399.0,Cr,"1,399",Dabur,BalanceSheet
+Fixed Assets,FY2023,1662.0,Cr,"1,662",Dabur,BalanceSheet
+Fixed Assets,FY2024,1878.0,Cr,"1,878",Dabur,BalanceSheet
+Fixed Assets,FY2025,2036.0,Cr,"2,036",Dabur,BalanceSheet
+Fixed Assets,FY2026,2052.0,Cr,"2,052",Dabur,BalanceSheet
+CWIP,FY2015,12.0,Cr,12,Dabur,BalanceSheet
+CWIP,FY2016,25.0,Cr,25,Dabur,BalanceSheet
+CWIP,FY2017,28.0,Cr,28,Dabur,BalanceSheet
+CWIP,FY2018,27.0,Cr,27,Dabur,BalanceSheet
+CWIP,FY2019,22.0,Cr,22,Dabur,BalanceSheet
+CWIP,FY2020,106.0,Cr,106,Dabur,BalanceSheet
+CWIP,FY2021,107.0,Cr,107,Dabur,BalanceSheet
+CWIP,FY2022,128.0,Cr,128,Dabur,BalanceSheet
+CWIP,FY2023,109.0,Cr,109,Dabur,BalanceSheet
+CWIP,FY2024,184.0,Cr,184,Dabur,BalanceSheet
+CWIP,FY2025,137.0,Cr,137,Dabur,BalanceSheet
+CWIP,FY2026,108.0,Cr,108,Dabur,BalanceSheet
+Investments,FY2015,1778.0,Cr,"1,778",Dabur,BalanceSheet
+Investments,FY2016,2570.0,Cr,"2,570",Dabur,BalanceSheet
+Investments,FY2017,3054.0,Cr,"3,054",Dabur,BalanceSheet
+Investments,FY2018,3433.0,Cr,"3,433",Dabur,BalanceSheet
+Investments,FY2019,2962.0,Cr,"2,962",Dabur,BalanceSheet
+Investments,FY2020,2467.0,Cr,"2,467",Dabur,BalanceSheet
+Investments,FY2021,3574.0,Cr,"3,574",Dabur,BalanceSheet
+Investments,FY2022,5007.0,Cr,"5,007",Dabur,BalanceSheet
+Investments,FY2023,5475.0,Cr,"5,475",Dabur,BalanceSheet
+Investments,FY2024,6148.0,Cr,"6,148",Dabur,BalanceSheet
+Investments,FY2025,6359.0,Cr,"6,359",Dabur,BalanceSheet
+Investments,FY2026,7248.0,Cr,"7,248",Dabur,BalanceSheet
+Other Assets,FY2015,1215.0,Cr,"1,215",Dabur,BalanceSheet
+Other Assets,FY2016,1196.0,Cr,"1,196",Dabur,BalanceSheet
+Other Assets,FY2017,1141.0,Cr,"1,141",Dabur,BalanceSheet
+Other Assets,FY2018,1322.0,Cr,"1,322",Dabur,BalanceSheet
+Other Assets,FY2019,1558.0,Cr,"1,558",Dabur,BalanceSheet
+Other Assets,FY2020,2393.0,Cr,"2,393",Dabur,BalanceSheet
+Other Assets,FY2021,2618.0,Cr,"2,618",Dabur,BalanceSheet
+Other Assets,FY2022,2057.0,Cr,"2,057",Dabur,BalanceSheet
+Other Assets,FY2023,2106.0,Cr,"2,106",Dabur,BalanceSheet
+Other Assets,FY2024,2322.0,Cr,"2,322",Dabur,BalanceSheet
+Other Assets,FY2025,2474.0,Cr,"2,474",Dabur,BalanceSheet
+Other Assets,FY2026,2364.0,Cr,"2,364",Dabur,BalanceSheet
+Total Assets,FY2015,3688.0,Cr,"3,688",Dabur,BalanceSheet
+Total Assets,FY2016,4430.0,Cr,"4,430",Dabur,BalanceSheet
+Total Assets,FY2017,5217.0,Cr,"5,217",Dabur,BalanceSheet
+Total Assets,FY2018,5813.0,Cr,"5,813",Dabur,BalanceSheet
+Total Assets,FY2019,5579.0,Cr,"5,579",Dabur,BalanceSheet
+Total Assets,FY2020,6100.0,Cr,"6,100",Dabur,BalanceSheet
+Total Assets,FY2021,7504.0,Cr,"7,504",Dabur,BalanceSheet
+Total Assets,FY2022,8592.0,Cr,"8,592",Dabur,BalanceSheet
+Total Assets,FY2023,9352.0,Cr,"9,352",Dabur,BalanceSheet
+Total Assets,FY2024,10533.0,Cr,"10,533",Dabur,BalanceSheet
+Total Assets,FY2025,11005.0,Cr,"11,005",Dabur,BalanceSheet
+Total Assets,FY2026,11773.0,Cr,"11,773",Dabur,BalanceSheet
+Cash from Operating Activity,FY2015,839.0,Cr,839,Dabur,CashFlow
+Cash from Operating Activity,FY2016,960.0,Cr,960,Dabur,CashFlow
+Cash from Operating Activity,FY2017,927.0,Cr,927,Dabur,CashFlow
+Cash from Operating Activity,FY2018,816.0,Cr,816,Dabur,CashFlow
+Cash from Operating Activity,FY2019,1124.0,Cr,"1,124",Dabur,CashFlow
+Cash from Operating Activity,FY2020,1155.0,Cr,"1,155",Dabur,CashFlow
+Cash from Operating Activity,FY2021,1704.0,Cr,"1,704",Dabur,CashFlow
+Cash from Operating Activity,FY2022,1320.0,Cr,"1,320",Dabur,CashFlow
+Cash from Operating Activity,FY2023,1562.0,Cr,"1,562",Dabur,CashFlow
+Cash from Operating Activity,FY2024,1653.0,Cr,"1,653",Dabur,CashFlow
+Cash from Operating Activity,FY2025,1623.0,Cr,"1,623",Dabur,CashFlow
+Cash from Operating Activity,FY2026,1885.0,Cr,"1,885",Dabur,CashFlow
+Cash from Investing Activity,FY2015,-613.0,Cr,-613,Dabur,CashFlow
+Cash from Investing Activity,FY2016,-494.0,Cr,-494,Dabur,CashFlow
+Cash from Investing Activity,FY2017,-679.0,Cr,-679,Dabur,CashFlow
+Cash from Investing Activity,FY2018,-261.0,Cr,-261,Dabur,CashFlow
+Cash from Investing Activity,FY2019,418.0,Cr,418,Dabur,CashFlow
+Cash from Investing Activity,FY2020,-330.0,Cr,-330,Dabur,CashFlow
+Cash from Investing Activity,FY2021,-1120.0,Cr,"-1,120",Dabur,CashFlow
+Cash from Investing Activity,FY2022,-682.0,Cr,-682,Dabur,CashFlow
+Cash from Investing Activity,FY2023,-617.0,Cr,-617,Dabur,CashFlow
+Cash from Investing Activity,FY2024,-736.0,Cr,-736,Dabur,CashFlow
+Cash from Investing Activity,FY2025,-99.0,Cr,-99,Dabur,CashFlow
+Cash from Investing Activity,FY2026,-603.0,Cr,-603,Dabur,CashFlow
+Cash from Financing Activity,FY2015,-337.0,Cr,-337,Dabur,CashFlow
+Cash from Financing Activity,FY2016,-455.0,Cr,-455,Dabur,CashFlow
+Cash from Financing Activity,FY2017,-274.0,Cr,-274,Dabur,CashFlow
+Cash from Financing Activity,FY2018,-496.0,Cr,-496,Dabur,CashFlow
+Cash from Financing Activity,FY2019,-1619.0,Cr,"-1,619",Dabur,CashFlow
+Cash from Financing Activity,FY2020,-826.0,Cr,-826,Dabur,CashFlow
+Cash from Financing Activity,FY2021,-555.0,Cr,-555,Dabur,CashFlow
+Cash from Financing Activity,FY2022,-635.0,Cr,-635,Dabur,CashFlow
+Cash from Financing Activity,FY2023,-940.0,Cr,-940,Dabur,CashFlow
+Cash from Financing Activity,FY2024,-922.0,Cr,-922,Dabur,CashFlow
+Cash from Financing Activity,FY2025,-1511.0,Cr,"-1,511",Dabur,CashFlow
+Cash from Financing Activity,FY2026,-1293.0,Cr,"-1,293",Dabur,CashFlow
+Net Cash Flow,FY2015,-111.0,Cr,-111,Dabur,CashFlow
+Net Cash Flow,FY2016,11.0,Cr,11,Dabur,CashFlow
+Net Cash Flow,FY2017,-26.0,Cr,-26,Dabur,CashFlow
+Net Cash Flow,FY2018,59.0,Cr,59,Dabur,CashFlow
+Net Cash Flow,FY2019,-78.0,Cr,-78,Dabur,CashFlow
+Net Cash Flow,FY2020,-2.0,Cr,-2,Dabur,CashFlow
+Net Cash Flow,FY2021,29.0,Cr,29,Dabur,CashFlow
+Net Cash Flow,FY2022,3.0,Cr,3,Dabur,CashFlow
+Net Cash Flow,FY2023,5.0,Cr,5,Dabur,CashFlow
+Net Cash Flow,FY2024,-5.0,Cr,-5,Dabur,CashFlow
+Net Cash Flow,FY2025,13.0,Cr,13,Dabur,CashFlow
+Net Cash Flow,FY2026,-11.0,Cr,-11,Dabur,CashFlow
+Free Cash Flow,FY2015,743.0,Cr,743,Dabur,CashFlow
+Free Cash Flow,FY2016,863.0,Cr,863,Dabur,CashFlow
+Free Cash Flow,FY2017,519.0,Cr,519,Dabur,CashFlow
+Free Cash Flow,FY2018,717.0,Cr,717,Dabur,CashFlow
+Free Cash Flow,FY2019,1002.0,Cr,"1,002",Dabur,CashFlow
+Free Cash Flow,FY2020,902.0,Cr,902,Dabur,CashFlow
+Free Cash Flow,FY2021,1456.0,Cr,"1,456",Dabur,CashFlow
+Free Cash Flow,FY2022,1025.0,Cr,"1,025",Dabur,CashFlow
+Free Cash Flow,FY2023,1173.0,Cr,"1,173",Dabur,CashFlow
+Free Cash Flow,FY2024,1198.0,Cr,"1,198",Dabur,CashFlow
+Free Cash Flow,FY2025,1273.0,Cr,"1,273",Dabur,CashFlow
+Free Cash Flow,FY2026,1648.0,Cr,"1,648",Dabur,CashFlow
+CFO/OP,FY2015,111.0,%,111%,Dabur,CashFlow
+CFO/OP,FY2016,111.0,%,111%,Dabur,CashFlow
+CFO/OP,FY2017,108.0,%,108%,Dabur,CashFlow
+CFO/OP,FY2018,91.0,%,91%,Dabur,CashFlow
+CFO/OP,FY2019,106.0,%,106%,Dabur,CashFlow
+CFO/OP,FY2020,103.0,%,103%,Dabur,CashFlow
+CFO/OP,FY2021,127.0,%,127%,Dabur,CashFlow
+CFO/OP,FY2022,95.0,%,95%,Dabur,CashFlow
+CFO/OP,FY2023,117.0,%,117%,Dabur,CashFlow
+CFO/OP,FY2024,111.0,%,111%,Dabur,CashFlow
+CFO/OP,FY2025,114.0,%,114%,Dabur,CashFlow
+CFO/OP,FY2026,124.0,%,124%,Dabur,CashFlow
+Sales,FY2015,4681.0,Cr,"4,681",Marico,P&L
+Sales,FY2016,4861.0,Cr,"4,861",Marico,P&L
+Sales,FY2017,4851.0,Cr,"4,851",Marico,P&L
+Sales,FY2018,5170.0,Cr,"5,170",Marico,P&L
+Sales,FY2019,5971.0,Cr,"5,971",Marico,P&L
+Sales,FY2020,5853.0,Cr,"5,853",Marico,P&L
+Sales,FY2021,6337.0,Cr,"6,337",Marico,P&L
+Sales,FY2022,7500.0,Cr,"7,500",Marico,P&L
+Sales,FY2023,7478.0,Cr,"7,478",Marico,P&L
+Sales,FY2024,7002.0,Cr,"7,002",Marico,P&L
+Sales,FY2025,7581.0,Cr,"7,581",Marico,P&L
+Sales,FY2026,9402.0,Cr,"9,402",Marico,P&L
+Expenses,FY2015,4006.0,Cr,"4,006",Marico,P&L
+Expenses,FY2016,4032.0,Cr,"4,032",Marico,P&L
+Expenses,FY2017,3894.0,Cr,"3,894",Marico,P&L
+Expenses,FY2018,4255.0,Cr,"4,255",Marico,P&L
+Expenses,FY2019,4961.0,Cr,"4,961",Marico,P&L
+Expenses,FY2020,4733.0,Cr,"4,733",Marico,P&L
+Expenses,FY2021,5183.0,Cr,"5,183",Marico,P&L
+Expenses,FY2022,6317.0,Cr,"6,317",Marico,P&L
+Expenses,FY2023,6169.0,Cr,"6,169",Marico,P&L
+Expenses,FY2024,5596.0,Cr,"5,596",Marico,P&L
+Expenses,FY2025,6132.0,Cr,"6,132",Marico,P&L
+Expenses,FY2026,7961.0,Cr,"7,961",Marico,P&L
+Operating Profit,FY2015,676.0,Cr,676,Marico,P&L
+Operating Profit,FY2016,829.0,Cr,829,Marico,P&L
+Operating Profit,FY2017,957.0,Cr,957,Marico,P&L
+Operating Profit,FY2018,915.0,Cr,915,Marico,P&L
+Operating Profit,FY2019,1010.0,Cr,"1,010",Marico,P&L
+Operating Profit,FY2020,1120.0,Cr,"1,120",Marico,P&L
+Operating Profit,FY2021,1154.0,Cr,"1,154",Marico,P&L
+Operating Profit,FY2022,1183.0,Cr,"1,183",Marico,P&L
+Operating Profit,FY2023,1309.0,Cr,"1,309",Marico,P&L
+Operating Profit,FY2024,1406.0,Cr,"1,406",Marico,P&L
+Operating Profit,FY2025,1449.0,Cr,"1,449",Marico,P&L
+Operating Profit,FY2026,1441.0,Cr,"1,441",Marico,P&L
+OPM %,FY2015,14.0,%,14%,Marico,P&L
+OPM %,FY2016,17.0,%,17%,Marico,P&L
+OPM %,FY2017,20.0,%,20%,Marico,P&L
+OPM %,FY2018,18.0,%,18%,Marico,P&L
+OPM %,FY2019,17.0,%,17%,Marico,P&L
+OPM %,FY2020,19.0,%,19%,Marico,P&L
+OPM %,FY2021,18.0,%,18%,Marico,P&L
+OPM %,FY2022,16.0,%,16%,Marico,P&L
+OPM %,FY2023,18.0,%,18%,Marico,P&L
+OPM %,FY2024,20.0,%,20%,Marico,P&L
+OPM %,FY2025,19.0,%,19%,Marico,P&L
+OPM %,FY2026,15.0,%,15%,Marico,P&L
+Other Income,FY2015,127.0,Cr,127,Marico,P&L
+Other Income,FY2016,191.0,Cr,191,Marico,P&L
+Other Income,FY2017,262.0,Cr,262,Marico,P&L
+Other Income,FY2018,114.0,Cr,114,Marico,P&L
+Other Income,FY2019,301.0,Cr,301,Marico,P&L
+Other Income,FY2020,287.0,Cr,287,Marico,P&L
+Other Income,FY2021,286.0,Cr,286,Marico,P&L
+Other Income,FY2022,357.0,Cr,357,Marico,P&L
+Other Income,FY2023,328.0,Cr,328,Marico,P&L
+Other Income,FY2024,135.0,Cr,135,Marico,P&L
+Other Income,FY2025,591.0,Cr,591,Marico,P&L
+Other Income,FY2026,987.0,Cr,987,Marico,P&L
+Interest,FY2015,17.0,Cr,17,Marico,P&L
+Interest,FY2016,15.0,Cr,15,Marico,P&L
+Interest,FY2017,13.0,Cr,13,Marico,P&L
+Interest,FY2018,8.0,Cr,8,Marico,P&L
+Interest,FY2019,24.0,Cr,24,Marico,P&L
+Interest,FY2020,33.0,Cr,33,Marico,P&L
+Interest,FY2021,22.0,Cr,22,Marico,P&L
+Interest,FY2022,30.0,Cr,30,Marico,P&L
+Interest,FY2023,36.0,Cr,36,Marico,P&L
+Interest,FY2024,32.0,Cr,32,Marico,P&L
+Interest,FY2025,23.0,Cr,23,Marico,P&L
+Interest,FY2026,27.0,Cr,27,Marico,P&L
+Depreciation,FY2015,55.0,Cr,55,Marico,P&L
+Depreciation,FY2016,69.0,Cr,69,Marico,P&L
+Depreciation,FY2017,64.0,Cr,64,Marico,P&L
+Depreciation,FY2018,67.0,Cr,67,Marico,P&L
+Depreciation,FY2019,104.0,Cr,104,Marico,P&L
+Depreciation,FY2020,113.0,Cr,113,Marico,P&L
+Depreciation,FY2021,107.0,Cr,107,Marico,P&L
+Depreciation,FY2022,97.0,Cr,97,Marico,P&L
+Depreciation,FY2023,109.0,Cr,109,Marico,P&L
+Depreciation,FY2024,107.0,Cr,107,Marico,P&L
+Depreciation,FY2025,123.0,Cr,123,Marico,P&L
+Depreciation,FY2026,142.0,Cr,142,Marico,P&L
+Profit before tax,FY2015,731.0,Cr,731,Marico,P&L
+Profit before tax,FY2016,936.0,Cr,936,Marico,P&L
+Profit before tax,FY2017,1142.0,Cr,"1,142",Marico,P&L
+Profit before tax,FY2018,954.0,Cr,954,Marico,P&L
+Profit before tax,FY2019,1183.0,Cr,"1,183",Marico,P&L
+Profit before tax,FY2020,1261.0,Cr,"1,261",Marico,P&L
+Profit before tax,FY2021,1311.0,Cr,"1,311",Marico,P&L
+Profit before tax,FY2022,1413.0,Cr,"1,413",Marico,P&L
+Profit before tax,FY2023,1492.0,Cr,"1,492",Marico,P&L
+Profit before tax,FY2024,1402.0,Cr,"1,402",Marico,P&L
+Profit before tax,FY2025,1894.0,Cr,"1,894",Marico,P&L
+Profit before tax,FY2026,2259.0,Cr,"2,259",Marico,P&L
+Tax %,FY2015,25.0,%,25%,Marico,P&L
+Tax %,FY2016,26.0,%,26%,Marico,P&L
+Tax %,FY2017,26.0,%,26%,Marico,P&L
+Tax %,FY2018,25.0,%,25%,Marico,P&L
+Tax %,FY2019,5.0,%,5%,Marico,P&L
+Tax %,FY2020,20.0,%,20%,Marico,P&L
+Tax %,FY2021,16.0,%,16%,Marico,P&L
+Tax %,FY2022,18.0,%,18%,Marico,P&L
+Tax %,FY2023,21.0,%,21%,Marico,P&L
+Tax %,FY2024,23.0,%,23%,Marico,P&L
+Tax %,FY2025,19.0,%,19%,Marico,P&L
+Tax %,FY2026,14.0,%,14%,Marico,P&L
+Net Profit,FY2015,545.0,Cr,545,Marico,P&L
+Net Profit,FY2016,691.0,Cr,691,Marico,P&L
+Net Profit,FY2017,843.0,Cr,843,Marico,P&L
+Net Profit,FY2018,718.0,Cr,718,Marico,P&L
+Net Profit,FY2019,1129.0,Cr,"1,129",Marico,P&L
+Net Profit,FY2020,1007.0,Cr,"1,007",Marico,P&L
+Net Profit,FY2021,1106.0,Cr,"1,106",Marico,P&L
+Net Profit,FY2022,1163.0,Cr,"1,163",Marico,P&L
+Net Profit,FY2023,1179.0,Cr,"1,179",Marico,P&L
+Net Profit,FY2024,1078.0,Cr,"1,078",Marico,P&L
+Net Profit,FY2025,1541.0,Cr,"1,541",Marico,P&L
+Net Profit,FY2026,1941.0,Cr,"1,941",Marico,P&L
+EPS in Rs,FY2015,4.23,Rs,4.23,Marico,P&L
+EPS in Rs,FY2016,5.36,Rs,5.36,Marico,P&L
+EPS in Rs,FY2017,6.53,Rs,6.53,Marico,P&L
+EPS in Rs,FY2018,5.56,Rs,5.56,Marico,P&L
+EPS in Rs,FY2019,8.75,Rs,8.75,Marico,P&L
+EPS in Rs,FY2020,7.8,Rs,7.80,Marico,P&L
+EPS in Rs,FY2021,8.56,Rs,8.56,Marico,P&L
+EPS in Rs,FY2022,9.0,Rs,9.00,Marico,P&L
+EPS in Rs,FY2023,9.12,Rs,9.12,Marico,P&L
+EPS in Rs,FY2024,8.33,Rs,8.33,Marico,P&L
+EPS in Rs,FY2025,11.9,Rs,11.90,Marico,P&L
+EPS in Rs,FY2026,14.95,Rs,14.95,Marico,P&L
+Dividend Payout %,FY2015,30.0,%,30%,Marico,P&L
+Dividend Payout %,FY2016,79.0,%,79%,Marico,P&L
+Dividend Payout %,FY2017,54.0,%,54%,Marico,P&L
+Dividend Payout %,FY2018,76.0,%,76%,Marico,P&L
+Dividend Payout %,FY2019,54.0,%,54%,Marico,P&L
+Dividend Payout %,FY2020,86.0,%,86%,Marico,P&L
+Dividend Payout %,FY2021,87.0,%,87%,Marico,P&L
+Dividend Payout %,FY2022,103.0,%,103%,Marico,P&L
+Dividend Payout %,FY2023,49.0,%,49%,Marico,P&L
+Dividend Payout %,FY2024,114.0,%,114%,Marico,P&L
+Dividend Payout %,FY2025,88.0,%,88%,Marico,P&L
+Dividend Payout %,FY2026,27.0,%,27%,Marico,P&L
+Equity Capital,FY2015,64.0,Cr,64,Marico,BalanceSheet
+Equity Capital,FY2016,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2017,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2018,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2019,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2020,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2021,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2022,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2023,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2024,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2025,129.0,Cr,129,Marico,BalanceSheet
+Equity Capital,FY2026,130.0,Cr,130,Marico,BalanceSheet
+Reserves,FY2015,2278.0,Cr,"2,278",Marico,BalanceSheet
+Reserves,FY2016,2409.0,Cr,"2,409",Marico,BalanceSheet
+Reserves,FY2017,2795.0,Cr,"2,795",Marico,BalanceSheet
+Reserves,FY2018,2912.0,Cr,"2,912",Marico,BalanceSheet
+Reserves,FY2019,3360.0,Cr,"3,360",Marico,BalanceSheet
+Reserves,FY2020,2759.0,Cr,"2,759",Marico,BalanceSheet
+Reserves,FY2021,2906.0,Cr,"2,906",Marico,BalanceSheet
+Reserves,FY2022,2920.0,Cr,"2,920",Marico,BalanceSheet
+Reserves,FY2023,3548.0,Cr,"3,548",Marico,BalanceSheet
+Reserves,FY2024,3468.0,Cr,"3,468",Marico,BalanceSheet
+Reserves,FY2025,4634.0,Cr,"4,634",Marico,BalanceSheet
+Reserves,FY2026,5678.0,Cr,"5,678",Marico,BalanceSheet
+Borrowings,FY2015,271.0,Cr,271,Marico,BalanceSheet
+Borrowings,FY2016,204.0,Cr,204,Marico,BalanceSheet
+Borrowings,FY2017,108.0,Cr,108,Marico,BalanceSheet
+Borrowings,FY2018,122.0,Cr,122,Marico,BalanceSheet
+Borrowings,FY2019,131.0,Cr,131,Marico,BalanceSheet
+Borrowings,FY2020,110.0,Cr,110,Marico,BalanceSheet
+Borrowings,FY2021,269.0,Cr,269,Marico,BalanceSheet
+Borrowings,FY2022,199.0,Cr,199,Marico,BalanceSheet
+Borrowings,FY2023,166.0,Cr,166,Marico,BalanceSheet
+Borrowings,FY2024,230.0,Cr,230,Marico,BalanceSheet
+Borrowings,FY2025,271.0,Cr,271,Marico,BalanceSheet
+Borrowings,FY2026,180.0,Cr,180,Marico,BalanceSheet
+Other Liabilities,FY2015,617.0,Cr,617,Marico,BalanceSheet
+Other Liabilities,FY2016,696.0,Cr,696,Marico,BalanceSheet
+Other Liabilities,FY2017,730.0,Cr,730,Marico,BalanceSheet
+Other Liabilities,FY2018,857.0,Cr,857,Marico,BalanceSheet
+Other Liabilities,FY2019,1138.0,Cr,"1,138",Marico,BalanceSheet
+Other Liabilities,FY2020,1138.0,Cr,"1,138",Marico,BalanceSheet
+Other Liabilities,FY2021,1178.0,Cr,"1,178",Marico,BalanceSheet
+Other Liabilities,FY2022,1248.0,Cr,"1,248",Marico,BalanceSheet
+Other Liabilities,FY2023,1246.0,Cr,"1,246",Marico,BalanceSheet
+Other Liabilities,FY2024,1138.0,Cr,"1,138",Marico,BalanceSheet
+Other Liabilities,FY2025,1004.0,Cr,"1,004",Marico,BalanceSheet
+Other Liabilities,FY2026,1631.0,Cr,"1,631",Marico,BalanceSheet
+Total Liabilities,FY2015,3231.0,Cr,"3,231",Marico,BalanceSheet
+Total Liabilities,FY2016,3439.0,Cr,"3,439",Marico,BalanceSheet
+Total Liabilities,FY2017,3763.0,Cr,"3,763",Marico,BalanceSheet
+Total Liabilities,FY2018,4020.0,Cr,"4,020",Marico,BalanceSheet
+Total Liabilities,FY2019,4758.0,Cr,"4,758",Marico,BalanceSheet
+Total Liabilities,FY2020,4136.0,Cr,"4,136",Marico,BalanceSheet
+Total Liabilities,FY2021,4482.0,Cr,"4,482",Marico,BalanceSheet
+Total Liabilities,FY2022,4496.0,Cr,"4,496",Marico,BalanceSheet
+Total Liabilities,FY2023,5089.0,Cr,"5,089",Marico,BalanceSheet
+Total Liabilities,FY2024,4965.0,Cr,"4,965",Marico,BalanceSheet
+Total Liabilities,FY2025,6038.0,Cr,"6,038",Marico,BalanceSheet
+Total Liabilities,FY2026,7619.0,Cr,"7,619",Marico,BalanceSheet
+Fixed Assets,FY2015,482.0,Cr,482,Marico,BalanceSheet
+Fixed Assets,FY2016,460.0,Cr,460,Marico,BalanceSheet
+Fixed Assets,FY2017,519.0,Cr,519,Marico,BalanceSheet
+Fixed Assets,FY2018,509.0,Cr,509,Marico,BalanceSheet
+Fixed Assets,FY2019,643.0,Cr,643,Marico,BalanceSheet
+Fixed Assets,FY2020,701.0,Cr,701,Marico,BalanceSheet
+Fixed Assets,FY2021,669.0,Cr,669,Marico,BalanceSheet
+Fixed Assets,FY2022,667.0,Cr,667,Marico,BalanceSheet
+Fixed Assets,FY2023,704.0,Cr,704,Marico,BalanceSheet
+Fixed Assets,FY2024,736.0,Cr,736,Marico,BalanceSheet
+Fixed Assets,FY2025,770.0,Cr,770,Marico,BalanceSheet
+Fixed Assets,FY2026,946.0,Cr,946,Marico,BalanceSheet
+CWIP,FY2015,2.0,Cr,2,Marico,BalanceSheet
+CWIP,FY2016,37.0,Cr,37,Marico,BalanceSheet
+CWIP,FY2017,8.0,Cr,8,Marico,BalanceSheet
+CWIP,FY2018,25.0,Cr,25,Marico,BalanceSheet
+CWIP,FY2019,42.0,Cr,42,Marico,BalanceSheet
+CWIP,FY2020,55.0,Cr,55,Marico,BalanceSheet
+CWIP,FY2021,14.0,Cr,14,Marico,BalanceSheet
+CWIP,FY2022,27.0,Cr,27,Marico,BalanceSheet
+CWIP,FY2023,32.0,Cr,32,Marico,BalanceSheet
+CWIP,FY2024,38.0,Cr,38,Marico,BalanceSheet
+CWIP,FY2025,33.0,Cr,33,Marico,BalanceSheet
+CWIP,FY2026,78.0,Cr,78,Marico,BalanceSheet
+Investments,FY2015,1335.0,Cr,"1,335",Marico,BalanceSheet
+Investments,FY2016,1595.0,Cr,"1,595",Marico,BalanceSheet
+Investments,FY2017,1664.0,Cr,"1,664",Marico,BalanceSheet
+Investments,FY2018,1507.0,Cr,"1,507",Marico,BalanceSheet
+Investments,FY2019,1440.0,Cr,"1,440",Marico,BalanceSheet
+Investments,FY2020,1093.0,Cr,"1,093",Marico,BalanceSheet
+Investments,FY2021,1343.0,Cr,"1,343",Marico,BalanceSheet
+Investments,FY2022,1372.0,Cr,"1,372",Marico,BalanceSheet
+Investments,FY2023,1825.0,Cr,"1,825",Marico,BalanceSheet
+Investments,FY2024,1617.0,Cr,"1,617",Marico,BalanceSheet
+Investments,FY2025,2687.0,Cr,"2,687",Marico,BalanceSheet
+Investments,FY2026,3716.0,Cr,"3,716",Marico,BalanceSheet
+Other Assets,FY2015,1412.0,Cr,"1,412",Marico,BalanceSheet
+Other Assets,FY2016,1347.0,Cr,"1,347",Marico,BalanceSheet
+Other Assets,FY2017,1571.0,Cr,"1,571",Marico,BalanceSheet
+Other Assets,FY2018,1979.0,Cr,"1,979",Marico,BalanceSheet
+Other Assets,FY2019,2633.0,Cr,"2,633",Marico,BalanceSheet
+Other Assets,FY2020,2287.0,Cr,"2,287",Marico,BalanceSheet
+Other Assets,FY2021,2456.0,Cr,"2,456",Marico,BalanceSheet
+Other Assets,FY2022,2430.0,Cr,"2,430",Marico,BalanceSheet
+Other Assets,FY2023,2528.0,Cr,"2,528",Marico,BalanceSheet
+Other Assets,FY2024,2574.0,Cr,"2,574",Marico,BalanceSheet
+Other Assets,FY2025,2548.0,Cr,"2,548",Marico,BalanceSheet
+Other Assets,FY2026,2879.0,Cr,"2,879",Marico,BalanceSheet
+Total Assets,FY2015,3231.0,Cr,"3,231",Marico,BalanceSheet
+Total Assets,FY2016,3439.0,Cr,"3,439",Marico,BalanceSheet
+Total Assets,FY2017,3763.0,Cr,"3,763",Marico,BalanceSheet
+Total Assets,FY2018,4020.0,Cr,"4,020",Marico,BalanceSheet
+Total Assets,FY2019,4758.0,Cr,"4,758",Marico,BalanceSheet
+Total Assets,FY2020,4136.0,Cr,"4,136",Marico,BalanceSheet
+Total Assets,FY2021,4482.0,Cr,"4,482",Marico,BalanceSheet
+Total Assets,FY2022,4496.0,Cr,"4,496",Marico,BalanceSheet
+Total Assets,FY2023,5089.0,Cr,"5,089",Marico,BalanceSheet
+Total Assets,FY2024,4965.0,Cr,"4,965",Marico,BalanceSheet
+Total Assets,FY2025,6038.0,Cr,"6,038",Marico,BalanceSheet
+Total Assets,FY2026,7619.0,Cr,"7,619",Marico,BalanceSheet
+Cash from Operating Activity,FY2015,552.0,Cr,552,Marico,CashFlow
+Cash from Operating Activity,FY2016,629.0,Cr,629,Marico,CashFlow
+Cash from Operating Activity,FY2017,471.0,Cr,471,Marico,CashFlow
+Cash from Operating Activity,FY2018,409.0,Cr,409,Marico,CashFlow
+Cash from Operating Activity,FY2019,785.0,Cr,785,Marico,CashFlow
+Cash from Operating Activity,FY2020,970.0,Cr,970,Marico,CashFlow
+Cash from Operating Activity,FY2021,1564.0,Cr,"1,564",Marico,CashFlow
+Cash from Operating Activity,FY2022,656.0,Cr,656,Marico,CashFlow
+Cash from Operating Activity,FY2023,1002.0,Cr,"1,002",Marico,CashFlow
+Cash from Operating Activity,FY2024,1044.0,Cr,"1,044",Marico,CashFlow
+Cash from Operating Activity,FY2025,1148.0,Cr,"1,148",Marico,CashFlow
+Cash from Operating Activity,FY2026,1609.0,Cr,"1,609",Marico,CashFlow
+Cash from Investing Activity,FY2015,60.0,Cr,60,Marico,CashFlow
+Cash from Investing Activity,FY2016,-86.0,Cr,-86,Marico,CashFlow
+Cash from Investing Activity,FY2017,87.0,Cr,87,Marico,CashFlow
+Cash from Investing Activity,FY2018,187.0,Cr,187,Marico,CashFlow
+Cash from Investing Activity,FY2019,-79.0,Cr,-79,Marico,CashFlow
+Cash from Investing Activity,FY2020,128.0,Cr,128,Marico,CashFlow
+Cash from Investing Activity,FY2021,-583.0,Cr,-583,Marico,CashFlow
+Cash from Investing Activity,FY2022,626.0,Cr,626,Marico,CashFlow
+Cash from Investing Activity,FY2023,-346.0,Cr,-346,Marico,CashFlow
+Cash from Investing Activity,FY2024,167.0,Cr,167,Marico,CashFlow
+Cash from Investing Activity,FY2025,-681.0,Cr,-681,Marico,CashFlow
+Cash from Investing Activity,FY2026,-534.0,Cr,-534,Marico,CashFlow
+Cash from Financing Activity,FY2015,-612.0,Cr,-612,Marico,CashFlow
+Cash from Financing Activity,FY2016,-549.0,Cr,-549,Marico,CashFlow
+Cash from Financing Activity,FY2017,-560.0,Cr,-560,Marico,CashFlow
+Cash from Financing Activity,FY2018,-602.0,Cr,-602,Marico,CashFlow
+Cash from Financing Activity,FY2019,-704.0,Cr,-704,Marico,CashFlow
+Cash from Financing Activity,FY2020,-1081.0,Cr,"-1,081",Marico,CashFlow
+Cash from Financing Activity,FY2021,-992.0,Cr,-992,Marico,CashFlow
+Cash from Financing Activity,FY2022,-1267.0,Cr,"-1,267",Marico,CashFlow
+Cash from Financing Activity,FY2023,-676.0,Cr,-676,Marico,CashFlow
+Cash from Financing Activity,FY2024,-1194.0,Cr,"-1,194",Marico,CashFlow
+Cash from Financing Activity,FY2025,-455.0,Cr,-455,Marico,CashFlow
+Cash from Financing Activity,FY2026,-1004.0,Cr,"-1,004",Marico,CashFlow
+Net Cash Flow,FY2015,-1.0,Cr,-1,Marico,CashFlow
+Net Cash Flow,FY2016,-6.0,Cr,-6,Marico,CashFlow
+Net Cash Flow,FY2017,-2.0,Cr,-2,Marico,CashFlow
+Net Cash Flow,FY2018,-6.0,Cr,-6,Marico,CashFlow
+Net Cash Flow,FY2019,2.0,Cr,2,Marico,CashFlow
+Net Cash Flow,FY2020,17.0,Cr,17,Marico,CashFlow
+Net Cash Flow,FY2021,-11.0,Cr,-11,Marico,CashFlow
+Net Cash Flow,FY2022,15.0,Cr,15,Marico,CashFlow
+Net Cash Flow,FY2023,-20.0,Cr,-20,Marico,CashFlow
+Net Cash Flow,FY2024,17.0,Cr,17,Marico,CashFlow
+Net Cash Flow,FY2025,12.0,Cr,12,Marico,CashFlow
+Net Cash Flow,FY2026,71.0,Cr,71,Marico,CashFlow
+Free Cash Flow,FY2015,489.0,Cr,489,Marico,CashFlow
+Free Cash Flow,FY2016,558.0,Cr,558,Marico,CashFlow
+Free Cash Flow,FY2017,409.0,Cr,409,Marico,CashFlow
+Free Cash Flow,FY2018,337.0,Cr,337,Marico,CashFlow
+Free Cash Flow,FY2019,648.0,Cr,648,Marico,CashFlow
+Free Cash Flow,FY2020,837.0,Cr,837,Marico,CashFlow
+Free Cash Flow,FY2021,1511.0,Cr,"1,511",Marico,CashFlow
+Free Cash Flow,FY2022,560.0,Cr,560,Marico,CashFlow
+Free Cash Flow,FY2023,1002.0,Cr,"1,002",Marico,CashFlow
+Free Cash Flow,FY2024,954.0,Cr,954,Marico,CashFlow
+Free Cash Flow,FY2025,1066.0,Cr,"1,066",Marico,CashFlow
+Free Cash Flow,FY2026,1356.0,Cr,"1,356",Marico,CashFlow
+CFO/OP,FY2015,104.0,%,104%,Marico,CashFlow
+CFO/OP,FY2016,100.0,%,100%,Marico,CashFlow
+CFO/OP,FY2017,74.0,%,74%,Marico,CashFlow
+CFO/OP,FY2018,71.0,%,71%,Marico,CashFlow
+CFO/OP,FY2019,103.0,%,103%,Marico,CashFlow
+CFO/OP,FY2020,106.0,%,106%,Marico,CashFlow
+CFO/OP,FY2021,157.0,%,157%,Marico,CashFlow
+CFO/OP,FY2022,77.0,%,77%,Marico,CashFlow
+CFO/OP,FY2023,96.0,%,96%,Marico,CashFlow
+CFO/OP,FY2024,92.0,%,92%,Marico,CashFlow
+CFO/OP,FY2025,103.0,%,103%,Marico,CashFlow
+CFO/OP,FY2026,140.0,%,140%,Marico,CashFlow
+Sales,FY2015,3982.0,Cr,"3,982",Colgate,P&L
+Sales,FY2016,3868.0,Cr,"3,868",Colgate,P&L
+Sales,FY2017,3982.0,Cr,"3,982",Colgate,P&L
+Sales,FY2018,4188.0,Cr,"4,188",Colgate,P&L
+Sales,FY2019,4462.0,Cr,"4,462",Colgate,P&L
+Sales,FY2020,4525.0,Cr,"4,525",Colgate,P&L
+Sales,FY2021,4841.0,Cr,"4,841",Colgate,P&L
+Sales,FY2022,5100.0,Cr,"5,100",Colgate,P&L
+Sales,FY2023,5226.0,Cr,"5,226",Colgate,P&L
+Sales,FY2024,5680.0,Cr,"5,680",Colgate,P&L
+Sales,FY2025,6040.0,Cr,"6,040",Colgate,P&L
+Sales,FY2026,6035.0,Cr,"6,035",Colgate,P&L
+Expenses,FY2015,3159.0,Cr,"3,159",Colgate,P&L
+Expenses,FY2016,2929.0,Cr,"2,929",Colgate,P&L
+Expenses,FY2017,3038.0,Cr,"3,038",Colgate,P&L
+Expenses,FY2018,3074.0,Cr,"3,074",Colgate,P&L
+Expenses,FY2019,3226.0,Cr,"3,226",Colgate,P&L
+Expenses,FY2020,3323.0,Cr,"3,323",Colgate,P&L
+Expenses,FY2021,3331.0,Cr,"3,331",Colgate,P&L
+Expenses,FY2022,3534.0,Cr,"3,534",Colgate,P&L
+Expenses,FY2023,3679.0,Cr,"3,679",Colgate,P&L
+Expenses,FY2024,3779.0,Cr,"3,779",Colgate,P&L
+Expenses,FY2025,4082.0,Cr,"4,082",Colgate,P&L
+Expenses,FY2026,4165.0,Cr,"4,165",Colgate,P&L
+Operating Profit,FY2015,823.0,Cr,823,Colgate,P&L
+Operating Profit,FY2016,940.0,Cr,940,Colgate,P&L
+Operating Profit,FY2017,944.0,Cr,944,Colgate,P&L
+Operating Profit,FY2018,1114.0,Cr,"1,114",Colgate,P&L
+Operating Profit,FY2019,1236.0,Cr,"1,236",Colgate,P&L
+Operating Profit,FY2020,1202.0,Cr,"1,202",Colgate,P&L
+Operating Profit,FY2021,1510.0,Cr,"1,510",Colgate,P&L
+Operating Profit,FY2022,1566.0,Cr,"1,566",Colgate,P&L
+Operating Profit,FY2023,1547.0,Cr,"1,547",Colgate,P&L
+Operating Profit,FY2024,1901.0,Cr,"1,901",Colgate,P&L
+Operating Profit,FY2025,1958.0,Cr,"1,958",Colgate,P&L
+Operating Profit,FY2026,1870.0,Cr,"1,870",Colgate,P&L
+OPM %,FY2015,21.0,%,21%,Colgate,P&L
+OPM %,FY2016,24.0,%,24%,Colgate,P&L
+OPM %,FY2017,24.0,%,24%,Colgate,P&L
+OPM %,FY2018,27.0,%,27%,Colgate,P&L
+OPM %,FY2019,28.0,%,28%,Colgate,P&L
+OPM %,FY2020,27.0,%,27%,Colgate,P&L
+OPM %,FY2021,31.0,%,31%,Colgate,P&L
+OPM %,FY2022,31.0,%,31%,Colgate,P&L
+OPM %,FY2023,30.0,%,30%,Colgate,P&L
+OPM %,FY2024,33.0,%,33%,Colgate,P&L
+OPM %,FY2025,32.0,%,32%,Colgate,P&L
+OPM %,FY2026,31.0,%,31%,Colgate,P&L
+Other Income,FY2015,32.0,Cr,32,Colgate,P&L
+Other Income,FY2016,7.0,Cr,7,Colgate,P&L
+Other Income,FY2017,41.0,Cr,41,Colgate,P&L
+Other Income,FY2018,26.0,Cr,26,Colgate,P&L
+Other Income,FY2019,68.0,Cr,68,Colgate,P&L
+Other Income,FY2020,49.0,Cr,49,Colgate,P&L
+Other Income,FY2021,30.0,Cr,30,Colgate,P&L
+Other Income,FY2022,26.0,Cr,26,Colgate,P&L
+Other Income,FY2023,42.0,Cr,42,Colgate,P&L
+Other Income,FY2024,57.0,Cr,57,Colgate,P&L
+Other Income,FY2025,139.0,Cr,139,Colgate,P&L
+Other Income,FY2026,64.0,Cr,64,Colgate,P&L
+Interest,FY2015,0.0,Cr,0,Colgate,P&L
+Interest,FY2016,0.0,Cr,0,Colgate,P&L
+Interest,FY2017,0.0,Cr,0,Colgate,P&L
+Interest,FY2018,0.0,Cr,0,Colgate,P&L
+Interest,FY2019,2.0,Cr,2,Colgate,P&L
+Interest,FY2020,10.0,Cr,10,Colgate,P&L
+Interest,FY2021,7.0,Cr,7,Colgate,P&L
+Interest,FY2022,6.0,Cr,6,Colgate,P&L
+Interest,FY2023,5.0,Cr,5,Colgate,P&L
+Interest,FY2024,5.0,Cr,5,Colgate,P&L
+Interest,FY2025,4.0,Cr,4,Colgate,P&L
+Interest,FY2026,4.0,Cr,4,Colgate,P&L
+Depreciation,FY2015,75.0,Cr,75,Colgate,P&L
+Depreciation,FY2016,111.0,Cr,111,Colgate,P&L
+Depreciation,FY2017,133.0,Cr,133,Colgate,P&L
+Depreciation,FY2018,157.0,Cr,157,Colgate,P&L
+Depreciation,FY2019,159.0,Cr,159,Colgate,P&L
+Depreciation,FY2020,198.0,Cr,198,Colgate,P&L
+Depreciation,FY2021,182.0,Cr,182,Colgate,P&L
+Depreciation,FY2022,177.0,Cr,177,Colgate,P&L
+Depreciation,FY2023,175.0,Cr,175,Colgate,P&L
+Depreciation,FY2024,172.0,Cr,172,Colgate,P&L
+Depreciation,FY2025,163.0,Cr,163,Colgate,P&L
+Depreciation,FY2026,146.0,Cr,146,Colgate,P&L
+Profit before tax,FY2015,780.0,Cr,780,Colgate,P&L
+Profit before tax,FY2016,835.0,Cr,835,Colgate,P&L
+Profit before tax,FY2017,851.0,Cr,851,Colgate,P&L
+Profit before tax,FY2018,983.0,Cr,983,Colgate,P&L
+Profit before tax,FY2019,1143.0,Cr,"1,143",Colgate,P&L
+Profit before tax,FY2020,1043.0,Cr,"1,043",Colgate,P&L
+Profit before tax,FY2021,1350.0,Cr,"1,350",Colgate,P&L
+Profit before tax,FY2022,1409.0,Cr,"1,409",Colgate,P&L
+Profit before tax,FY2023,1410.0,Cr,"1,410",Colgate,P&L
+Profit before tax,FY2024,1781.0,Cr,"1,781",Colgate,P&L
+Profit before tax,FY2025,1930.0,Cr,"1,930",Colgate,P&L
+Profit before tax,FY2026,1784.0,Cr,"1,784",Colgate,P&L
+Tax %,FY2015,28.0,%,28%,Colgate,P&L
+Tax %,FY2016,30.0,%,30%,Colgate,P&L
+Tax %,FY2017,32.0,%,32%,Colgate,P&L
+Tax %,FY2018,32.0,%,32%,Colgate,P&L
+Tax %,FY2019,32.0,%,32%,Colgate,P&L
+Tax %,FY2020,22.0,%,22%,Colgate,P&L
+Tax %,FY2021,23.0,%,23%,Colgate,P&L
+Tax %,FY2022,23.0,%,23%,Colgate,P&L
+Tax %,FY2023,26.0,%,26%,Colgate,P&L
+Tax %,FY2024,26.0,%,26%,Colgate,P&L
+Tax %,FY2025,26.0,%,26%,Colgate,P&L
+Tax %,FY2026,26.0,%,26%,Colgate,P&L
+Net Profit,FY2015,559.0,Cr,559,Colgate,P&L
+Net Profit,FY2016,581.0,Cr,581,Colgate,P&L
+Net Profit,FY2017,577.0,Cr,577,Colgate,P&L
+Net Profit,FY2018,673.0,Cr,673,Colgate,P&L
+Net Profit,FY2019,776.0,Cr,776,Colgate,P&L
+Net Profit,FY2020,816.0,Cr,816,Colgate,P&L
+Net Profit,FY2021,1035.0,Cr,"1,035",Colgate,P&L
+Net Profit,FY2022,1078.0,Cr,"1,078",Colgate,P&L
+Net Profit,FY2023,1047.0,Cr,"1,047",Colgate,P&L
+Net Profit,FY2024,1324.0,Cr,"1,324",Colgate,P&L
+Net Profit,FY2025,1437.0,Cr,"1,437",Colgate,P&L
+Net Profit,FY2026,1325.0,Cr,"1,325",Colgate,P&L
+EPS in Rs,FY2015,20.55,Rs,20.55,Colgate,P&L
+EPS in Rs,FY2016,21.37,Rs,21.37,Colgate,P&L
+EPS in Rs,FY2017,21.23,Rs,21.23,Colgate,P&L
+EPS in Rs,FY2018,24.76,Rs,24.76,Colgate,P&L
+EPS in Rs,FY2019,28.52,Rs,28.52,Colgate,P&L
+EPS in Rs,FY2020,30.02,Rs,30.02,Colgate,P&L
+EPS in Rs,FY2021,38.07,Rs,38.07,Colgate,P&L
+EPS in Rs,FY2022,39.65,Rs,39.65,Colgate,P&L
+EPS in Rs,FY2023,38.5,Rs,38.50,Colgate,P&L
+EPS in Rs,FY2024,48.67,Rs,48.67,Colgate,P&L
+EPS in Rs,FY2025,52.83,Rs,52.83,Colgate,P&L
+EPS in Rs,FY2026,48.73,Rs,48.73,Colgate,P&L
+Dividend Payout %,FY2015,58.0,%,58%,Colgate,P&L
+Dividend Payout %,FY2016,47.0,%,47%,Colgate,P&L
+Dividend Payout %,FY2017,47.0,%,47%,Colgate,P&L
+Dividend Payout %,FY2018,97.0,%,97%,Colgate,P&L
+Dividend Payout %,FY2019,81.0,%,81%,Colgate,P&L
+Dividend Payout %,FY2020,93.0,%,93%,Colgate,P&L
+Dividend Payout %,FY2021,100.0,%,100%,Colgate,P&L
+Dividend Payout %,FY2022,101.0,%,101%,Colgate,P&L
+Dividend Payout %,FY2023,101.0,%,101%,Colgate,P&L
+Dividend Payout %,FY2024,119.0,%,119%,Colgate,P&L
+Dividend Payout %,FY2025,97.0,%,97%,Colgate,P&L
+Dividend Payout %,FY2026,99.0,%,99%,Colgate,P&L
+Equity Capital,FY2015,14.0,Cr,14,Colgate,BalanceSheet
+Equity Capital,FY2016,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2017,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2018,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2019,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2020,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2021,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2022,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2023,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2024,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2025,27.0,Cr,27,Colgate,BalanceSheet
+Equity Capital,FY2026,27.0,Cr,27,Colgate,BalanceSheet
+Reserves,FY2015,757.0,Cr,757,Colgate,BalanceSheet
+Reserves,FY2016,1004.0,Cr,"1,004",Colgate,BalanceSheet
+Reserves,FY2017,1247.0,Cr,"1,247",Colgate,BalanceSheet
+Reserves,FY2018,1497.0,Cr,"1,497",Colgate,BalanceSheet
+Reserves,FY2019,1420.0,Cr,"1,420",Colgate,BalanceSheet
+Reserves,FY2020,1567.0,Cr,"1,567",Colgate,BalanceSheet
+Reserves,FY2021,1139.0,Cr,"1,139",Colgate,BalanceSheet
+Reserves,FY2022,1707.0,Cr,"1,707",Colgate,BalanceSheet
+Reserves,FY2023,1689.0,Cr,"1,689",Colgate,BalanceSheet
+Reserves,FY2024,1847.0,Cr,"1,847",Colgate,BalanceSheet
+Reserves,FY2025,1637.0,Cr,"1,637",Colgate,BalanceSheet
+Reserves,FY2026,1557.0,Cr,"1,557",Colgate,BalanceSheet
+Borrowings,FY2015,0.0,Cr,0,Colgate,BalanceSheet
+Borrowings,FY2016,0.0,Cr,0,Colgate,BalanceSheet
+Borrowings,FY2017,0.0,Cr,0,Colgate,BalanceSheet
+Borrowings,FY2018,0.0,Cr,0,Colgate,BalanceSheet
+Borrowings,FY2019,83.0,Cr,83,Colgate,BalanceSheet
+Borrowings,FY2020,102.0,Cr,102,Colgate,BalanceSheet
+Borrowings,FY2021,91.0,Cr,91,Colgate,BalanceSheet
+Borrowings,FY2022,83.0,Cr,83,Colgate,BalanceSheet
+Borrowings,FY2023,69.0,Cr,69,Colgate,BalanceSheet
+Borrowings,FY2024,72.0,Cr,72,Colgate,BalanceSheet
+Borrowings,FY2025,61.0,Cr,61,Colgate,BalanceSheet
+Borrowings,FY2026,47.0,Cr,47,Colgate,BalanceSheet
+Other Liabilities,FY2015,932.0,Cr,932,Colgate,BalanceSheet
+Other Liabilities,FY2016,972.0,Cr,972,Colgate,BalanceSheet
+Other Liabilities,FY2017,1037.0,Cr,"1,037",Colgate,BalanceSheet
+Other Liabilities,FY2018,1039.0,Cr,"1,039",Colgate,BalanceSheet
+Other Liabilities,FY2019,1097.0,Cr,"1,097",Colgate,BalanceSheet
+Other Liabilities,FY2020,908.0,Cr,908,Colgate,BalanceSheet
+Other Liabilities,FY2021,1637.0,Cr,"1,637",Colgate,BalanceSheet
+Other Liabilities,FY2022,1084.0,Cr,"1,084",Colgate,BalanceSheet
+Other Liabilities,FY2023,1098.0,Cr,"1,098",Colgate,BalanceSheet
+Other Liabilities,FY2024,1250.0,Cr,"1,250",Colgate,BalanceSheet
+Other Liabilities,FY2025,1293.0,Cr,"1,293",Colgate,BalanceSheet
+Other Liabilities,FY2026,1777.0,Cr,"1,777",Colgate,BalanceSheet
+Total Liabilities,FY2015,1702.0,Cr,"1,702",Colgate,BalanceSheet
+Total Liabilities,FY2016,2003.0,Cr,"2,003",Colgate,BalanceSheet
+Total Liabilities,FY2017,2311.0,Cr,"2,311",Colgate,BalanceSheet
+Total Liabilities,FY2018,2564.0,Cr,"2,564",Colgate,BalanceSheet
+Total Liabilities,FY2019,2626.0,Cr,"2,626",Colgate,BalanceSheet
+Total Liabilities,FY2020,2604.0,Cr,"2,604",Colgate,BalanceSheet
+Total Liabilities,FY2021,2894.0,Cr,"2,894",Colgate,BalanceSheet
+Total Liabilities,FY2022,2902.0,Cr,"2,902",Colgate,BalanceSheet
+Total Liabilities,FY2023,2883.0,Cr,"2,883",Colgate,BalanceSheet
+Total Liabilities,FY2024,3197.0,Cr,"3,197",Colgate,BalanceSheet
+Total Liabilities,FY2025,3019.0,Cr,"3,019",Colgate,BalanceSheet
+Total Liabilities,FY2026,3408.0,Cr,"3,408",Colgate,BalanceSheet
+Fixed Assets,FY2015,782.0,Cr,782,Colgate,BalanceSheet
+Fixed Assets,FY2016,1008.0,Cr,"1,008",Colgate,BalanceSheet
+Fixed Assets,FY2017,1108.0,Cr,"1,108",Colgate,BalanceSheet
+Fixed Assets,FY2018,1146.0,Cr,"1,146",Colgate,BalanceSheet
+Fixed Assets,FY2019,1191.0,Cr,"1,191",Colgate,BalanceSheet
+Fixed Assets,FY2020,1123.0,Cr,"1,123",Colgate,BalanceSheet
+Fixed Assets,FY2021,1065.0,Cr,"1,065",Colgate,BalanceSheet
+Fixed Assets,FY2022,963.0,Cr,963,Colgate,BalanceSheet
+Fixed Assets,FY2023,862.0,Cr,862,Colgate,BalanceSheet
+Fixed Assets,FY2024,794.0,Cr,794,Colgate,BalanceSheet
+Fixed Assets,FY2025,776.0,Cr,776,Colgate,BalanceSheet
+Fixed Assets,FY2026,718.0,Cr,718,Colgate,BalanceSheet
+CWIP,FY2015,141.0,Cr,141,Colgate,BalanceSheet
+CWIP,FY2016,78.0,Cr,78,Colgate,BalanceSheet
+CWIP,FY2017,167.0,Cr,167,Colgate,BalanceSheet
+CWIP,FY2018,159.0,Cr,159,Colgate,BalanceSheet
+CWIP,FY2019,199.0,Cr,199,Colgate,BalanceSheet
+CWIP,FY2020,190.0,Cr,190,Colgate,BalanceSheet
+CWIP,FY2021,145.0,Cr,145,Colgate,BalanceSheet
+CWIP,FY2022,122.0,Cr,122,Colgate,BalanceSheet
+CWIP,FY2023,114.0,Cr,114,Colgate,BalanceSheet
+CWIP,FY2024,110.0,Cr,110,Colgate,BalanceSheet
+CWIP,FY2025,38.0,Cr,38,Colgate,BalanceSheet
+CWIP,FY2026,27.0,Cr,27,Colgate,BalanceSheet
+Investments,FY2015,37.0,Cr,37,Colgate,BalanceSheet
+Investments,FY2016,31.0,Cr,31,Colgate,BalanceSheet
+Investments,FY2017,31.0,Cr,31,Colgate,BalanceSheet
+Investments,FY2018,31.0,Cr,31,Colgate,BalanceSheet
+Investments,FY2019,31.0,Cr,31,Colgate,BalanceSheet
+Investments,FY2020,19.0,Cr,19,Colgate,BalanceSheet
+Investments,FY2021,19.0,Cr,19,Colgate,BalanceSheet
+Investments,FY2022,0.0,Cr,0,Colgate,BalanceSheet
+Investments,FY2023,0.0,Cr,0,Colgate,BalanceSheet
+Investments,FY2024,0.0,Cr,0,Colgate,BalanceSheet
+Investments,FY2025,0.0,Cr,0,Colgate,BalanceSheet
+Investments,FY2026,0.0,Cr,0,Colgate,BalanceSheet
+Other Assets,FY2015,742.0,Cr,742,Colgate,BalanceSheet
+Other Assets,FY2016,885.0,Cr,885,Colgate,BalanceSheet
+Other Assets,FY2017,1005.0,Cr,"1,005",Colgate,BalanceSheet
+Other Assets,FY2018,1228.0,Cr,"1,228",Colgate,BalanceSheet
+Other Assets,FY2019,1206.0,Cr,"1,206",Colgate,BalanceSheet
+Other Assets,FY2020,1272.0,Cr,"1,272",Colgate,BalanceSheet
+Other Assets,FY2021,1666.0,Cr,"1,666",Colgate,BalanceSheet
+Other Assets,FY2022,1817.0,Cr,"1,817",Colgate,BalanceSheet
+Other Assets,FY2023,1907.0,Cr,"1,907",Colgate,BalanceSheet
+Other Assets,FY2024,2292.0,Cr,"2,292",Colgate,BalanceSheet
+Other Assets,FY2025,2204.0,Cr,"2,204",Colgate,BalanceSheet
+Other Assets,FY2026,2663.0,Cr,"2,663",Colgate,BalanceSheet
+Total Assets,FY2015,1702.0,Cr,"1,702",Colgate,BalanceSheet
+Total Assets,FY2016,2003.0,Cr,"2,003",Colgate,BalanceSheet
+Total Assets,FY2017,2311.0,Cr,"2,311",Colgate,BalanceSheet
+Total Assets,FY2018,2564.0,Cr,"2,564",Colgate,BalanceSheet
+Total Assets,FY2019,2626.0,Cr,"2,626",Colgate,BalanceSheet
+Total Assets,FY2020,2604.0,Cr,"2,604",Colgate,BalanceSheet
+Total Assets,FY2021,2894.0,Cr,"2,894",Colgate,BalanceSheet
+Total Assets,FY2022,2902.0,Cr,"2,902",Colgate,BalanceSheet
+Total Assets,FY2023,2883.0,Cr,"2,883",Colgate,BalanceSheet
+Total Assets,FY2024,3197.0,Cr,"3,197",Colgate,BalanceSheet
+Total Assets,FY2025,3019.0,Cr,"3,019",Colgate,BalanceSheet
+Total Assets,FY2026,3408.0,Cr,"3,408",Colgate,BalanceSheet
+Cash from Operating Activity,FY2015,638.0,Cr,638,Colgate,CashFlow
+Cash from Operating Activity,FY2016,689.0,Cr,689,Colgate,CashFlow
+Cash from Operating Activity,FY2017,688.0,Cr,688,Colgate,CashFlow
+Cash from Operating Activity,FY2018,694.0,Cr,694,Colgate,CashFlow
+Cash from Operating Activity,FY2019,983.0,Cr,983,Colgate,CashFlow
+Cash from Operating Activity,FY2020,930.0,Cr,930,Colgate,CashFlow
+Cash from Operating Activity,FY2021,784.0,Cr,784,Colgate,CashFlow
+Cash from Operating Activity,FY2022,1626.0,Cr,"1,626",Colgate,CashFlow
+Cash from Operating Activity,FY2023,1176.0,Cr,"1,176",Colgate,CashFlow
+Cash from Operating Activity,FY2024,1199.0,Cr,"1,199",Colgate,CashFlow
+Cash from Operating Activity,FY2025,1394.0,Cr,"1,394",Colgate,CashFlow
+Cash from Operating Activity,FY2026,1806.0,Cr,"1,806",Colgate,CashFlow
+Cash from Investing Activity,FY2015,-272.0,Cr,-272,Colgate,CashFlow
+Cash from Investing Activity,FY2016,-237.0,Cr,-237,Colgate,CashFlow
+Cash from Investing Activity,FY2017,-342.0,Cr,-342,Colgate,CashFlow
+Cash from Investing Activity,FY2018,-207.0,Cr,-207,Colgate,CashFlow
+Cash from Investing Activity,FY2019,-96.0,Cr,-96,Colgate,CashFlow
+Cash from Investing Activity,FY2020,-19.0,Cr,-19,Colgate,CashFlow
+Cash from Investing Activity,FY2021,71.0,Cr,71,Colgate,CashFlow
+Cash from Investing Activity,FY2022,-108.0,Cr,-108,Colgate,CashFlow
+Cash from Investing Activity,FY2023,-8.0,Cr,-8,Colgate,CashFlow
+Cash from Investing Activity,FY2024,79.0,Cr,79,Colgate,CashFlow
+Cash from Investing Activity,FY2025,56.0,Cr,56,Colgate,CashFlow
+Cash from Investing Activity,FY2026,374.0,Cr,374,Colgate,CashFlow
+Cash from Financing Activity,FY2015,-385.0,Cr,-385,Colgate,CashFlow
+Cash from Financing Activity,FY2016,-391.0,Cr,-391,Colgate,CashFlow
+Cash from Financing Activity,FY2017,-341.0,Cr,-341,Colgate,CashFlow
+Cash from Financing Activity,FY2018,-380.0,Cr,-380,Colgate,CashFlow
+Cash from Financing Activity,FY2019,-815.0,Cr,-815,Colgate,CashFlow
+Cash from Financing Activity,FY2020,-891.0,Cr,-891,Colgate,CashFlow
+Cash from Financing Activity,FY2021,-956.0,Cr,-956,Colgate,CashFlow
+Cash from Financing Activity,FY2022,-1091.0,Cr,"-1,091",Colgate,CashFlow
+Cash from Financing Activity,FY2023,-1087.0,Cr,"-1,087",Colgate,CashFlow
+Cash from Financing Activity,FY2024,-1195.0,Cr,"-1,195",Colgate,CashFlow
+Cash from Financing Activity,FY2025,-1671.0,Cr,"-1,671",Colgate,CashFlow
+Cash from Financing Activity,FY2026,-1422.0,Cr,"-1,422",Colgate,CashFlow
+Net Cash Flow,FY2015,-18.0,Cr,-18,Colgate,CashFlow
+Net Cash Flow,FY2016,61.0,Cr,61,Colgate,CashFlow
+Net Cash Flow,FY2017,5.0,Cr,5,Colgate,CashFlow
+Net Cash Flow,FY2018,107.0,Cr,107,Colgate,CashFlow
+Net Cash Flow,FY2019,73.0,Cr,73,Colgate,CashFlow
+Net Cash Flow,FY2020,20.0,Cr,20,Colgate,CashFlow
+Net Cash Flow,FY2021,-101.0,Cr,-101,Colgate,CashFlow
+Net Cash Flow,FY2022,427.0,Cr,427,Colgate,CashFlow
+Net Cash Flow,FY2023,82.0,Cr,82,Colgate,CashFlow
+Net Cash Flow,FY2024,83.0,Cr,83,Colgate,CashFlow
+Net Cash Flow,FY2025,-221.0,Cr,-221,Colgate,CashFlow
+Net Cash Flow,FY2026,758.0,Cr,758,Colgate,CashFlow
+Free Cash Flow,FY2015,339.0,Cr,339,Colgate,CashFlow
+Free Cash Flow,FY2016,417.0,Cr,417,Colgate,CashFlow
+Free Cash Flow,FY2017,367.0,Cr,367,Colgate,CashFlow
+Free Cash Flow,FY2018,485.0,Cr,485,Colgate,CashFlow
+Free Cash Flow,FY2019,879.0,Cr,879,Colgate,CashFlow
+Free Cash Flow,FY2020,869.0,Cr,869,Colgate,CashFlow
+Free Cash Flow,FY2021,727.0,Cr,727,Colgate,CashFlow
+Free Cash Flow,FY2022,1576.0,Cr,"1,576",Colgate,CashFlow
+Free Cash Flow,FY2023,1107.0,Cr,"1,107",Colgate,CashFlow
+Free Cash Flow,FY2024,1123.0,Cr,"1,123",Colgate,CashFlow
+Free Cash Flow,FY2025,1323.0,Cr,"1,323",Colgate,CashFlow
+Free Cash Flow,FY2026,1730.0,Cr,"1,730",Colgate,CashFlow
+CFO/OP,FY2015,103.0,%,103%,Colgate,CashFlow
+CFO/OP,FY2016,100.0,%,100%,Colgate,CashFlow
+CFO/OP,FY2017,105.0,%,105%,Colgate,CashFlow
+CFO/OP,FY2018,93.0,%,93%,Colgate,CashFlow
+CFO/OP,FY2019,113.0,%,113%,Colgate,CashFlow
+CFO/OP,FY2020,104.0,%,104%,Colgate,CashFlow
+CFO/OP,FY2021,76.0,%,76%,Colgate,CashFlow
+CFO/OP,FY2022,127.0,%,127%,Colgate,CashFlow
+CFO/OP,FY2023,101.0,%,101%,Colgate,CashFlow
+CFO/OP,FY2024,88.0,%,88%,Colgate,CashFlow
+CFO/OP,FY2025,100.0,%,100%,Colgate,CashFlow
+CFO/OP,FY2026,121.0,%,121%,Colgate,CashFlow
+Sales,FY2015,8175.0,Cr,"8,175",Nestle,P&L
+Sales,FY2016,9141.0,Cr,"9,141",Nestle,P&L
+Sales,FY2017,10010.0,Cr,"10,010",Nestle,P&L
+Sales,FY2018,11292.0,Cr,"11,292",Nestle,P&L
+Sales,FY2019,12369.0,Cr,"12,369",Nestle,P&L
+Sales,FY2020,13350.0,Cr,"13,350",Nestle,P&L
+Sales,FY2021,14741.0,Cr,"14,741",Nestle,P&L
+Sales,FY2022,16897.0,Cr,"16,897",Nestle,P&L
+Sales,FY2023,19126.0,Cr,"19,126",Nestle,P&L
+Sales,FY2024,24394.0,Cr,"24,394",Nestle,P&L
+Sales,FY2025,20202.0,Cr,"20,202",Nestle,P&L
+Sales,FY2026,23155.0,Cr,"23,155",Nestle,P&L
+Expenses,FY2015,6620.0,Cr,"6,620",Nestle,P&L
+Expenses,FY2016,7292.0,Cr,"7,292",Nestle,P&L
+Expenses,FY2017,7913.0,Cr,"7,913",Nestle,P&L
+Expenses,FY2018,8675.0,Cr,"8,675",Nestle,P&L
+Expenses,FY2019,9443.0,Cr,"9,443",Nestle,P&L
+Expenses,FY2020,10149.0,Cr,"10,149",Nestle,P&L
+Expenses,FY2021,11178.0,Cr,"11,178",Nestle,P&L
+Expenses,FY2022,13191.0,Cr,"13,191",Nestle,P&L
+Expenses,FY2023,14655.0,Cr,"14,655",Nestle,P&L
+Expenses,FY2024,18551.0,Cr,"18,551",Nestle,P&L
+Expenses,FY2025,15430.0,Cr,"15,430",Nestle,P&L
+Expenses,FY2026,17848.0,Cr,"17,848",Nestle,P&L
+Operating Profit,FY2015,1555.0,Cr,"1,555",Nestle,P&L
+Operating Profit,FY2016,1850.0,Cr,"1,850",Nestle,P&L
+Operating Profit,FY2017,2097.0,Cr,"2,097",Nestle,P&L
+Operating Profit,FY2018,2618.0,Cr,"2,618",Nestle,P&L
+Operating Profit,FY2019,2926.0,Cr,"2,926",Nestle,P&L
+Operating Profit,FY2020,3202.0,Cr,"3,202",Nestle,P&L
+Operating Profit,FY2021,3562.0,Cr,"3,562",Nestle,P&L
+Operating Profit,FY2022,3706.0,Cr,"3,706",Nestle,P&L
+Operating Profit,FY2023,4471.0,Cr,"4,471",Nestle,P&L
+Operating Profit,FY2024,5843.0,Cr,"5,843",Nestle,P&L
+Operating Profit,FY2025,4771.0,Cr,"4,771",Nestle,P&L
+Operating Profit,FY2026,5307.0,Cr,"5,307",Nestle,P&L
+OPM %,FY2015,19.0,%,19%,Nestle,P&L
+OPM %,FY2016,20.0,%,20%,Nestle,P&L
+OPM %,FY2017,21.0,%,21%,Nestle,P&L
+OPM %,FY2018,23.0,%,23%,Nestle,P&L
+OPM %,FY2019,24.0,%,24%,Nestle,P&L
+OPM %,FY2020,24.0,%,24%,Nestle,P&L
+OPM %,FY2021,24.0,%,24%,Nestle,P&L
+OPM %,FY2022,22.0,%,22%,Nestle,P&L
+OPM %,FY2023,23.0,%,23%,Nestle,P&L
+OPM %,FY2024,24.0,%,24%,Nestle,P&L
+OPM %,FY2025,24.0,%,24%,Nestle,P&L
+OPM %,FY2026,23.0,%,23%,Nestle,P&L
+Other Income,FY2015,-391.0,Cr,-391,Nestle,P&L
+Other Income,FY2016,140.0,Cr,140,Nestle,P&L
+Other Income,FY2017,177.0,Cr,177,Nestle,P&L
+Other Income,FY2018,259.0,Cr,259,Nestle,P&L
+Other Income,FY2019,247.0,Cr,247,Nestle,P&L
+Other Income,FY2020,146.0,Cr,146,Nestle,P&L
+Other Income,FY2021,-112.0,Cr,-112,Nestle,P&L
+Other Income,FY2022,107.0,Cr,107,Nestle,P&L
+Other Income,FY2023,116.0,Cr,116,Nestle,P&L
+Other Income,FY2024,159.0,Cr,159,Nestle,P&L
+Other Income,FY2025,352.0,Cr,352,Nestle,P&L
+Other Income,FY2026,160.0,Cr,160,Nestle,P&L
+Interest,FY2015,3.0,Cr,3,Nestle,P&L
+Interest,FY2016,91.0,Cr,91,Nestle,P&L
+Interest,FY2017,92.0,Cr,92,Nestle,P&L
+Interest,FY2018,112.0,Cr,112,Nestle,P&L
+Interest,FY2019,129.0,Cr,129,Nestle,P&L
+Interest,FY2020,164.0,Cr,164,Nestle,P&L
+Interest,FY2021,202.0,Cr,202,Nestle,P&L
+Interest,FY2022,155.0,Cr,155,Nestle,P&L
+Interest,FY2023,119.0,Cr,119,Nestle,P&L
+Interest,FY2024,145.0,Cr,145,Nestle,P&L
+Interest,FY2025,136.0,Cr,136,Nestle,P&L
+Interest,FY2026,158.0,Cr,158,Nestle,P&L
+Depreciation,FY2015,347.0,Cr,347,Nestle,P&L
+Depreciation,FY2016,354.0,Cr,354,Nestle,P&L
+Depreciation,FY2017,342.0,Cr,342,Nestle,P&L
+Depreciation,FY2018,336.0,Cr,336,Nestle,P&L
+Depreciation,FY2019,370.0,Cr,370,Nestle,P&L
+Depreciation,FY2020,370.0,Cr,370,Nestle,P&L
+Depreciation,FY2021,391.0,Cr,391,Nestle,P&L
+Depreciation,FY2022,403.0,Cr,403,Nestle,P&L
+Depreciation,FY2023,429.0,Cr,429,Nestle,P&L
+Depreciation,FY2024,568.0,Cr,568,Nestle,P&L
+Depreciation,FY2025,540.0,Cr,540,Nestle,P&L
+Depreciation,FY2026,699.0,Cr,699,Nestle,P&L
+Profit before tax,FY2015,814.0,Cr,814,Nestle,P&L
+Profit before tax,FY2016,1545.0,Cr,"1,545",Nestle,P&L
+Profit before tax,FY2017,1839.0,Cr,"1,839",Nestle,P&L
+Profit before tax,FY2018,2429.0,Cr,"2,429",Nestle,P&L
+Profit before tax,FY2019,2673.0,Cr,"2,673",Nestle,P&L
+Profit before tax,FY2020,2813.0,Cr,"2,813",Nestle,P&L
+Profit before tax,FY2021,2857.0,Cr,"2,857",Nestle,P&L
+Profit before tax,FY2022,3256.0,Cr,"3,256",Nestle,P&L
+Profit before tax,FY2023,4038.0,Cr,"4,038",Nestle,P&L
+Profit before tax,FY2024,5289.0,Cr,"5,289",Nestle,P&L
+Profit before tax,FY2025,4447.0,Cr,"4,447",Nestle,P&L
+Profit before tax,FY2026,4610.0,Cr,"4,610",Nestle,P&L
+Tax %,FY2015,31.0,%,31%,Nestle,P&L
+Tax %,FY2016,35.0,%,35%,Nestle,P&L
+Tax %,FY2017,33.0,%,33%,Nestle,P&L
+Tax %,FY2018,34.0,%,34%,Nestle,P&L
+Tax %,FY2019,26.0,%,26%,Nestle,P&L
+Tax %,FY2020,26.0,%,26%,Nestle,P&L
+Tax %,FY2021,26.0,%,26%,Nestle,P&L
+Tax %,FY2022,27.0,%,27%,Nestle,P&L
+Tax %,FY2023,26.0,%,26%,Nestle,P&L
+Tax %,FY2024,26.0,%,26%,Nestle,P&L
+Tax %,FY2025,25.0,%,25%,Nestle,P&L
+Tax %,FY2026,23.0,%,23%,Nestle,P&L
+Net Profit,FY2015,563.0,Cr,563,Nestle,P&L
+Net Profit,FY2016,1001.0,Cr,"1,001",Nestle,P&L
+Net Profit,FY2017,1225.0,Cr,"1,225",Nestle,P&L
+Net Profit,FY2018,1607.0,Cr,"1,607",Nestle,P&L
+Net Profit,FY2019,1968.0,Cr,"1,968",Nestle,P&L
+Net Profit,FY2020,2082.0,Cr,"2,082",Nestle,P&L
+Net Profit,FY2021,2118.0,Cr,"2,118",Nestle,P&L
+Net Profit,FY2022,2391.0,Cr,"2,391",Nestle,P&L
+Net Profit,FY2023,2999.0,Cr,"2,999",Nestle,P&L
+Net Profit,FY2024,3933.0,Cr,"3,933",Nestle,P&L
+Net Profit,FY2025,3314.0,Cr,"3,314",Nestle,P&L
+Net Profit,FY2026,3545.0,Cr,"3,545",Nestle,P&L
+EPS in Rs,FY2015,2.92,Rs,2.92,Nestle,P&L
+EPS in Rs,FY2016,5.19,Rs,5.19,Nestle,P&L
+EPS in Rs,FY2017,6.35,Rs,6.35,Nestle,P&L
+EPS in Rs,FY2018,8.33,Rs,8.33,Nestle,P&L
+EPS in Rs,FY2019,10.21,Rs,10.21,Nestle,P&L
+EPS in Rs,FY2020,10.8,Rs,10.80,Nestle,P&L
+EPS in Rs,FY2021,10.99,Rs,10.99,Nestle,P&L
+EPS in Rs,FY2022,12.4,Rs,12.40,Nestle,P&L
+EPS in Rs,FY2023,15.55,Rs,15.55,Nestle,P&L
+EPS in Rs,FY2024,20.4,Rs,20.40,Nestle,P&L
+EPS in Rs,FY2025,17.19,Rs,17.19,Nestle,P&L
+EPS in Rs,FY2026,18.38,Rs,18.38,Nestle,P&L
+Dividend Payout %,FY2015,83.0,%,83%,Nestle,P&L
+Dividend Payout %,FY2016,61.0,%,61%,Nestle,P&L
+Dividend Payout %,FY2017,68.0,%,68%,Nestle,P&L
+Dividend Payout %,FY2018,69.0,%,69%,Nestle,P&L
+Dividend Payout %,FY2019,168.0,%,168%,Nestle,P&L
+Dividend Payout %,FY2020,93.0,%,93%,Nestle,P&L
+Dividend Payout %,FY2021,91.0,%,91%,Nestle,P&L
+Dividend Payout %,FY2022,89.0,%,89%,Nestle,P&L
+Dividend Payout %,FY2023,56.0,%,56%,Nestle,P&L
+Dividend Payout %,FY2024,79.0,%,79%,Nestle,P&L
+Dividend Payout %,FY2025,79.0,%,79%,Nestle,P&L
+Dividend Payout %,FY2026,65.0,%,65%,Nestle,P&L
+Equity Capital,FY2015,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2016,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2017,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2018,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2019,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2020,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2021,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2022,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2023,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2024,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2025,96.0,Cr,96,Nestle,BalanceSheet
+Equity Capital,FY2026,193.0,Cr,193,Nestle,BalanceSheet
+Reserves,FY2015,2721.0,Cr,"2,721",Nestle,BalanceSheet
+Reserves,FY2016,3186.0,Cr,"3,186",Nestle,BalanceSheet
+Reserves,FY2017,3324.0,Cr,"3,324",Nestle,BalanceSheet
+Reserves,FY2018,3577.0,Cr,"3,577",Nestle,BalanceSheet
+Reserves,FY2019,1822.0,Cr,"1,822",Nestle,BalanceSheet
+Reserves,FY2020,1923.0,Cr,"1,923",Nestle,BalanceSheet
+Reserves,FY2021,1850.0,Cr,"1,850",Nestle,BalanceSheet
+Reserves,FY2022,2363.0,Cr,"2,363",Nestle,BalanceSheet
+Reserves,FY2023,2363.0,Cr,"2,363",Nestle,BalanceSheet
+Reserves,FY2024,3244.0,Cr,"3,244",Nestle,BalanceSheet
+Reserves,FY2025,4021.0,Cr,"4,021",Nestle,BalanceSheet
+Reserves,FY2026,5116.0,Cr,"5,116",Nestle,BalanceSheet
+Borrowings,FY2015,18.0,Cr,18,Nestle,BalanceSheet
+Borrowings,FY2016,33.0,Cr,33,Nestle,BalanceSheet
+Borrowings,FY2017,35.0,Cr,35,Nestle,BalanceSheet
+Borrowings,FY2018,35.0,Cr,35,Nestle,BalanceSheet
+Borrowings,FY2019,189.0,Cr,189,Nestle,BalanceSheet
+Borrowings,FY2020,147.0,Cr,147,Nestle,BalanceSheet
+Borrowings,FY2021,266.0,Cr,266,Nestle,BalanceSheet
+Borrowings,FY2022,271.0,Cr,271,Nestle,BalanceSheet
+Borrowings,FY2023,271.0,Cr,271,Nestle,BalanceSheet
+Borrowings,FY2024,345.0,Cr,345,Nestle,BalanceSheet
+Borrowings,FY2025,1167.0,Cr,"1,167",Nestle,BalanceSheet
+Borrowings,FY2026,444.0,Cr,444,Nestle,BalanceSheet
+Other Liabilities,FY2015,3251.0,Cr,"3,251",Nestle,BalanceSheet
+Other Liabilities,FY2016,3495.0,Cr,"3,495",Nestle,BalanceSheet
+Other Liabilities,FY2017,3907.0,Cr,"3,907",Nestle,BalanceSheet
+Other Liabilities,FY2018,4379.0,Cr,"4,379",Nestle,BalanceSheet
+Other Liabilities,FY2019,5065.0,Cr,"5,065",Nestle,BalanceSheet
+Other Liabilities,FY2020,5733.0,Cr,"5,733",Nestle,BalanceSheet
+Other Liabilities,FY2021,6021.0,Cr,"6,021",Nestle,BalanceSheet
+Other Liabilities,FY2022,6249.0,Cr,"6,249",Nestle,BalanceSheet
+Other Liabilities,FY2023,6249.0,Cr,"6,249",Nestle,BalanceSheet
+Other Liabilities,FY2024,6838.0,Cr,"6,838",Nestle,BalanceSheet
+Other Liabilities,FY2025,7040.0,Cr,"7,040",Nestle,BalanceSheet
+Other Liabilities,FY2026,7604.0,Cr,"7,604",Nestle,BalanceSheet
+Total Liabilities,FY2015,6086.0,Cr,"6,086",Nestle,BalanceSheet
+Total Liabilities,FY2016,6810.0,Cr,"6,810",Nestle,BalanceSheet
+Total Liabilities,FY2017,7363.0,Cr,"7,363",Nestle,BalanceSheet
+Total Liabilities,FY2018,8088.0,Cr,"8,088",Nestle,BalanceSheet
+Total Liabilities,FY2019,7173.0,Cr,"7,173",Nestle,BalanceSheet
+Total Liabilities,FY2020,7900.0,Cr,"7,900",Nestle,BalanceSheet
+Total Liabilities,FY2021,8234.0,Cr,"8,234",Nestle,BalanceSheet
+Total Liabilities,FY2022,8979.0,Cr,"8,979",Nestle,BalanceSheet
+Total Liabilities,FY2023,8979.0,Cr,"8,979",Nestle,BalanceSheet
+Total Liabilities,FY2024,10523.0,Cr,"10,523",Nestle,BalanceSheet
+Total Liabilities,FY2025,12324.0,Cr,"12,324",Nestle,BalanceSheet
+Total Liabilities,FY2026,13357.0,Cr,"13,357",Nestle,BalanceSheet
+Fixed Assets,FY2015,2898.0,Cr,"2,898",Nestle,BalanceSheet
+Fixed Assets,FY2016,2730.0,Cr,"2,730",Nestle,BalanceSheet
+Fixed Assets,FY2017,2616.0,Cr,"2,616",Nestle,BalanceSheet
+Fixed Assets,FY2018,2401.0,Cr,"2,401",Nestle,BalanceSheet
+Fixed Assets,FY2019,2341.0,Cr,"2,341",Nestle,BalanceSheet
+Fixed Assets,FY2020,2179.0,Cr,"2,179",Nestle,BalanceSheet
+Fixed Assets,FY2021,2995.0,Cr,"2,995",Nestle,BalanceSheet
+Fixed Assets,FY2022,3044.0,Cr,"3,044",Nestle,BalanceSheet
+Fixed Assets,FY2023,3044.0,Cr,"3,044",Nestle,BalanceSheet
+Fixed Assets,FY2024,3460.0,Cr,"3,460",Nestle,BalanceSheet
+Fixed Assets,FY2025,5474.0,Cr,"5,474",Nestle,BalanceSheet
+Fixed Assets,FY2026,6290.0,Cr,"6,290",Nestle,BalanceSheet
+CWIP,FY2015,231.0,Cr,231,Nestle,BalanceSheet
+CWIP,FY2016,188.0,Cr,188,Nestle,BalanceSheet
+CWIP,FY2017,94.0,Cr,94,Nestle,BalanceSheet
+CWIP,FY2018,105.0,Cr,105,Nestle,BalanceSheet
+CWIP,FY2019,143.0,Cr,143,Nestle,BalanceSheet
+CWIP,FY2020,639.0,Cr,639,Nestle,BalanceSheet
+CWIP,FY2021,246.0,Cr,246,Nestle,BalanceSheet
+CWIP,FY2022,358.0,Cr,358,Nestle,BalanceSheet
+CWIP,FY2023,358.0,Cr,358,Nestle,BalanceSheet
+CWIP,FY2024,1742.0,Cr,"1,742",Nestle,BalanceSheet
+CWIP,FY2025,1173.0,Cr,"1,173",Nestle,BalanceSheet
+CWIP,FY2026,507.0,Cr,507,Nestle,BalanceSheet
+Investments,FY2015,1325.0,Cr,"1,325",Nestle,BalanceSheet
+Investments,FY2016,1756.0,Cr,"1,756",Nestle,BalanceSheet
+Investments,FY2017,1979.0,Cr,"1,979",Nestle,BalanceSheet
+Investments,FY2018,2658.0,Cr,"2,658",Nestle,BalanceSheet
+Investments,FY2019,1751.0,Cr,"1,751",Nestle,BalanceSheet
+Investments,FY2020,1464.0,Cr,"1,464",Nestle,BalanceSheet
+Investments,FY2021,774.0,Cr,774,Nestle,BalanceSheet
+Investments,FY2022,778.0,Cr,778,Nestle,BalanceSheet
+Investments,FY2023,778.0,Cr,778,Nestle,BalanceSheet
+Investments,FY2024,464.0,Cr,464,Nestle,BalanceSheet
+Investments,FY2025,706.0,Cr,706,Nestle,BalanceSheet
+Investments,FY2026,706.0,Cr,706,Nestle,BalanceSheet
+Other Assets,FY2015,1633.0,Cr,"1,633",Nestle,BalanceSheet
+Other Assets,FY2016,2136.0,Cr,"2,136",Nestle,BalanceSheet
+Other Assets,FY2017,2673.0,Cr,"2,673",Nestle,BalanceSheet
+Other Assets,FY2018,2924.0,Cr,"2,924",Nestle,BalanceSheet
+Other Assets,FY2019,2937.0,Cr,"2,937",Nestle,BalanceSheet
+Other Assets,FY2020,3618.0,Cr,"3,618",Nestle,BalanceSheet
+Other Assets,FY2021,4219.0,Cr,"4,219",Nestle,BalanceSheet
+Other Assets,FY2022,4799.0,Cr,"4,799",Nestle,BalanceSheet
+Other Assets,FY2023,4799.0,Cr,"4,799",Nestle,BalanceSheet
+Other Assets,FY2024,4857.0,Cr,"4,857",Nestle,BalanceSheet
+Other Assets,FY2025,4972.0,Cr,"4,972",Nestle,BalanceSheet
+Other Assets,FY2026,5854.0,Cr,"5,854",Nestle,BalanceSheet
+Total Assets,FY2015,6086.0,Cr,"6,086",Nestle,BalanceSheet
+Total Assets,FY2016,6810.0,Cr,"6,810",Nestle,BalanceSheet
+Total Assets,FY2017,7363.0,Cr,"7,363",Nestle,BalanceSheet
+Total Assets,FY2018,8088.0,Cr,"8,088",Nestle,BalanceSheet
+Total Assets,FY2019,7173.0,Cr,"7,173",Nestle,BalanceSheet
+Total Assets,FY2020,7900.0,Cr,"7,900",Nestle,BalanceSheet
+Total Assets,FY2021,8234.0,Cr,"8,234",Nestle,BalanceSheet
+Total Assets,FY2022,8979.0,Cr,"8,979",Nestle,BalanceSheet
+Total Assets,FY2023,8979.0,Cr,"8,979",Nestle,BalanceSheet
+Total Assets,FY2024,10523.0,Cr,"10,523",Nestle,BalanceSheet
+Total Assets,FY2025,12324.0,Cr,"12,324",Nestle,BalanceSheet
+Total Assets,FY2026,13357.0,Cr,"13,357",Nestle,BalanceSheet
+Cash from Operating Activity,FY2015,1098.0,Cr,"1,098",Nestle,CashFlow
+Cash from Operating Activity,FY2016,1466.0,Cr,"1,466",Nestle,CashFlow
+Cash from Operating Activity,FY2017,1818.0,Cr,"1,818",Nestle,CashFlow
+Cash from Operating Activity,FY2018,2052.0,Cr,"2,052",Nestle,CashFlow
+Cash from Operating Activity,FY2019,2295.0,Cr,"2,295",Nestle,CashFlow
+Cash from Operating Activity,FY2020,2454.0,Cr,"2,454",Nestle,CashFlow
+Cash from Operating Activity,FY2021,2236.0,Cr,"2,236",Nestle,CashFlow
+Cash from Operating Activity,FY2022,2737.0,Cr,"2,737",Nestle,CashFlow
+Cash from Operating Activity,FY2023,3392.0,Cr,"3,392",Nestle,CashFlow
+Cash from Operating Activity,FY2024,4175.0,Cr,"4,175",Nestle,CashFlow
+Cash from Operating Activity,FY2025,2935.0,Cr,"2,935",Nestle,CashFlow
+Cash from Operating Activity,FY2026,5048.0,Cr,"5,048",Nestle,CashFlow
+Cash from Investing Activity,FY2015,-70.0,Cr,-70,Nestle,CashFlow
+Cash from Investing Activity,FY2016,-126.0,Cr,-126,Nestle,CashFlow
+Cash from Investing Activity,FY2017,-131.0,Cr,-131,Nestle,CashFlow
+Cash from Investing Activity,FY2018,-52.0,Cr,-52,Nestle,CashFlow
+Cash from Investing Activity,FY2019,83.0,Cr,83,Nestle,CashFlow
+Cash from Investing Activity,FY2020,-321.0,Cr,-321,Nestle,CashFlow
+Cash from Investing Activity,FY2021,-1920.0,Cr,"-1,920",Nestle,CashFlow
+Cash from Investing Activity,FY2022,-392.0,Cr,-392,Nestle,CashFlow
+Cash from Investing Activity,FY2023,-927.0,Cr,-927,Nestle,CashFlow
+Cash from Investing Activity,FY2024,-1237.0,Cr,"-1,237",Nestle,CashFlow
+Cash from Investing Activity,FY2025,-1811.0,Cr,"-1,811",Nestle,CashFlow
+Cash from Investing Activity,FY2026,-624.0,Cr,-624,Nestle,CashFlow
+Cash from Financing Activity,FY2015,-498.0,Cr,-498,Nestle,CashFlow
+Cash from Financing Activity,FY2016,-666.0,Cr,-666,Nestle,CashFlow
+Cash from Financing Activity,FY2017,-997.0,Cr,-997,Nestle,CashFlow
+Cash from Financing Activity,FY2018,-1317.0,Cr,"-1,317",Nestle,CashFlow
+Cash from Financing Activity,FY2019,-3602.0,Cr,"-3,602",Nestle,CashFlow
+Cash from Financing Activity,FY2020,-1956.0,Cr,"-1,956",Nestle,CashFlow
+Cash from Financing Activity,FY2021,-2020.0,Cr,"-2,020",Nestle,CashFlow
+Cash from Financing Activity,FY2022,-2123.0,Cr,"-2,123",Nestle,CashFlow
+Cash from Financing Activity,FY2023,-2436.0,Cr,"-2,436",Nestle,CashFlow
+Cash from Financing Activity,FY2024,-3135.0,Cr,"-3,135",Nestle,CashFlow
+Cash from Financing Activity,FY2025,-1846.0,Cr,"-1,846",Nestle,CashFlow
+Cash from Financing Activity,FY2026,-3179.0,Cr,"-3,179",Nestle,CashFlow
+Net Cash Flow,FY2015,529.0,Cr,529,Nestle,CashFlow
+Net Cash Flow,FY2016,674.0,Cr,674,Nestle,CashFlow
+Net Cash Flow,FY2017,691.0,Cr,691,Nestle,CashFlow
+Net Cash Flow,FY2018,683.0,Cr,683,Nestle,CashFlow
+Net Cash Flow,FY2019,-1223.0,Cr,"-1,223",Nestle,CashFlow
+Net Cash Flow,FY2020,177.0,Cr,177,Nestle,CashFlow
+Net Cash Flow,FY2021,-1704.0,Cr,"-1,704",Nestle,CashFlow
+Net Cash Flow,FY2022,223.0,Cr,223,Nestle,CashFlow
+Net Cash Flow,FY2023,29.0,Cr,29,Nestle,CashFlow
+Net Cash Flow,FY2024,-198.0,Cr,-198,Nestle,CashFlow
+Net Cash Flow,FY2025,-723.0,Cr,-723,Nestle,CashFlow
+Net Cash Flow,FY2026,1244.0,Cr,"1,244",Nestle,CashFlow
+Free Cash Flow,FY2015,949.0,Cr,949,Nestle,CashFlow
+Free Cash Flow,FY2016,1353.0,Cr,"1,353",Nestle,CashFlow
+Free Cash Flow,FY2017,1622.0,Cr,"1,622",Nestle,CashFlow
+Free Cash Flow,FY2018,1890.0,Cr,"1,890",Nestle,CashFlow
+Free Cash Flow,FY2019,2143.0,Cr,"2,143",Nestle,CashFlow
+Free Cash Flow,FY2020,1980.0,Cr,"1,980",Nestle,CashFlow
+Free Cash Flow,FY2021,1505.0,Cr,"1,505",Nestle,CashFlow
+Free Cash Flow,FY2022,2197.0,Cr,"2,197",Nestle,CashFlow
+Free Cash Flow,FY2023,2028.0,Cr,"2,028",Nestle,CashFlow
+Free Cash Flow,FY2024,2296.0,Cr,"2,296",Nestle,CashFlow
+Free Cash Flow,FY2025,930.0,Cr,930,Nestle,CashFlow
+Free Cash Flow,FY2026,4221.0,Cr,"4,221",Nestle,CashFlow
+CFO/OP,FY2015,93.0,%,93%,Nestle,CashFlow
+CFO/OP,FY2016,106.0,%,106%,Nestle,CashFlow
+CFO/OP,FY2017,116.0,%,116%,Nestle,CashFlow
+CFO/OP,FY2018,112.0,%,112%,Nestle,CashFlow
+CFO/OP,FY2019,101.0,%,101%,Nestle,CashFlow
+CFO/OP,FY2020,99.0,%,99%,Nestle,CashFlow
+CFO/OP,FY2021,83.0,%,83%,Nestle,CashFlow
+CFO/OP,FY2022,97.0,%,97%,Nestle,CashFlow
+CFO/OP,FY2023,100.0,%,100%,Nestle,CashFlow
+CFO/OP,FY2024,94.0,%,94%,Nestle,CashFlow
+CFO/OP,FY2025,82.0,%,82%,Nestle,CashFlow
+CFO/OP,FY2026,115.0,%,115%,Nestle,CashFlow
+Sales,FY2015,4430.0,Cr,"4,430",Godrej,P&L
+Sales,FY2016,4554.0,Cr,"4,554",Godrej,P&L
+Sales,FY2017,4748.0,Cr,"4,748",Godrej,P&L
+Sales,FY2018,5261.0,Cr,"5,261",Godrej,P&L
+Sales,FY2019,5679.0,Cr,"5,679",Godrej,P&L
+Sales,FY2020,5474.0,Cr,"5,474",Godrej,P&L
+Sales,FY2021,6254.0,Cr,"6,254",Godrej,P&L
+Sales,FY2022,6952.0,Cr,"6,952",Godrej,P&L
+Sales,FY2023,7667.0,Cr,"7,667",Godrej,P&L
+Sales,FY2024,8411.0,Cr,"8,411",Godrej,P&L
+Sales,FY2025,8910.0,Cr,"8,910",Godrej,P&L
+Sales,FY2026,9474.0,Cr,"9,474",Godrej,P&L
+Expenses,FY2015,3588.0,Cr,"3,588",Godrej,P&L
+Expenses,FY2016,3556.0,Cr,"3,556",Godrej,P&L
+Expenses,FY2017,3612.0,Cr,"3,612",Godrej,P&L
+Expenses,FY2018,3931.0,Cr,"3,931",Godrej,P&L
+Expenses,FY2019,4167.0,Cr,"4,167",Godrej,P&L
+Expenses,FY2020,4027.0,Cr,"4,027",Godrej,P&L
+Expenses,FY2021,4602.0,Cr,"4,602",Godrej,P&L
+Expenses,FY2022,5223.0,Cr,"5,223",Godrej,P&L
+Expenses,FY2023,5798.0,Cr,"5,798",Godrej,P&L
+Expenses,FY2024,6169.0,Cr,"6,169",Godrej,P&L
+Expenses,FY2025,6810.0,Cr,"6,810",Godrej,P&L
+Expenses,FY2026,7238.0,Cr,"7,238",Godrej,P&L
+Operating Profit,FY2015,842.0,Cr,842,Godrej,P&L
+Operating Profit,FY2016,998.0,Cr,998,Godrej,P&L
+Operating Profit,FY2017,1136.0,Cr,"1,136",Godrej,P&L
+Operating Profit,FY2018,1330.0,Cr,"1,330",Godrej,P&L
+Operating Profit,FY2019,1513.0,Cr,"1,513",Godrej,P&L
+Operating Profit,FY2020,1448.0,Cr,"1,448",Godrej,P&L
+Operating Profit,FY2021,1653.0,Cr,"1,653",Godrej,P&L
+Operating Profit,FY2022,1729.0,Cr,"1,729",Godrej,P&L
+Operating Profit,FY2023,1869.0,Cr,"1,869",Godrej,P&L
+Operating Profit,FY2024,2243.0,Cr,"2,243",Godrej,P&L
+Operating Profit,FY2025,2100.0,Cr,"2,100",Godrej,P&L
+Operating Profit,FY2026,2236.0,Cr,"2,236",Godrej,P&L
+OPM %,FY2015,19.0,%,19%,Godrej,P&L
+OPM %,FY2016,22.0,%,22%,Godrej,P&L
+OPM %,FY2017,24.0,%,24%,Godrej,P&L
+OPM %,FY2018,25.0,%,25%,Godrej,P&L
+OPM %,FY2019,27.0,%,27%,Godrej,P&L
+OPM %,FY2020,26.0,%,26%,Godrej,P&L
+OPM %,FY2021,26.0,%,26%,Godrej,P&L
+OPM %,FY2022,25.0,%,25%,Godrej,P&L
+OPM %,FY2023,24.0,%,24%,Godrej,P&L
+OPM %,FY2024,27.0,%,27%,Godrej,P&L
+OPM %,FY2025,24.0,%,24%,Godrej,P&L
+OPM %,FY2026,24.0,%,24%,Godrej,P&L
+Other Income,FY2015,65.0,Cr,65,Godrej,P&L
+Other Income,FY2016,50.0,Cr,50,Godrej,P&L
+Other Income,FY2017,64.0,Cr,64,Godrej,P&L
+Other Income,FY2018,74.0,Cr,74,Godrej,P&L
+Other Income,FY2019,94.0,Cr,94,Godrej,P&L
+Other Income,FY2020,91.0,Cr,91,Godrej,P&L
+Other Income,FY2021,49.0,Cr,49,Godrej,P&L
+Other Income,FY2022,127.0,Cr,127,Godrej,P&L
+Other Income,FY2023,112.0,Cr,112,Godrej,P&L
+Other Income,FY2024,-697.0,Cr,-697,Godrej,P&L
+Other Income,FY2025,248.0,Cr,248,Godrej,P&L
+Other Income,FY2026,145.0,Cr,145,Godrej,P&L
+Interest,FY2015,39.0,Cr,39,Godrej,P&L
+Interest,FY2016,55.0,Cr,55,Godrej,P&L
+Interest,FY2017,36.0,Cr,36,Godrej,P&L
+Interest,FY2018,52.0,Cr,52,Godrej,P&L
+Interest,FY2019,65.0,Cr,65,Godrej,P&L
+Interest,FY2020,58.0,Cr,58,Godrej,P&L
+Interest,FY2021,25.0,Cr,25,Godrej,P&L
+Interest,FY2022,8.0,Cr,8,Godrej,P&L
+Interest,FY2023,3.0,Cr,3,Godrej,P&L
+Interest,FY2024,134.0,Cr,134,Godrej,P&L
+Interest,FY2025,191.0,Cr,191,Godrej,P&L
+Interest,FY2026,199.0,Cr,199,Godrej,P&L
+Depreciation,FY2015,42.0,Cr,42,Godrej,P&L
+Depreciation,FY2016,45.0,Cr,45,Godrej,P&L
+Depreciation,FY2017,57.0,Cr,57,Godrej,P&L
+Depreciation,FY2018,63.0,Cr,63,Godrej,P&L
+Depreciation,FY2019,69.0,Cr,69,Godrej,P&L
+Depreciation,FY2020,81.0,Cr,81,Godrej,P&L
+Depreciation,FY2021,83.0,Cr,83,Godrej,P&L
+Depreciation,FY2022,86.0,Cr,86,Godrej,P&L
+Depreciation,FY2023,108.0,Cr,108,Godrej,P&L
+Depreciation,FY2024,127.0,Cr,127,Godrej,P&L
+Depreciation,FY2025,141.0,Cr,141,Godrej,P&L
+Depreciation,FY2026,160.0,Cr,160,Godrej,P&L
+Profit before tax,FY2015,827.0,Cr,827,Godrej,P&L
+Profit before tax,FY2016,948.0,Cr,948,Godrej,P&L
+Profit before tax,FY2017,1107.0,Cr,"1,107",Godrej,P&L
+Profit before tax,FY2018,1289.0,Cr,"1,289",Godrej,P&L
+Profit before tax,FY2019,1473.0,Cr,"1,473",Godrej,P&L
+Profit before tax,FY2020,1400.0,Cr,"1,400",Godrej,P&L
+Profit before tax,FY2021,1594.0,Cr,"1,594",Godrej,P&L
+Profit before tax,FY2022,1762.0,Cr,"1,762",Godrej,P&L
+Profit before tax,FY2023,1870.0,Cr,"1,870",Godrej,P&L
+Profit before tax,FY2024,1285.0,Cr,"1,285",Godrej,P&L
+Profit before tax,FY2025,2016.0,Cr,"2,016",Godrej,P&L
+Profit before tax,FY2026,2022.0,Cr,"2,022",Godrej,P&L
+Tax %,FY2015,21.0,%,21%,Godrej,P&L
+Tax %,FY2016,24.0,%,24%,Godrej,P&L
+Tax %,FY2017,23.0,%,23%,Godrej,P&L
+Tax %,FY2018,22.0,%,22%,Godrej,P&L
+Tax %,FY2019,-19.0,%,-19%,Godrej,P&L
+Tax %,FY2020,16.0,%,16%,Godrej,P&L
+Tax %,FY2021,23.0,%,23%,Godrej,P&L
+Tax %,FY2022,16.0,%,16%,Godrej,P&L
+Tax %,FY2023,19.0,%,19%,Godrej,P&L
+Tax %,FY2024,50.0,%,50%,Godrej,P&L
+Tax %,FY2025,33.0,%,33%,Godrej,P&L
+Tax %,FY2026,25.0,%,25%,Godrej,P&L
+Net Profit,FY2015,654.0,Cr,654,Godrej,P&L
+Net Profit,FY2016,723.0,Cr,723,Godrej,P&L
+Net Profit,FY2017,848.0,Cr,848,Godrej,P&L
+Net Profit,FY2018,1000.0,Cr,"1,000",Godrej,P&L
+Net Profit,FY2019,1755.0,Cr,"1,755",Godrej,P&L
+Net Profit,FY2020,1180.0,Cr,"1,180",Godrej,P&L
+Net Profit,FY2021,1224.0,Cr,"1,224",Godrej,P&L
+Net Profit,FY2022,1479.0,Cr,"1,479",Godrej,P&L
+Net Profit,FY2023,1514.0,Cr,"1,514",Godrej,P&L
+Net Profit,FY2024,647.0,Cr,647,Godrej,P&L
+Net Profit,FY2025,1351.0,Cr,"1,351",Godrej,P&L
+Net Profit,FY2026,1516.0,Cr,"1,516",Godrej,P&L
+EPS in Rs,FY2015,6.41,Rs,6.41,Godrej,P&L
+EPS in Rs,FY2016,7.07,Rs,7.07,Godrej,P&L
+EPS in Rs,FY2017,8.3,Rs,8.30,Godrej,P&L
+EPS in Rs,FY2018,9.78,Rs,9.78,Godrej,P&L
+EPS in Rs,FY2019,17.17,Rs,17.17,Godrej,P&L
+EPS in Rs,FY2020,11.54,Rs,11.54,Godrej,P&L
+EPS in Rs,FY2021,11.97,Rs,11.97,Godrej,P&L
+EPS in Rs,FY2022,14.46,Rs,14.46,Godrej,P&L
+EPS in Rs,FY2023,14.8,Rs,14.80,Godrej,P&L
+EPS in Rs,FY2024,6.33,Rs,6.33,Godrej,P&L
+EPS in Rs,FY2025,13.2,Rs,13.20,Godrej,P&L
+EPS in Rs,FY2026,14.81,Rs,14.81,Godrej,P&L
+Dividend Payout %,FY2015,29.0,%,29%,Godrej,P&L
+Dividend Payout %,FY2016,27.0,%,27%,Godrej,P&L
+Dividend Payout %,FY2017,60.0,%,60%,Godrej,P&L
+Dividend Payout %,FY2018,68.0,%,68%,Godrej,P&L
+Dividend Payout %,FY2019,58.0,%,58%,Godrej,P&L
+Dividend Payout %,FY2020,69.0,%,69%,Godrej,P&L
+Dividend Payout %,FY2021,-0.0,%,-0%,Godrej,P&L
+Dividend Payout %,FY2022,-0.0,%,-0%,Godrej,P&L
+Dividend Payout %,FY2023,-0.0,%,-0%,Godrej,P&L
+Dividend Payout %,FY2024,237.0,%,237%,Godrej,P&L
+Dividend Payout %,FY2025,189.0,%,189%,Godrej,P&L
+Dividend Payout %,FY2026,135.0,%,135%,Godrej,P&L
+Equity Capital,FY2015,34.0,Cr,34,Godrej,BalanceSheet
+Equity Capital,FY2016,34.0,Cr,34,Godrej,BalanceSheet
+Equity Capital,FY2017,34.0,Cr,34,Godrej,BalanceSheet
+Equity Capital,FY2018,68.0,Cr,68,Godrej,BalanceSheet
+Equity Capital,FY2019,102.0,Cr,102,Godrej,BalanceSheet
+Equity Capital,FY2020,102.0,Cr,102,Godrej,BalanceSheet
+Equity Capital,FY2021,102.0,Cr,102,Godrej,BalanceSheet
+Equity Capital,FY2022,102.0,Cr,102,Godrej,BalanceSheet
+Equity Capital,FY2023,102.0,Cr,102,Godrej,BalanceSheet
+Equity Capital,FY2024,102.0,Cr,102,Godrej,BalanceSheet
+Equity Capital,FY2025,102.0,Cr,102,Godrej,BalanceSheet
+Equity Capital,FY2026,102.0,Cr,102,Godrej,BalanceSheet
+Reserves,FY2015,3349.0,Cr,"3,349",Godrej,BalanceSheet
+Reserves,FY2016,3750.0,Cr,"3,750",Godrej,BalanceSheet
+Reserves,FY2017,4340.0,Cr,"4,340",Godrej,BalanceSheet
+Reserves,FY2018,4573.0,Cr,"4,573",Godrej,BalanceSheet
+Reserves,FY2019,4824.0,Cr,"4,824",Godrej,BalanceSheet
+Reserves,FY2020,5025.0,Cr,"5,025",Godrej,BalanceSheet
+Reserves,FY2021,6257.0,Cr,"6,257",Godrej,BalanceSheet
+Reserves,FY2022,7749.0,Cr,"7,749",Godrej,BalanceSheet
+Reserves,FY2023,9284.0,Cr,"9,284",Godrej,BalanceSheet
+Reserves,FY2024,9450.0,Cr,"9,450",Godrej,BalanceSheet
+Reserves,FY2025,8263.0,Cr,"8,263",Godrej,BalanceSheet
+Reserves,FY2026,7742.0,Cr,"7,742",Godrej,BalanceSheet
+Borrowings,FY2015,261.0,Cr,261,Godrej,BalanceSheet
+Borrowings,FY2016,3.0,Cr,3,Godrej,BalanceSheet
+Borrowings,FY2017,149.0,Cr,149,Godrej,BalanceSheet
+Borrowings,FY2018,-0.0,Cr,-0,Godrej,BalanceSheet
+Borrowings,FY2019,-0.0,Cr,-0,Godrej,BalanceSheet
+Borrowings,FY2020,326.0,Cr,326,Godrej,BalanceSheet
+Borrowings,FY2021,44.0,Cr,44,Godrej,BalanceSheet
+Borrowings,FY2022,31.0,Cr,31,Godrej,BalanceSheet
+Borrowings,FY2023,66.0,Cr,66,Godrej,BalanceSheet
+Borrowings,FY2024,2009.0,Cr,"2,009",Godrej,BalanceSheet
+Borrowings,FY2025,2646.0,Cr,"2,646",Godrej,BalanceSheet
+Borrowings,FY2026,2948.0,Cr,"2,948",Godrej,BalanceSheet
+Other Liabilities,FY2015,1278.0,Cr,"1,278",Godrej,BalanceSheet
+Other Liabilities,FY2016,1339.0,Cr,"1,339",Godrej,BalanceSheet
+Other Liabilities,FY2017,1640.0,Cr,"1,640",Godrej,BalanceSheet
+Other Liabilities,FY2018,1982.0,Cr,"1,982",Godrej,BalanceSheet
+Other Liabilities,FY2019,1738.0,Cr,"1,738",Godrej,BalanceSheet
+Other Liabilities,FY2020,1487.0,Cr,"1,487",Godrej,BalanceSheet
+Other Liabilities,FY2021,1293.0,Cr,"1,293",Godrej,BalanceSheet
+Other Liabilities,FY2022,1000.0,Cr,"1,000",Godrej,BalanceSheet
+Other Liabilities,FY2023,1109.0,Cr,"1,109",Godrej,BalanceSheet
+Other Liabilities,FY2024,1427.0,Cr,"1,427",Godrej,BalanceSheet
+Other Liabilities,FY2025,2351.0,Cr,"2,351",Godrej,BalanceSheet
+Other Liabilities,FY2026,2573.0,Cr,"2,573",Godrej,BalanceSheet
+Total Liabilities,FY2015,4922.0,Cr,"4,922",Godrej,BalanceSheet
+Total Liabilities,FY2016,5126.0,Cr,"5,126",Godrej,BalanceSheet
+Total Liabilities,FY2017,6162.0,Cr,"6,162",Godrej,BalanceSheet
+Total Liabilities,FY2018,6624.0,Cr,"6,624",Godrej,BalanceSheet
+Total Liabilities,FY2019,6665.0,Cr,"6,665",Godrej,BalanceSheet
+Total Liabilities,FY2020,6941.0,Cr,"6,941",Godrej,BalanceSheet
+Total Liabilities,FY2021,7696.0,Cr,"7,696",Godrej,BalanceSheet
+Total Liabilities,FY2022,8883.0,Cr,"8,883",Godrej,BalanceSheet
+Total Liabilities,FY2023,10561.0,Cr,"10,561",Godrej,BalanceSheet
+Total Liabilities,FY2024,12988.0,Cr,"12,988",Godrej,BalanceSheet
+Total Liabilities,FY2025,13362.0,Cr,"13,362",Godrej,BalanceSheet
+Total Liabilities,FY2026,13365.0,Cr,"13,365",Godrej,BalanceSheet
+Fixed Assets,FY2015,1060.0,Cr,"1,060",Godrej,BalanceSheet
+Fixed Assets,FY2016,1284.0,Cr,"1,284",Godrej,BalanceSheet
+Fixed Assets,FY2017,1284.0,Cr,"1,284",Godrej,BalanceSheet
+Fixed Assets,FY2018,1314.0,Cr,"1,314",Godrej,BalanceSheet
+Fixed Assets,FY2019,1344.0,Cr,"1,344",Godrej,BalanceSheet
+Fixed Assets,FY2020,1365.0,Cr,"1,365",Godrej,BalanceSheet
+Fixed Assets,FY2021,1390.0,Cr,"1,390",Godrej,BalanceSheet
+Fixed Assets,FY2022,1392.0,Cr,"1,392",Godrej,BalanceSheet
+Fixed Assets,FY2023,1523.0,Cr,"1,523",Godrej,BalanceSheet
+Fixed Assets,FY2024,4316.0,Cr,"4,316",Godrej,BalanceSheet
+Fixed Assets,FY2025,4406.0,Cr,"4,406",Godrej,BalanceSheet
+Fixed Assets,FY2026,5505.0,Cr,"5,505",Godrej,BalanceSheet
+CWIP,FY2015,179.0,Cr,179,Godrej,BalanceSheet
+CWIP,FY2016,13.0,Cr,13,Godrej,BalanceSheet
+CWIP,FY2017,39.0,Cr,39,Godrej,BalanceSheet
+CWIP,FY2018,52.0,Cr,52,Godrej,BalanceSheet
+CWIP,FY2019,32.0,Cr,32,Godrej,BalanceSheet
+CWIP,FY2020,37.0,Cr,37,Godrej,BalanceSheet
+CWIP,FY2021,37.0,Cr,37,Godrej,BalanceSheet
+CWIP,FY2022,78.0,Cr,78,Godrej,BalanceSheet
+CWIP,FY2023,25.0,Cr,25,Godrej,BalanceSheet
+CWIP,FY2024,70.0,Cr,70,Godrej,BalanceSheet
+CWIP,FY2025,401.0,Cr,401,Godrej,BalanceSheet
+CWIP,FY2026,132.0,Cr,132,Godrej,BalanceSheet
+Investments,FY2015,2300.0,Cr,"2,300",Godrej,BalanceSheet
+Investments,FY2016,2612.0,Cr,"2,612",Godrej,BalanceSheet
+Investments,FY2017,3655.0,Cr,"3,655",Godrej,BalanceSheet
+Investments,FY2018,3902.0,Cr,"3,902",Godrej,BalanceSheet
+Investments,FY2019,3425.0,Cr,"3,425",Godrej,BalanceSheet
+Investments,FY2020,3593.0,Cr,"3,593",Godrej,BalanceSheet
+Investments,FY2021,4568.0,Cr,"4,568",Godrej,BalanceSheet
+Investments,FY2022,5201.0,Cr,"5,201",Godrej,BalanceSheet
+Investments,FY2023,7408.0,Cr,"7,408",Godrej,BalanceSheet
+Investments,FY2024,6764.0,Cr,"6,764",Godrej,BalanceSheet
+Investments,FY2025,6596.0,Cr,"6,596",Godrej,BalanceSheet
+Investments,FY2026,5847.0,Cr,"5,847",Godrej,BalanceSheet
+Other Assets,FY2015,1383.0,Cr,"1,383",Godrej,BalanceSheet
+Other Assets,FY2016,1217.0,Cr,"1,217",Godrej,BalanceSheet
+Other Assets,FY2017,1184.0,Cr,"1,184",Godrej,BalanceSheet
+Other Assets,FY2018,1355.0,Cr,"1,355",Godrej,BalanceSheet
+Other Assets,FY2019,1864.0,Cr,"1,864",Godrej,BalanceSheet
+Other Assets,FY2020,1945.0,Cr,"1,945",Godrej,BalanceSheet
+Other Assets,FY2021,1700.0,Cr,"1,700",Godrej,BalanceSheet
+Other Assets,FY2022,2212.0,Cr,"2,212",Godrej,BalanceSheet
+Other Assets,FY2023,1606.0,Cr,"1,606",Godrej,BalanceSheet
+Other Assets,FY2024,1838.0,Cr,"1,838",Godrej,BalanceSheet
+Other Assets,FY2025,1959.0,Cr,"1,959",Godrej,BalanceSheet
+Other Assets,FY2026,1881.0,Cr,"1,881",Godrej,BalanceSheet
+Total Assets,FY2015,4922.0,Cr,"4,922",Godrej,BalanceSheet
+Total Assets,FY2016,5126.0,Cr,"5,126",Godrej,BalanceSheet
+Total Assets,FY2017,6162.0,Cr,"6,162",Godrej,BalanceSheet
+Total Assets,FY2018,6624.0,Cr,"6,624",Godrej,BalanceSheet
+Total Assets,FY2019,6665.0,Cr,"6,665",Godrej,BalanceSheet
+Total Assets,FY2020,6941.0,Cr,"6,941",Godrej,BalanceSheet
+Total Assets,FY2021,7696.0,Cr,"7,696",Godrej,BalanceSheet
+Total Assets,FY2022,8883.0,Cr,"8,883",Godrej,BalanceSheet
+Total Assets,FY2023,10561.0,Cr,"10,561",Godrej,BalanceSheet
+Total Assets,FY2024,12988.0,Cr,"12,988",Godrej,BalanceSheet
+Total Assets,FY2025,13362.0,Cr,"13,362",Godrej,BalanceSheet
+Total Assets,FY2026,13365.0,Cr,"13,365",Godrej,BalanceSheet
+Cash from Operating Activity,FY2015,783.0,Cr,783,Godrej,CashFlow
+Cash from Operating Activity,FY2016,512.0,Cr,512,Godrej,CashFlow
+Cash from Operating Activity,FY2017,1177.0,Cr,"1,177",Godrej,CashFlow
+Cash from Operating Activity,FY2018,1235.0,Cr,"1,235",Godrej,CashFlow
+Cash from Operating Activity,FY2019,1082.0,Cr,"1,082",Godrej,CashFlow
+Cash from Operating Activity,FY2020,920.0,Cr,920,Godrej,CashFlow
+Cash from Operating Activity,FY2021,1374.0,Cr,"1,374",Godrej,CashFlow
+Cash from Operating Activity,FY2022,961.0,Cr,961,Godrej,CashFlow
+Cash from Operating Activity,FY2023,1977.0,Cr,"1,977",Godrej,CashFlow
+Cash from Operating Activity,FY2024,1823.0,Cr,"1,823",Godrej,CashFlow
+Cash from Operating Activity,FY2025,2114.0,Cr,"2,114",Godrej,CashFlow
+Cash from Operating Activity,FY2026,1791.0,Cr,"1,791",Godrej,CashFlow
+Cash from Investing Activity,FY2015,-454.0,Cr,-454,Godrej,CashFlow
+Cash from Investing Activity,FY2016,-100.0,Cr,-100,Godrej,CashFlow
+Cash from Investing Activity,FY2017,-1009.0,Cr,"-1,009",Godrej,CashFlow
+Cash from Investing Activity,FY2018,-302.0,Cr,-302,Godrej,CashFlow
+Cash from Investing Activity,FY2019,460.0,Cr,460,Godrej,CashFlow
+Cash from Investing Activity,FY2020,-191.0,Cr,-191,Godrej,CashFlow
+Cash from Investing Activity,FY2021,-1019.0,Cr,"-1,019",Godrej,CashFlow
+Cash from Investing Activity,FY2022,-968.0,Cr,-968,Godrej,CashFlow
+Cash from Investing Activity,FY2023,-2004.0,Cr,"-2,004",Godrej,CashFlow
+Cash from Investing Activity,FY2024,-2980.0,Cr,"-2,980",Godrej,CashFlow
+Cash from Investing Activity,FY2025,76.0,Cr,76,Godrej,CashFlow
+Cash from Investing Activity,FY2026,200.0,Cr,200,Godrej,CashFlow
+Cash from Financing Activity,FY2015,-309.0,Cr,-309,Godrej,CashFlow
+Cash from Financing Activity,FY2016,-542.0,Cr,-542,Godrej,CashFlow
+Cash from Financing Activity,FY2017,-121.0,Cr,-121,Godrej,CashFlow
+Cash from Financing Activity,FY2018,-935.0,Cr,-935,Godrej,CashFlow
+Cash from Financing Activity,FY2019,-1548.0,Cr,"-1,548",Godrej,CashFlow
+Cash from Financing Activity,FY2020,-745.0,Cr,-745,Godrej,CashFlow
+Cash from Financing Activity,FY2021,-356.0,Cr,-356,Godrej,CashFlow
+Cash from Financing Activity,FY2022,-20.0,Cr,-20,Godrej,CashFlow
+Cash from Financing Activity,FY2023,9.0,Cr,9,Godrej,CashFlow
+Cash from Financing Activity,FY2024,1239.0,Cr,"1,239",Godrej,CashFlow
+Cash from Financing Activity,FY2025,-2165.0,Cr,"-2,165",Godrej,CashFlow
+Cash from Financing Activity,FY2026,-2052.0,Cr,"-2,052",Godrej,CashFlow
+Net Cash Flow,FY2015,19.0,Cr,19,Godrej,CashFlow
+Net Cash Flow,FY2016,-129.0,Cr,-129,Godrej,CashFlow
+Net Cash Flow,FY2017,47.0,Cr,47,Godrej,CashFlow
+Net Cash Flow,FY2018,-2.0,Cr,-2,Godrej,CashFlow
+Net Cash Flow,FY2019,-6.0,Cr,-6,Godrej,CashFlow
+Net Cash Flow,FY2020,-16.0,Cr,-16,Godrej,CashFlow
+Net Cash Flow,FY2021,-1.0,Cr,-1,Godrej,CashFlow
+Net Cash Flow,FY2022,-28.0,Cr,-28,Godrej,CashFlow
+Net Cash Flow,FY2023,-18.0,Cr,-18,Godrej,CashFlow
+Net Cash Flow,FY2024,82.0,Cr,82,Godrej,CashFlow
+Net Cash Flow,FY2025,24.0,Cr,24,Godrej,CashFlow
+Net Cash Flow,FY2026,-62.0,Cr,-62,Godrej,CashFlow
+Free Cash Flow,FY2015,678.0,Cr,678,Godrej,CashFlow
+Free Cash Flow,FY2016,420.0,Cr,420,Godrej,CashFlow
+Free Cash Flow,FY2017,1074.0,Cr,"1,074",Godrej,CashFlow
+Free Cash Flow,FY2018,1122.0,Cr,"1,122",Godrej,CashFlow
+Free Cash Flow,FY2019,1002.0,Cr,"1,002",Godrej,CashFlow
+Free Cash Flow,FY2020,835.0,Cr,835,Godrej,CashFlow
+Free Cash Flow,FY2021,1309.0,Cr,"1,309",Godrej,CashFlow
+Free Cash Flow,FY2022,805.0,Cr,805,Godrej,CashFlow
+Free Cash Flow,FY2023,1815.0,Cr,"1,815",Godrej,CashFlow
+Free Cash Flow,FY2024,1639.0,Cr,"1,639",Godrej,CashFlow
+Free Cash Flow,FY2025,1649.0,Cr,"1,649",Godrej,CashFlow
+Free Cash Flow,FY2026,1359.0,Cr,"1,359",Godrej,CashFlow
+CFO/OP,FY2015,114.0,%,114%,Godrej,CashFlow
+CFO/OP,FY2016,71.0,%,71%,Godrej,CashFlow
+CFO/OP,FY2017,124.0,%,124%,Godrej,CashFlow
+CFO/OP,FY2018,114.0,%,114%,Godrej,CashFlow
+CFO/OP,FY2019,93.0,%,93%,Godrej,CashFlow
+CFO/OP,FY2020,82.0,%,82%,Godrej,CashFlow
+CFO/OP,FY2021,101.0,%,101%,Godrej,CashFlow
+CFO/OP,FY2022,74.0,%,74%,Godrej,CashFlow
+CFO/OP,FY2023,123.0,%,123%,Godrej,CashFlow
+CFO/OP,FY2024,94.0,%,94%,Godrej,CashFlow
+CFO/OP,FY2025,115.0,%,115%,Godrej,CashFlow
+CFO/OP,FY2026,97.0,%,97%,Godrej,CashFlow
+Sales,FY2015,1904.0,Cr,"1,904",Emami,P&L
+Sales,FY2016,2150.0,Cr,"2,150",Emami,P&L
+Sales,FY2017,2302.0,Cr,"2,302",Emami,P&L
+Sales,FY2018,2354.0,Cr,"2,354",Emami,P&L
+Sales,FY2019,2489.0,Cr,"2,489",Emami,P&L
+Sales,FY2020,2390.0,Cr,"2,390",Emami,P&L
+Sales,FY2021,2582.0,Cr,"2,582",Emami,P&L
+Sales,FY2022,2867.0,Cr,"2,867",Emami,P&L
+Sales,FY2023,2907.0,Cr,"2,907",Emami,P&L
+Sales,FY2024,2922.0,Cr,"2,922",Emami,P&L
+Sales,FY2025,3124.0,Cr,"3,124",Emami,P&L
+Sales,FY2026,3048.0,Cr,"3,048",Emami,P&L
+Expenses,FY2015,1393.0,Cr,"1,393",Emami,P&L
+Expenses,FY2016,1495.0,Cr,"1,495",Emami,P&L
+Expenses,FY2017,1562.0,Cr,"1,562",Emami,P&L
+Expenses,FY2018,1654.0,Cr,"1,654",Emami,P&L
+Expenses,FY2019,1782.0,Cr,"1,782",Emami,P&L
+Expenses,FY2020,1798.0,Cr,"1,798",Emami,P&L
+Expenses,FY2021,1738.0,Cr,"1,738",Emami,P&L
+Expenses,FY2022,1970.0,Cr,"1,970",Emami,P&L
+Expenses,FY2023,2129.0,Cr,"2,129",Emami,P&L
+Expenses,FY2024,2070.0,Cr,"2,070",Emami,P&L
+Expenses,FY2025,2186.0,Cr,"2,186",Emami,P&L
+Expenses,FY2026,2098.0,Cr,"2,098",Emami,P&L
+Operating Profit,FY2015,511.0,Cr,511,Emami,P&L
+Operating Profit,FY2016,655.0,Cr,655,Emami,P&L
+Operating Profit,FY2017,739.0,Cr,739,Emami,P&L
+Operating Profit,FY2018,700.0,Cr,700,Emami,P&L
+Operating Profit,FY2019,706.0,Cr,706,Emami,P&L
+Operating Profit,FY2020,592.0,Cr,592,Emami,P&L
+Operating Profit,FY2021,845.0,Cr,845,Emami,P&L
+Operating Profit,FY2022,897.0,Cr,897,Emami,P&L
+Operating Profit,FY2023,777.0,Cr,777,Emami,P&L
+Operating Profit,FY2024,852.0,Cr,852,Emami,P&L
+Operating Profit,FY2025,937.0,Cr,937,Emami,P&L
+Operating Profit,FY2026,950.0,Cr,950,Emami,P&L
+OPM %,FY2015,27.0,%,27%,Emami,P&L
+OPM %,FY2016,30.0,%,30%,Emami,P&L
+OPM %,FY2017,32.0,%,32%,Emami,P&L
+OPM %,FY2018,30.0,%,30%,Emami,P&L
+OPM %,FY2019,28.0,%,28%,Emami,P&L
+OPM %,FY2020,25.0,%,25%,Emami,P&L
+OPM %,FY2021,33.0,%,33%,Emami,P&L
+OPM %,FY2022,31.0,%,31%,Emami,P&L
+OPM %,FY2023,27.0,%,27%,Emami,P&L
+OPM %,FY2024,29.0,%,29%,Emami,P&L
+OPM %,FY2025,30.0,%,30%,Emami,P&L
+OPM %,FY2026,31.0,%,31%,Emami,P&L
+Other Income,FY2015,103.0,Cr,103,Emami,P&L
+Other Income,FY2016,38.0,Cr,38,Emami,P&L
+Other Income,FY2017,45.0,Cr,45,Emami,P&L
+Other Income,FY2018,28.0,Cr,28,Emami,P&L
+Other Income,FY2019,27.0,Cr,27,Emami,P&L
+Other Income,FY2020,91.0,Cr,91,Emami,P&L
+Other Income,FY2021,103.0,Cr,103,Emami,P&L
+Other Income,FY2022,123.0,Cr,123,Emami,P&L
+Other Income,FY2023,48.0,Cr,48,Emami,P&L
+Other Income,FY2024,63.0,Cr,63,Emami,P&L
+Other Income,FY2025,157.0,Cr,157,Emami,P&L
+Other Income,FY2026,108.0,Cr,108,Emami,P&L
+Interest,FY2015,5.0,Cr,5,Emami,P&L
+Interest,FY2016,54.0,Cr,54,Emami,P&L
+Interest,FY2017,58.0,Cr,58,Emami,P&L
+Interest,FY2018,33.0,Cr,33,Emami,P&L
+Interest,FY2019,19.0,Cr,19,Emami,P&L
+Interest,FY2020,19.0,Cr,19,Emami,P&L
+Interest,FY2021,12.0,Cr,12,Emami,P&L
+Interest,FY2022,3.0,Cr,3,Emami,P&L
+Interest,FY2023,4.0,Cr,4,Emami,P&L
+Interest,FY2024,2.0,Cr,2,Emami,P&L
+Interest,FY2025,2.0,Cr,2,Emami,P&L
+Interest,FY2026,2.0,Cr,2,Emami,P&L
+Depreciation,FY2015,31.0,Cr,31,Emami,P&L
+Depreciation,FY2016,252.0,Cr,252,Emami,P&L
+Depreciation,FY2017,305.0,Cr,305,Emami,P&L
+Depreciation,FY2018,305.0,Cr,305,Emami,P&L
+Depreciation,FY2019,318.0,Cr,318,Emami,P&L
+Depreciation,FY2020,326.0,Cr,326,Emami,P&L
+Depreciation,FY2021,361.0,Cr,361,Emami,P&L
+Depreciation,FY2022,328.0,Cr,328,Emami,P&L
+Depreciation,FY2023,215.0,Cr,215,Emami,P&L
+Depreciation,FY2024,167.0,Cr,167,Emami,P&L
+Depreciation,FY2025,158.0,Cr,158,Emami,P&L
+Depreciation,FY2026,156.0,Cr,156,Emami,P&L
+Profit before tax,FY2015,577.0,Cr,577,Emami,P&L
+Profit before tax,FY2016,387.0,Cr,387,Emami,P&L
+Profit before tax,FY2017,422.0,Cr,422,Emami,P&L
+Profit before tax,FY2018,389.0,Cr,389,Emami,P&L
+Profit before tax,FY2019,396.0,Cr,396,Emami,P&L
+Profit before tax,FY2020,338.0,Cr,338,Emami,P&L
+Profit before tax,FY2021,574.0,Cr,574,Emami,P&L
+Profit before tax,FY2022,689.0,Cr,689,Emami,P&L
+Profit before tax,FY2023,606.0,Cr,606,Emami,P&L
+Profit before tax,FY2024,747.0,Cr,747,Emami,P&L
+Profit before tax,FY2025,934.0,Cr,934,Emami,P&L
+Profit before tax,FY2026,901.0,Cr,901,Emami,P&L
+Tax %,FY2015,18.0,%,18%,Emami,P&L
+Tax %,FY2016,14.0,%,14%,Emami,P&L
+Tax %,FY2017,18.0,%,18%,Emami,P&L
+Tax %,FY2018,20.0,%,20%,Emami,P&L
+Tax %,FY2019,23.0,%,23%,Emami,P&L
+Tax %,FY2020,14.0,%,14%,Emami,P&L
+Tax %,FY2021,17.0,%,17%,Emami,P&L
+Tax %,FY2022,-23.0,%,-23%,Emami,P&L
+Tax %,FY2023,5.0,%,5%,Emami,P&L
+Tax %,FY2024,7.0,%,7%,Emami,P&L
+Tax %,FY2025,8.0,%,8%,Emami,P&L
+Tax %,FY2026,7.0,%,7%,Emami,P&L
+Net Profit,FY2015,472.0,Cr,472,Emami,P&L
+Net Profit,FY2016,332.0,Cr,332,Emami,P&L
+Net Profit,FY2017,346.0,Cr,346,Emami,P&L
+Net Profit,FY2018,310.0,Cr,310,Emami,P&L
+Net Profit,FY2019,305.0,Cr,305,Emami,P&L
+Net Profit,FY2020,289.0,Cr,289,Emami,P&L
+Net Profit,FY2021,475.0,Cr,475,Emami,P&L
+Net Profit,FY2022,851.0,Cr,851,Emami,P&L
+Net Profit,FY2023,574.0,Cr,574,Emami,P&L
+Net Profit,FY2024,693.0,Cr,693,Emami,P&L
+Net Profit,FY2025,859.0,Cr,859,Emami,P&L
+Net Profit,FY2026,842.0,Cr,842,Emami,P&L
+EPS in Rs,FY2015,10.39,Rs,10.39,Emami,P&L
+EPS in Rs,FY2016,7.32,Rs,7.32,Emami,P&L
+EPS in Rs,FY2017,7.63,Rs,7.63,Emami,P&L
+EPS in Rs,FY2018,6.82,Rs,6.82,Emami,P&L
+EPS in Rs,FY2019,6.72,Rs,6.72,Emami,P&L
+EPS in Rs,FY2020,6.37,Rs,6.37,Emami,P&L
+EPS in Rs,FY2021,10.69,Rs,10.69,Emami,P&L
+EPS in Rs,FY2022,19.28,Rs,19.28,Emami,P&L
+EPS in Rs,FY2023,13.0,Rs,13.00,Emami,P&L
+EPS in Rs,FY2024,15.89,Rs,15.89,Emami,P&L
+EPS in Rs,FY2025,19.68,Rs,19.68,Emami,P&L
+EPS in Rs,FY2026,19.28,Rs,19.28,Emami,P&L
+Dividend Payout %,FY2015,34.0,%,34%,Emami,P&L
+Dividend Payout %,FY2016,48.0,%,48%,Emami,P&L
+Dividend Payout %,FY2017,46.0,%,46%,Emami,P&L
+Dividend Payout %,FY2018,51.0,%,51%,Emami,P&L
+Dividend Payout %,FY2019,59.0,%,59%,Emami,P&L
+Dividend Payout %,FY2020,63.0,%,63%,Emami,P&L
+Dividend Payout %,FY2021,75.0,%,75%,Emami,P&L
+Dividend Payout %,FY2022,41.0,%,41%,Emami,P&L
+Dividend Payout %,FY2023,62.0,%,62%,Emami,P&L
+Dividend Payout %,FY2024,50.0,%,50%,Emami,P&L
+Dividend Payout %,FY2025,51.0,%,51%,Emami,P&L
+Dividend Payout %,FY2026,31.0,%,31%,Emami,P&L
+Equity Capital,FY2015,23.0,Cr,23,Emami,BalanceSheet
+Equity Capital,FY2016,23.0,Cr,23,Emami,BalanceSheet
+Equity Capital,FY2017,23.0,Cr,23,Emami,BalanceSheet
+Equity Capital,FY2018,23.0,Cr,23,Emami,BalanceSheet
+Equity Capital,FY2019,45.0,Cr,45,Emami,BalanceSheet
+Equity Capital,FY2020,45.0,Cr,45,Emami,BalanceSheet
+Equity Capital,FY2021,44.0,Cr,44,Emami,BalanceSheet
+Equity Capital,FY2022,44.0,Cr,44,Emami,BalanceSheet
+Equity Capital,FY2023,44.0,Cr,44,Emami,BalanceSheet
+Equity Capital,FY2024,44.0,Cr,44,Emami,BalanceSheet
+Equity Capital,FY2025,44.0,Cr,44,Emami,BalanceSheet
+Equity Capital,FY2026,44.0,Cr,44,Emami,BalanceSheet
+Reserves,FY2015,1189.0,Cr,"1,189",Emami,BalanceSheet
+Reserves,FY2016,1537.0,Cr,"1,537",Emami,BalanceSheet
+Reserves,FY2017,1690.0,Cr,"1,690",Emami,BalanceSheet
+Reserves,FY2018,1949.0,Cr,"1,949",Emami,BalanceSheet
+Reserves,FY2019,2019.0,Cr,"2,019",Emami,BalanceSheet
+Reserves,FY2020,1757.0,Cr,"1,757",Emami,BalanceSheet
+Reserves,FY2021,1715.0,Cr,"1,715",Emami,BalanceSheet
+Reserves,FY2022,2042.0,Cr,"2,042",Emami,BalanceSheet
+Reserves,FY2023,2220.0,Cr,"2,220",Emami,BalanceSheet
+Reserves,FY2024,2339.0,Cr,"2,339",Emami,BalanceSheet
+Reserves,FY2025,2824.0,Cr,"2,824",Emami,BalanceSheet
+Reserves,FY2026,3112.0,Cr,"3,112",Emami,BalanceSheet
+Borrowings,FY2015,24.0,Cr,24,Emami,BalanceSheet
+Borrowings,FY2016,660.0,Cr,660,Emami,BalanceSheet
+Borrowings,FY2017,435.0,Cr,435,Emami,BalanceSheet
+Borrowings,FY2018,279.0,Cr,279,Emami,BalanceSheet
+Borrowings,FY2019,54.0,Cr,54,Emami,BalanceSheet
+Borrowings,FY2020,158.0,Cr,158,Emami,BalanceSheet
+Borrowings,FY2021,47.0,Cr,47,Emami,BalanceSheet
+Borrowings,FY2022,224.0,Cr,224,Emami,BalanceSheet
+Borrowings,FY2023,21.0,Cr,21,Emami,BalanceSheet
+Borrowings,FY2024,22.0,Cr,22,Emami,BalanceSheet
+Borrowings,FY2025,14.0,Cr,14,Emami,BalanceSheet
+Borrowings,FY2026,92.0,Cr,92,Emami,BalanceSheet
+Other Liabilities,FY2015,320.0,Cr,320,Emami,BalanceSheet
+Other Liabilities,FY2016,312.0,Cr,312,Emami,BalanceSheet
+Other Liabilities,FY2017,294.0,Cr,294,Emami,BalanceSheet
+Other Liabilities,FY2018,347.0,Cr,347,Emami,BalanceSheet
+Other Liabilities,FY2019,464.0,Cr,464,Emami,BalanceSheet
+Other Liabilities,FY2020,475.0,Cr,475,Emami,BalanceSheet
+Other Liabilities,FY2021,498.0,Cr,498,Emami,BalanceSheet
+Other Liabilities,FY2022,516.0,Cr,516,Emami,BalanceSheet
+Other Liabilities,FY2023,467.0,Cr,467,Emami,BalanceSheet
+Other Liabilities,FY2024,441.0,Cr,441,Emami,BalanceSheet
+Other Liabilities,FY2025,503.0,Cr,503,Emami,BalanceSheet
+Other Liabilities,FY2026,478.0,Cr,478,Emami,BalanceSheet
+Total Liabilities,FY2015,1556.0,Cr,"1,556",Emami,BalanceSheet
+Total Liabilities,FY2016,2532.0,Cr,"2,532",Emami,BalanceSheet
+Total Liabilities,FY2017,2441.0,Cr,"2,441",Emami,BalanceSheet
+Total Liabilities,FY2018,2598.0,Cr,"2,598",Emami,BalanceSheet
+Total Liabilities,FY2019,2583.0,Cr,"2,583",Emami,BalanceSheet
+Total Liabilities,FY2020,2435.0,Cr,"2,435",Emami,BalanceSheet
+Total Liabilities,FY2021,2304.0,Cr,"2,304",Emami,BalanceSheet
+Total Liabilities,FY2022,2826.0,Cr,"2,826",Emami,BalanceSheet
+Total Liabilities,FY2023,2751.0,Cr,"2,751",Emami,BalanceSheet
+Total Liabilities,FY2024,2847.0,Cr,"2,847",Emami,BalanceSheet
+Total Liabilities,FY2025,3384.0,Cr,"3,384",Emami,BalanceSheet
+Total Liabilities,FY2026,3726.0,Cr,"3,726",Emami,BalanceSheet
+Fixed Assets,FY2015,424.0,Cr,424,Emami,BalanceSheet
+Fixed Assets,FY2016,1894.0,Cr,"1,894",Emami,BalanceSheet
+Fixed Assets,FY2017,1952.0,Cr,"1,952",Emami,BalanceSheet
+Fixed Assets,FY2018,1763.0,Cr,"1,763",Emami,BalanceSheet
+Fixed Assets,FY2019,1643.0,Cr,"1,643",Emami,BalanceSheet
+Fixed Assets,FY2020,1422.0,Cr,"1,422",Emami,BalanceSheet
+Fixed Assets,FY2021,1100.0,Cr,"1,100",Emami,BalanceSheet
+Fixed Assets,FY2022,1270.0,Cr,"1,270",Emami,BalanceSheet
+Fixed Assets,FY2023,1088.0,Cr,"1,088",Emami,BalanceSheet
+Fixed Assets,FY2024,960.0,Cr,960,Emami,BalanceSheet
+Fixed Assets,FY2025,840.0,Cr,840,Emami,BalanceSheet
+Fixed Assets,FY2026,749.0,Cr,749,Emami,BalanceSheet
+CWIP,FY2015,25.0,Cr,25,Emami,BalanceSheet
+CWIP,FY2016,60.0,Cr,60,Emami,BalanceSheet
+CWIP,FY2017,20.0,Cr,20,Emami,BalanceSheet
+CWIP,FY2018,30.0,Cr,30,Emami,BalanceSheet
+CWIP,FY2019,36.0,Cr,36,Emami,BalanceSheet
+CWIP,FY2020,8.0,Cr,8,Emami,BalanceSheet
+CWIP,FY2021,6.0,Cr,6,Emami,BalanceSheet
+CWIP,FY2022,3.0,Cr,3,Emami,BalanceSheet
+CWIP,FY2023,2.0,Cr,2,Emami,BalanceSheet
+CWIP,FY2024,5.0,Cr,5,Emami,BalanceSheet
+CWIP,FY2025,12.0,Cr,12,Emami,BalanceSheet
+CWIP,FY2026,1.0,Cr,1,Emami,BalanceSheet
+Investments,FY2015,502.0,Cr,502,Emami,BalanceSheet
+Investments,FY2016,95.0,Cr,95,Emami,BalanceSheet
+Investments,FY2017,128.0,Cr,128,Emami,BalanceSheet
+Investments,FY2018,315.0,Cr,315,Emami,BalanceSheet
+Investments,FY2019,187.0,Cr,187,Emami,BalanceSheet
+Investments,FY2020,161.0,Cr,161,Emami,BalanceSheet
+Investments,FY2021,264.0,Cr,264,Emami,BalanceSheet
+Investments,FY2022,361.0,Cr,361,Emami,BalanceSheet
+Investments,FY2023,392.0,Cr,392,Emami,BalanceSheet
+Investments,FY2024,560.0,Cr,560,Emami,BalanceSheet
+Investments,FY2025,995.0,Cr,995,Emami,BalanceSheet
+Investments,FY2026,1196.0,Cr,"1,196",Emami,BalanceSheet
+Other Assets,FY2015,605.0,Cr,605,Emami,BalanceSheet
+Other Assets,FY2016,482.0,Cr,482,Emami,BalanceSheet
+Other Assets,FY2017,340.0,Cr,340,Emami,BalanceSheet
+Other Assets,FY2018,489.0,Cr,489,Emami,BalanceSheet
+Other Assets,FY2019,716.0,Cr,716,Emami,BalanceSheet
+Other Assets,FY2020,844.0,Cr,844,Emami,BalanceSheet
+Other Assets,FY2021,934.0,Cr,934,Emami,BalanceSheet
+Other Assets,FY2022,1192.0,Cr,"1,192",Emami,BalanceSheet
+Other Assets,FY2023,1270.0,Cr,"1,270",Emami,BalanceSheet
+Other Assets,FY2024,1322.0,Cr,"1,322",Emami,BalanceSheet
+Other Assets,FY2025,1536.0,Cr,"1,536",Emami,BalanceSheet
+Other Assets,FY2026,1780.0,Cr,"1,780",Emami,BalanceSheet
+Total Assets,FY2015,1556.0,Cr,"1,556",Emami,BalanceSheet
+Total Assets,FY2016,2532.0,Cr,"2,532",Emami,BalanceSheet
+Total Assets,FY2017,2441.0,Cr,"2,441",Emami,BalanceSheet
+Total Assets,FY2018,2598.0,Cr,"2,598",Emami,BalanceSheet
+Total Assets,FY2019,2583.0,Cr,"2,583",Emami,BalanceSheet
+Total Assets,FY2020,2435.0,Cr,"2,435",Emami,BalanceSheet
+Total Assets,FY2021,2304.0,Cr,"2,304",Emami,BalanceSheet
+Total Assets,FY2022,2826.0,Cr,"2,826",Emami,BalanceSheet
+Total Assets,FY2023,2751.0,Cr,"2,751",Emami,BalanceSheet
+Total Assets,FY2024,2847.0,Cr,"2,847",Emami,BalanceSheet
+Total Assets,FY2025,3384.0,Cr,"3,384",Emami,BalanceSheet
+Total Assets,FY2026,3726.0,Cr,"3,726",Emami,BalanceSheet
+Cash from Operating Activity,FY2015,497.0,Cr,497,Emami,CashFlow
+Cash from Operating Activity,FY2016,534.0,Cr,534,Emami,CashFlow
+Cash from Operating Activity,FY2017,715.0,Cr,715,Emami,CashFlow
+Cash from Operating Activity,FY2018,577.0,Cr,577,Emami,CashFlow
+Cash from Operating Activity,FY2019,513.0,Cr,513,Emami,CashFlow
+Cash from Operating Activity,FY2020,546.0,Cr,546,Emami,CashFlow
+Cash from Operating Activity,FY2021,878.0,Cr,878,Emami,CashFlow
+Cash from Operating Activity,FY2022,596.0,Cr,596,Emami,CashFlow
+Cash from Operating Activity,FY2023,731.0,Cr,731,Emami,CashFlow
+Cash from Operating Activity,FY2024,740.0,Cr,740,Emami,CashFlow
+Cash from Operating Activity,FY2025,864.0,Cr,864,Emami,CashFlow
+Cash from Operating Activity,FY2026,794.0,Cr,794,Emami,CashFlow
+Cash from Investing Activity,FY2015,-217.0,Cr,-217,Emami,CashFlow
+Cash from Investing Activity,FY2016,-1294.0,Cr,"-1,294",Emami,CashFlow
+Cash from Investing Activity,FY2017,-261.0,Cr,-261,Emami,CashFlow
+Cash from Investing Activity,FY2018,-237.0,Cr,-237,Emami,CashFlow
+Cash from Investing Activity,FY2019,20.0,Cr,20,Emami,CashFlow
+Cash from Investing Activity,FY2020,-251.0,Cr,-251,Emami,CashFlow
+Cash from Investing Activity,FY2021,-200.0,Cr,-200,Emami,CashFlow
+Cash from Investing Activity,FY2022,-188.0,Cr,-188,Emami,CashFlow
+Cash from Investing Activity,FY2023,-106.0,Cr,-106,Emami,CashFlow
+Cash from Investing Activity,FY2024,-192.0,Cr,-192,Emami,CashFlow
+Cash from Investing Activity,FY2025,-465.0,Cr,-465,Emami,CashFlow
+Cash from Investing Activity,FY2026,-257.0,Cr,-257,Emami,CashFlow
+Cash from Financing Activity,FY2015,-221.0,Cr,-221,Emami,CashFlow
+Cash from Financing Activity,FY2016,511.0,Cr,511,Emami,CashFlow
+Cash from Financing Activity,FY2017,-519.0,Cr,-519,Emami,CashFlow
+Cash from Financing Activity,FY2018,-331.0,Cr,-331,Emami,CashFlow
+Cash from Financing Activity,FY2019,-434.0,Cr,-434,Emami,CashFlow
+Cash from Financing Activity,FY2020,-399.0,Cr,-399,Emami,CashFlow
+Cash from Financing Activity,FY2021,-679.0,Cr,-679,Emami,CashFlow
+Cash from Financing Activity,FY2022,-398.0,Cr,-398,Emami,CashFlow
+Cash from Financing Activity,FY2023,-612.0,Cr,-612,Emami,CashFlow
+Cash from Financing Activity,FY2024,-546.0,Cr,-546,Emami,CashFlow
+Cash from Financing Activity,FY2025,-368.0,Cr,-368,Emami,CashFlow
+Cash from Financing Activity,FY2026,-462.0,Cr,-462,Emami,CashFlow
+Net Cash Flow,FY2015,59.0,Cr,59,Emami,CashFlow
+Net Cash Flow,FY2016,-249.0,Cr,-249,Emami,CashFlow
+Net Cash Flow,FY2017,-64.0,Cr,-64,Emami,CashFlow
+Net Cash Flow,FY2018,9.0,Cr,9,Emami,CashFlow
+Net Cash Flow,FY2019,99.0,Cr,99,Emami,CashFlow
+Net Cash Flow,FY2020,-105.0,Cr,-105,Emami,CashFlow
+Net Cash Flow,FY2021,-0.0,Cr,-0,Emami,CashFlow
+Net Cash Flow,FY2022,10.0,Cr,10,Emami,CashFlow
+Net Cash Flow,FY2023,13.0,Cr,13,Emami,CashFlow
+Net Cash Flow,FY2024,1.0,Cr,1,Emami,CashFlow
+Net Cash Flow,FY2025,31.0,Cr,31,Emami,CashFlow
+Net Cash Flow,FY2026,75.0,Cr,75,Emami,CashFlow
+Free Cash Flow,FY2015,398.0,Cr,398,Emami,CashFlow
+Free Cash Flow,FY2016,410.0,Cr,410,Emami,CashFlow
+Free Cash Flow,FY2017,440.0,Cr,440,Emami,CashFlow
+Free Cash Flow,FY2018,456.0,Cr,456,Emami,CashFlow
+Free Cash Flow,FY2019,384.0,Cr,384,Emami,CashFlow
+Free Cash Flow,FY2020,403.0,Cr,403,Emami,CashFlow
+Free Cash Flow,FY2021,847.0,Cr,847,Emami,CashFlow
+Free Cash Flow,FY2022,122.0,Cr,122,Emami,CashFlow
+Free Cash Flow,FY2023,710.0,Cr,710,Emami,CashFlow
+Free Cash Flow,FY2024,713.0,Cr,713,Emami,CashFlow
+Free Cash Flow,FY2025,824.0,Cr,824,Emami,CashFlow
+Free Cash Flow,FY2026,760.0,Cr,760,Emami,CashFlow
+CFO/OP,FY2015,116.0,%,116%,Emami,CashFlow
+CFO/OP,FY2016,96.0,%,96%,Emami,CashFlow
+CFO/OP,FY2017,105.0,%,105%,Emami,CashFlow
+CFO/OP,FY2018,93.0,%,93%,Emami,CashFlow
+CFO/OP,FY2019,85.0,%,85%,Emami,CashFlow
+CFO/OP,FY2020,103.0,%,103%,Emami,CashFlow
+CFO/OP,FY2021,112.0,%,112%,Emami,CashFlow
+CFO/OP,FY2022,81.0,%,81%,Emami,CashFlow
+CFO/OP,FY2023,108.0,%,108%,Emami,CashFlow
+CFO/OP,FY2024,102.0,%,102%,Emami,CashFlow
+CFO/OP,FY2025,110.0,%,110%,Emami,CashFlow
+CFO/OP,FY2026,99.0,%,99%,Emami,CashFlow
